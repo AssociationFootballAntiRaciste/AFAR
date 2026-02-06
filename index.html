@@ -334,14 +334,25 @@
             <h2>Contact</h2>
             <p>Pour nous contacter, signaler un fait de racisme dans le football, ou témoigner.</p>
             <div class="contact-links">
-                <a href="mailto:contact.assoantiraciste@gmail.com">contact.assoantiraciste@gmail.com</a>
+                <a id="email-link" href="#" onclick="return false;">Afficher l'adresse email</a>
             </div>
+            <script>
+                (function() {
+                    var u = 'contact.assoantiraciste';
+                    var d = 'gmail.com';
+                    var link = document.getElementById('email-link');
+                    var addr = u + '@' + d;
+                    link.href = 'mailto:' + addr;
+                    link.textContent = addr;
+                    link.onclick = null;
+                })();
+            </script>
         </div>
     </div>
 
     <!-- FOOTER -->
     <footer>
-        © 2025 AFAR — Association des Footballeurs Antiracistes Loi 1901 est soutenue par des juristes dans toute la France
+        © 2025 AFAR — Association des Footballeurs Antiracistes
     </footer>
 
 </body>

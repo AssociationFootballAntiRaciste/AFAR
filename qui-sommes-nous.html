@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qui sommes-nous — AFAR</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Helvetica, Arial, sans-serif;
+            color: #1a1a1a;
+            background: #fff;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* NAV */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 24px 48px;
+            border-bottom: 1px solid #e0e0e0;
+            position: sticky;
+            top: 0;
+            background: #fff;
+            z-index: 100;
+        }
+
+        nav .logo {
+            font-size: 18px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        nav .logo a {
+            text-decoration: none;
+            color: #1a1a1a;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 32px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #1a1a1a;
+            font-size: 14px;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+
+        nav ul li a:hover {
+            text-decoration: underline;
+        }
+
+        nav ul li a.active {
+            text-decoration: underline;
+        }
+
+        /* SECTIONS */
+        section {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 80px 24px;
+        }
+
+        section h1 {
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 16px;
+            letter-spacing: -0.3px;
+        }
+
+        section h2 {
+            font-size: 22px;
+            font-weight: 700;
+            margin-bottom: 24px;
+            letter-spacing: -0.3px;
+        }
+
+        section p {
+            font-size: 15px;
+            color: #333;
+            margin-bottom: 16px;
+            line-height: 1.7;
+        }
+
+        .intro-text {
+            font-size: 17px;
+            color: #333;
+            margin-bottom: 48px;
+            line-height: 1.7;
+        }
+
+        /* DIVIDER */
+        .divider {
+            max-width: 720px;
+            margin: 0 auto;
+            border: none;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        /* TEAM MEMBERS */
+        .team-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+        }
+
+        .team-member {
+            padding: 28px 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .team-member:first-child {
+            border-top: 1px solid #eee;
+        }
+
+        .team-member .name {
+            font-size: 16px;
+            font-weight: 700;
+            margin-bottom: 2px;
+        }
+
+        .team-member .role {
+            font-size: 14px;
+            font-weight: 600;
+            color: #666;
+            margin-bottom: 8px;
+        }
+
+        .team-member .bio {
+            font-size: 14px;
+            color: #444;
+            line-height: 1.6;
+        }
+
+        /* NOTE FINALE */
+        .closing-note {
+            margin-top: 48px;
+        }
+
+        .closing-note p {
+            font-size: 14px;
+            color: #666;
+            line-height: 1.7;
+        }
+
+        /* FOOTER */
+        footer {
+            padding: 32px 48px;
+            border-top: 1px solid #e0e0e0;
+            font-size: 13px;
+            color: #999;
+            text-align: center;
+        }
+
+        /* RESPONSIVE */
+        @media (max-width: 600px) {
+            nav {
+                padding: 16px 20px;
+            }
+            nav ul {
+                gap: 16px;
+            }
+            section {
+                padding: 48px 20px;
+            }
+            section h1 {
+                font-size: 26px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- NAVIGATION -->
+    <nav>
+        <div class="logo"><a href="index.html">AFAR</a></div>
+        <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="qui-sommes-nous.html" class="active">Qui sommes-nous</a></li>
+        </ul>
+    </nav>
+
+    <!-- CONTENU -->
+    <section>
+        <h1>Qui sommes-nous</h1>
+        <p class="intro-text">L'AFAR réunit des personnalités du football, de l'entreprise et de la société civile autour d'un objectif commun : agir contre le racisme dans le football.</p>
+
+        <h2>Le bureau</h2>
+
+        <div class="team-list">
+
+            <div class="team-member">
+                <div class="name">Rogyata Bane</div>
+                <div class="role">Présidente</div>
+                <div class="bio">Dirige le cabinet DEI Conseil. Porte la stratégie et la vision de l'association.</div>
+            </div>
+
+            <div class="team-member">
+                <div class="name">Vikash Dhorassoo</div>
+                <div class="role">Vice-président</div>
+                <div class="bio">Ancien footballeur professionnel et entraîneur. Apporte son expérience du terrain et sa notoriété.</div>
+            </div>
+
+            <div class="team-member">
+                <div class="name">Mohamed Assi</div>
+                <div class="role">Vice-président</div>
+                <div class="bio">Entrepreneur. Contribue au développement et à la coordination des actions.</div>
+            </div>
+
+            <div class="team-member">
+                <div class="name">Rémi Courtemanche</div>
+                <div class="role">Trésorier</div>
+                <div class="bio">Assure la gestion financière et le suivi des ressources.</div>
+            </div>
+
+            <div class="team-member">
+                <div class="name">Jérôme Yager</div>
+                <div class="role">Rédacteur</div>
+                <div class="bio">Ancien journaliste. Rédige les courriers et documents, contribue à la stratégie de l'AFAR.</div>
+            </div>
+
+        </div>
+
+        <div class="closing-note">
+            <p>L'AFAR s'entoure d'experts et de personnalités engagées contre le racisme dans le football. Un cercle de réflexion et d'action est en cours de structuration.</p>
+        </div>
+
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        © 2025 AFAR — Association des Footballeurs Antiracistes
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AFAR — Association des Footballeurs Antiracistes</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Helvetica, Arial, sans-serif;
+            color: #1a1a1a;
+            background: #fff;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* NAV */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 24px 48px;
+            border-bottom: 1px solid #e0e0e0;
+            position: sticky;
+            top: 0;
+            background: #fff;
+            z-index: 100;
+        }
+
+        nav .logo {
+            font-size: 18px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 32px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #1a1a1a;
+            font-size: 14px;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+
+        nav ul li a:hover {
+            text-decoration: underline;
+        }
+
+        /* SECTIONS */
+        section {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 80px 24px;
+        }
+
+        /* HERO */
+        .hero {
+            padding: 120px 24px 100px;
+            max-width: 720px;
+            margin: 0 auto;
+        }
+
+        .hero h1 {
+            font-size: 42px;
+            font-weight: 700;
+            line-height: 1.15;
+            margin-bottom: 8px;
+            letter-spacing: -0.5px;
+        }
+
+        .hero .acronym {
+            font-size: 15px;
+            font-weight: 400;
+            color: #666;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            margin-bottom: 32px;
+        }
+
+        .hero .tagline {
+            font-size: 20px;
+            font-weight: 400;
+            color: #333;
+            margin-bottom: 16px;
+            line-height: 1.5;
+        }
+
+        .hero .scope {
+            font-size: 15px;
+            color: #666;
+            margin-bottom: 40px;
+        }
+
+        .btn-contact {
+            display: inline-block;
+            padding: 14px 32px;
+            background: #1a1a1a;
+            color: #fff;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            transition: background 0.2s;
+        }
+
+        .btn-contact:hover {
+            background: #333;
+        }
+
+        /* DIVIDER */
+        .divider {
+            max-width: 720px;
+            margin: 0 auto;
+            border: none;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        /* SECTION TITLES */
+        section h2 {
+            font-size: 22px;
+            font-weight: 700;
+            margin-bottom: 24px;
+            letter-spacing: -0.3px;
+        }
+
+        section h3 {
+            font-size: 16px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            margin-top: 24px;
+        }
+
+        section p {
+            font-size: 15px;
+            color: #333;
+            margin-bottom: 16px;
+            line-height: 1.7;
+        }
+
+        section p:last-child {
+            margin-bottom: 0;
+        }
+
+        /* MISSION LIST - kept minimal */
+        .mission-block {
+            margin-top: 24px;
+        }
+
+        .mission-item {
+            padding: 16px 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .mission-item:first-child {
+            border-top: 1px solid #eee;
+        }
+
+        .mission-item strong {
+            font-size: 15px;
+            font-weight: 600;
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        .mission-item span {
+            font-size: 14px;
+            color: #555;
+        }
+
+        /* ORIGIN */
+        .origin-date {
+            font-size: 13px;
+            color: #999;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 16px;
+        }
+
+        /* CONTACT SECTION */
+        .contact-section {
+            background: #f7f7f7;
+            max-width: 100%;
+            padding: 64px 24px;
+        }
+
+        .contact-inner {
+            max-width: 720px;
+            margin: 0 auto;
+        }
+
+        .contact-inner h2 {
+            font-size: 22px;
+            font-weight: 700;
+            margin-bottom: 16px;
+        }
+
+        .contact-inner p {
+            font-size: 15px;
+            color: #333;
+            margin-bottom: 24px;
+        }
+
+        .contact-links {
+            display: flex;
+            gap: 24px;
+            flex-wrap: wrap;
+        }
+
+        .contact-links a {
+            font-size: 14px;
+            color: #1a1a1a;
+            text-decoration: underline;
+            font-weight: 500;
+        }
+
+        /* FOOTER */
+        footer {
+            padding: 32px 48px;
+            border-top: 1px solid #e0e0e0;
+            font-size: 13px;
+            color: #999;
+            text-align: center;
+        }
+
+        /* RESPONSIVE */
+        @media (max-width: 600px) {
+            nav {
+                padding: 16px 20px;
+            }
+            nav ul {
+                gap: 16px;
+            }
+            .hero {
+                padding: 80px 20px 60px;
+            }
+            .hero h1 {
+                font-size: 30px;
+            }
+            section {
+                padding: 48px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- NAVIGATION -->
+    <nav>
+        <div class="logo">AFAR</div>
+        <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="qui-sommes-nous.html">Qui sommes-nous</a></li>
+        </ul>
+    </nav>
+
+    <!-- HERO — au-dessus de la ligne de flottaison -->
+    <div class="hero">
+        <h1>Association des Footballeurs<br>Antiracistes</h1>
+        <div class="acronym">AFAR</div>
+        <p class="tagline">Lutter contre le racisme dans le football.</p>
+        <p class="scope">Football professionnel et amateur. Association indépendante.</p>
+        <a href="#contact" class="btn-contact">Nous contacter</a>
+    </div>
+
+    <hr class="divider">
+
+    <!-- RAISON D'ÊTRE ET MISSION -->
+    <section>
+        <h2>Raison d'être</h2>
+        <p>Combattre le racisme dans le football. Défendre un environnement sportif respectueux et responsable.</p>
+        <p>L'AFAR identifie et dénonce les faits de racisme, interpelle les acteurs et les instances du football, et porte une parole publique structurée sur le racisme dans le sport.</p>
+
+        <div class="mission-block">
+            <div class="mission-item">
+                <strong>Égalité de traitement</strong>
+                <span>Chaque joueur, chaque joueuse, chaque personne impliquée dans le football doit être traitée avec la même dignité.</span>
+            </div>
+            <div class="mission-item">
+                <strong>Refus de la banalisation</strong>
+                <span>Aucun acte raciste ne doit être minimisé, relativisé ou traité comme un incident isolé.</span>
+            </div>
+            <div class="mission-item">
+                <strong>Responsabilité collective et institutionnelle</strong>
+                <span>La lutte contre le racisme ne relève pas des seules victimes. Elle engage les clubs, les instances, les joueurs et le public.</span>
+            </div>
+            <div class="mission-item">
+                <strong>Des actes, pas des déclarations</strong>
+                <span>L'AFAR distingue les discours d'intention des actions concrètes, observables et mesurables.</span>
+            </div>
+        </div>
+    </section>
+
+    <hr class="divider">
+
+    <!-- NOS ACTIONS -->
+    <section>
+        <h2>Nos actions</h2>
+
+        <h3>Sensibiliser</h3>
+        <p>Expositions et actions de sensibilisation. Un cahier de doléances en ligne — « Racontez-nous » — pour recueillir les témoignages. Chaque année, un joueur en activité parraine l'une de nos actions.</p>
+
+        <h3>Défendre</h3>
+        <p>Accompagnement des victimes. Veille sur l'application des textes existants. Pression sur le législateur pour faire progresser les réglementations. Réseau de collaborations avec d'autres associations.</p>
+
+        <h3>Structurer</h3>
+        <p>Une charte proposée aux clubs, prévoyant des engagements concrets : formation des recruteurs contre les discriminations, politique de tolérance zéro pour les actes racistes, dispositif d'alerte, plan de formation ambitieux pour l'évolution de tous les profils.</p>
+    </section>
+
+    <hr class="divider">
+
+    <!-- ORIGINE ET CONTEXTE -->
+    <section>
+        <h2>Origine</h2>
+        <p class="origin-date">Mai 2023</p>
+        <p>L'idée de créer l'AFAR est née après une attaque raciste visant un joueur professionnel lors d'un match en Espagne. Des cris de singe ont été proférés par plusieurs spectateurs. Le joueur était seul à réagir.</p>
+        <p>Le constat est simple : le problème n'est pas l'acte isolé. Le problème est l'absence de réponse collective, claire et institutionnelle.</p>
+        <p>L'AFAR est née de ce refus : refus de l'inaction, refus de la banalisation, nécessité d'une prise de parole publique structurée et validée par une instance.</p>
+    </section>
+
+    <!-- CONTACT -->
+    <div class="contact-section" id="contact">
+        <div class="contact-inner">
+            <h2>Contact</h2>
+            <p>Pour nous contacter, signaler un fait de racisme dans le football, ou témoigner.</p>
+            <div class="contact-links">
+                <a href="mailto:contact@afar-football.org">contact@afar-football.org</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer>
+        © 2025 AFAR — Association des Footballeurs Antiracistes
+    </footer>
+
+</body>
+</html>

@@ -37,6 +37,14 @@
             font-weight: 700;
             letter-spacing: 2px;
             text-transform: uppercase;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        nav .logo-img {
+            height: 36px;
+            width: auto;
         }
 
         nav ul {
@@ -72,6 +80,7 @@
         }
 
         .hero h1 {
+            font-family: Georgia, 'Times New Roman', serif;
             font-size: 42px;
             font-weight: 700;
             line-height: 1.15;
@@ -105,17 +114,18 @@
         .btn-contact {
             display: inline-block;
             padding: 14px 32px;
-            background: #1a1a1a;
+            background: #c0392b;
             color: #fff;
             text-decoration: none;
             font-size: 14px;
             font-weight: 600;
             letter-spacing: 0.5px;
+            border-radius: 4px;
             transition: background 0.2s;
         }
 
         .btn-contact:hover {
-            background: #333;
+            background: #a93226;
         }
 
         /* DIVIDER */
@@ -128,6 +138,7 @@
 
         /* SECTION TITLES */
         section h2 {
+            font-family: Georgia, 'Times New Roman', serif;
             font-size: 22px;
             font-weight: 700;
             margin-bottom: 24px;
@@ -135,6 +146,7 @@
         }
 
         section h3 {
+            font-family: Georgia, 'Times New Roman', serif;
             font-size: 16px;
             font-weight: 700;
             margin-bottom: 8px;
@@ -200,6 +212,7 @@
         }
 
         .contact-inner h2 {
+            font-family: Georgia, 'Times New Roman', serif;
             font-size: 22px;
             font-weight: 700;
             margin-bottom: 16px;
@@ -257,7 +270,10 @@
 
     <!-- NAVIGATION -->
     <nav>
-        <div class="logo">AFAR</div>
+        <div class="logo">
+            <img src="logo.png" alt="AFAR" class="logo-img">
+            AFAR
+        </div>
         <ul>
             <li><a href="index.html">Accueil</a></li>
             <li><a href="qui-sommes-nous.html">Qui sommes-nous</a></li>
@@ -270,7 +286,7 @@
         <div class="acronym">AFAR</div>
         <p class="tagline">Lutter contre le racisme dans le football.</p>
         <p class="scope">Football professionnel et amateur. Association indépendante.</p>
-        <a href="#contact" class="btn-contact">Nous contacter</a>
+        <a href="#contact" class="btn-contact">Nous alerter</a>
     </div>
 
     <hr class="divider">

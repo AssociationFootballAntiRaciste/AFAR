@@ -1,74 +1,73 @@
 # Site AFAR — Association des Footballeurs Antiracistes
 
-Site statique HTML/CSS/JS — destiné à GitHub Pages. **Production-ready.**
+Site statique HTML/CSS/JS — destiné à GitHub Pages. **Prêt à publier.**
 
 ## Pages
 
 - `index.html` — Accueil
 - `qui-sommes-nous.html` — L'association
 - `nos-valeurs.html` — Nos valeurs
-- `notre-equipe.html` — Notre équipe
-- `charte-clubs.html` — Charte clubs
-- `charte-medias.html` — Charte médias
+- `notre-equipe.html` — Notre équipe (anonymisée par profils)
+- `charte-clubs.html` — Charte clubs (recentrée sur le racisme)
+- `charte-medias.html` — Charte médias (toutes discriminations)
 - `signataires.html` — Liste des signataires
-- `observatoire.html` — Observatoire des incidents
+- `observatoire.html` — Observatoire des incidents (compteur, comité, soutiens, événements, formulaire de signalement)
 - `actualites.html` — Publications, veille médiatique, mentions
 - `faq.html` — Questions fréquentes
 - `contact.html` — Contact et adhésion
 - `merci.html` — Page de confirmation envoi formulaire
 - `mentions-legales.html` — Mentions légales
 
-## Ce qui est déjà fonctionnel à la mise en ligne
+## Structure
 
-- **Formulaires** (3) connectés à Formspree avec honeypot anti-spam.
-- **Flux RSS Google Alerts** branché : alimente automatiquement la page d'accueil et la page actualités, et calcule le compteur d'incidents de l'observatoire.
-- **Compteur observatoire** automatisé : compte les articles racisme depuis le 1ᵉʳ janvier 2026, avec dédoublonnage par similarité de titre.
-- **Lien YouTube** : `https://youtube.com/@AFAR-Football` dans le footer et sur la page actualités.
-- **Navigation mobile**, **accordéon FAQ**, **animations scroll** : opérationnels.
+```
+afar-site/
+├── *.html          # 13 pages
+├── css/
+│   ├── style.css       # styles globaux + variables
+│   └── responsive.css  # media queries
+├── js/
+│   └── main.js         # nav mobile, FAQ, fade-in, compteur, RSS Google Alerts
+├── img/                # images (vide au lancement)
+└── docs/               # PDF téléchargeables (à ajouter : charte-clubs.pdf, charte-medias.pdf)
+```
 
-## Configuration possible (optionnel)
+## Ce qui est déjà fonctionnel
+
+- **Formspree** : les 3 formulaires (contact, adhésion, signalement) pointent vers l'identifiant `xbdqzbvy`. Honeypot anti-spam (`_gotcha`) actif sur les trois. Redirection vers `merci.html` après envoi.
+- **Typographie** : Barlow Condensed (display) et Source Serif 4 (corps) chargées depuis Google Fonts.
+- **Navigation mobile** : hamburger fonctionnel.
+- **Accordéon FAQ** : fonctionnel.
+- **Animations scroll** : fade-in via IntersectionObserver.
+- **Liens internes** : tous valides.
+
+## Ce qui reste à compléter par l'AFAR
 
 ### `js/main.js` — en haut du fichier
 
-**Compteur observatoire**
+- **`AFAR_COMPTEUR_INCIDENTS`** : nombre d'incidents recensés (laisser `null` tant que l'observatoire n'a pas démarré ; affiche `• • •`).
+- **`AFAR_RSS_FEEDS.incidents`** : URL du flux RSS Google Alerts pour la veille des incidents.
+- **`AFAR_RSS_FEEDS.mentions`** : URL du flux RSS Google Alerts pour les mentions de l'AFAR.
 
-- `AFAR_COMPTEUR_MODE` : `"auto"` (par défaut, calcul depuis le flux RSS) | `"manuel"` (forcer une valeur) | `"off"` (placeholder).
-- `AFAR_COMPTEUR_INCIDENTS` : valeur utilisée uniquement en mode `"manuel"`.
-- `AFAR_COMPTEUR_DEPUIS` : date ISO de départ (`"2026-01-01"`).
-- `AFAR_MOTS_RACISME` : liste des mots-clés pour filtrer les incidents racistes dans le flux global.
-
-**Flux RSS**
-
-- `AFAR_RSS_FEEDS.incidents` : URL Google Alerts pour la veille (déjà branchée).
-- `AFAR_RSS_FEEDS.mentions` : URL Google Alerts pour les mentions de l'AFAR (à ajouter quand l'association sera médiatisée).
-
-**Stabilité du flux**
-
-- `RSS2JSON_KEY` : si vous créez un compte gratuit sur **rss2json.com**, collez votre clé ici pour des résultats encore plus stables (10 000 requêtes/jour). Sans clé, le système utilise des proxies CORS publics en fallback (allorigins, corsproxy, codetabs).
-
-## À compléter par l'AFAR — contenu
-
-### Tout de suite
+### Contenu
 
 - **Adresse du siège social** : remplacer `[adresse à compléter]` dans `mentions-legales.html`.
+- **Chiffres clés** : remplacer les `XX` dans `index.html` par les valeurs réelles (clubs/médias signataires) au moment opportun.
 - **PDF des chartes** : déposer `charte-clubs.pdf` et `charte-medias.pdf` dans `docs/`.
+- **Logos signataires** : ajouter les logos dans `img/` puis remplacer les `[ Logo à venir ]` dans `signataires.html` et `observatoire.html`.
+- **Composition du comité scientifique** : remplacer les placeholders dans `observatoire.html`.
+- **Citations de soutien** : remplacer les `Soutien à paraître.` dans `observatoire.html`.
+- **Photos** : remplacer les placeholders `[Photo à venir]` (hero accueil) et placeholders d'événements.
 
-### Quand le contenu existe
+### Réseaux sociaux et chaîne YouTube
 
-- **Photo du hero accueil** : remplacer le placeholder `[Photo à venir]` dans `index.html`.
-- **Citations de soutien** : 3 emplacements dans `observatoire.html` (1 ancien joueur international français déjà labellisé + 2 « à venir »).
-- **Composition du comité scientifique** : 4 placeholders dans `observatoire.html`.
-- **Logos signataires** : ajouter dans `img/` puis remplacer les `[ Logo à venir ]` dans `signataires.html` et `observatoire.html`.
-- **Chiffres clés accueil** : remplacer les `XX` dans `index.html` (clubs/médias signataires) au moment opportun.
-
-### Réseaux sociaux
-
-À ajouter dans le footer de chaque page (juste avant le bouton « Adhérer ») quand les comptes existeront :
+Aucun lien réseaux sociaux n'est affiché tant que les comptes ne sont pas créés. Pour les ajouter plus tard, dans le footer de chaque page (juste avant le bouton « Adhérer ») :
 
 ```html
 <div class="social-links">
   <a href="https://twitter.com/afar_football" aria-label="X / Twitter">X</a>
   <a href="https://instagram.com/afar_football" aria-label="Instagram">Instagram</a>
+  <a href="https://linkedin.com/company/afar-football" aria-label="LinkedIn">LinkedIn</a>
 </div>
 ```
 
@@ -85,19 +84,16 @@ Site statique HTML/CSS/JS — destiné à GitHub Pages. **Production-ready.**
 
 ## Déploiement GitHub Pages
 
-1. Pousser le contenu du dossier sur la branche `main` d'un repo GitHub public.
+1. Pousser le contenu du dossier sur la branche `main` d'un repo GitHub.
 2. Activer GitHub Pages dans Settings → Pages → Source : `main` / `(root)`.
 3. Le site est accessible à `https://[user].github.io/[repo]/`.
 
 Le domaine `afar-football.fr` peut être configuré via un fichier `CNAME` à la racine.
 
-## Sécurité
+## Sécurité formulaires
 
-- **Formulaires** : honeypot anti-spam Formspree (`_gotcha`) actif sur les 3 formulaires (contact, adhésion, signalement).
-- **Données** : aucun cookie de mesure d'audience ni de traçage publicitaire. Les formulaires reposent sur Formspree.
+Honeypot anti-spam Formspree (`_gotcha`) intégré sur les 3 formulaires. Le champ est masqué visuellement et exclu de la navigation clavier (`tabindex="-1"`). Les soumissions de bots qui le remplissent sont silencieusement rejetées par Formspree.
 
-## Note sur le compteur d'incidents
+## Sécurité données
 
-Le compteur affiché sur la page d'accueil et l'observatoire est une **estimation** issue de la veille médiatique automatisée (Google Alerts). Il ne s'agit pas d'un dénombrement officiel : il dépend de la couverture médiatique des incidents et du dédoublonnage automatique. La précision du compteur reste comparable d'une période à l'autre, ce qui en fait un indicateur de tendance utile, mais sa valeur absolue doit être présentée avec la mention « estimation ».
-
-Le filtrage racisme repose sur une liste de mots-clés (`AFAR_MOTS_RACISME` dans `js/main.js`) que l'AFAR peut affiner au fil de l'expérience.
+Aucun cookie de mesure d'audience ni de traçage publicitaire. Les formulaires reposent sur Formspree (politique de confidentialité accessible sur leur site).

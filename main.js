@@ -22,13 +22,15 @@ const AFAR_COMPTEUR_INCIDENTS = null;
    Tout article publié AVANT cette date est ignoré. */
 const AFAR_COMPTEUR_DEPUIS = "2026-01-01";
 
-/* Flux RSS Google Alerts.
-   incidents : alerte « football AND France (racisme OR sexisme OR discrimination) »
-   mentions  : alerte sur le nom de l'AFAR — à créer si souhaité
+/* Veille médiatique.
+   Les articles sont collectés toutes les 3 heures par GitHub (Actions > « Veille médiatique »)
+   et enregistrés dans data/veille.json. Sources, recherches et mots-clés :
+   data/veille-config.json (modifiable sur GitHub).
 */
+const AFAR_VEILLE_URL = "data/veille.json";
 const AFAR_RSS_FEEDS = {
-  incidents: "https://www.google.fr/alerts/feeds/03171713444067796378/6197806483606134979",
-  mentions:  ""
+  incidents: AFAR_VEILLE_URL + "#incidents",
+  mentions:  AFAR_VEILLE_URL + "#mentions"
 };
 
 /* Mots-clés pour filtrer les incidents racistes UNIQUEMENT
@@ -154,6 +156,7 @@ function afficherCompteur(valeur, noteText) {
 
 /* Filtre : un article relève-t-il du racisme ? */
 function estIncidentRaciste(item) {
+  if (typeof item.raciste === "boolean") return item.raciste; // calculé par la veille
   const haystack = ((item.title || "") + " " + (item.description || "")).toLowerCase();
   return AFAR_MOTS_RACISME.some(kw => haystack.includes(kw.toLowerCase()));
 }
@@ -319,8 +322,25 @@ function parseFeedXml(xmlText) {
 }
 
 /* Récupérer et parser un flux — stratégie multi-fallback. */
+/* Lecture de la veille collectée par GitHub (même site : pas de proxy). */
+let veillePromise = null;
+async function chargerVeille() {
+  if (!veillePromise) {
+    const v = Math.floor(Date.now() / 600000); // contourne le cache toutes les 10 min
+    veillePromise = fetch(AFAR_VEILLE_URL + "?v=" + v).then(r => {
+      if (!r.ok) throw new Error("veille indisponible");
+      return r.json();
+    });
+  }
+  return veillePromise;
+}
+
 async function fetchFeed(rssUrl) {
   if (!rssUrl) return [];
+  if (rssUrl.startsWith(AFAR_VEILLE_URL + "#")) {
+    const data = await chargerVeille();
+    return (data[rssUrl.split("#")[1]] || []).map(it => ({ ...it, description: it.description || "" }));
+  }
   const cacheKey = "afar_feed_" + rssUrl;
   const cached = cacheGet(cacheKey);
   if (cached) return cached;

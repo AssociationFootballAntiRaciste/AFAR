@@ -1,0 +1,38 @@
+name: Veille médiatique
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # toutes les 3 heures
+  workflow_dispatch:          # lancement manuel : Actions > Veille médiatique > Run workflow
+  push:
+    paths:
+      - data/veille-config.json
+      - scripts/veille.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collecte des articles
+        run: python3 scripts/veille.py
+      - name: Enregistrement
+        run: |
+          git config user.name "AFAR veille"
+          git config user.email "veille@afar-football.fr"
+          git add data/veille.json
+          if git diff --cached --quiet; then echo "Rien de nouveau."; exit 0; fi
+          git commit -m "Veille médiatique : mise à jour automatique"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push

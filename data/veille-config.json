@@ -1,0 +1,99 @@
+{
+  "_lisez_moi": "Configuration de la veille AFAR. Modifiable directement sur GitHub (icône crayon). La collecte tourne toutes les 3 heures ; elle peut aussi être lancée à la main depuis l'onglet Actions > Veille médiatique > Run workflow.",
+
+  "date_depart": "2026-01-01",
+
+  "incidents": {
+    "_note": "Flux qui alimentent « Dans les médias » (racisme, sexisme, discriminations). Seuls les articles qui contiennent un mot de « mots_racisme » entrent dans le compteur.",
+    "flux_rss": [
+      "https://www.google.fr/alerts/feeds/03171713444067796378/6197806483606134979"
+    ],
+    "recherches": [
+      "racisme football",
+      "insultes racistes football",
+      "propos racistes footballeur",
+      "chants racistes stade",
+      "cris de singe football",
+      "banderole raciste football",
+      "racisme Ligue 1",
+      "racisme football amateur district",
+      "antisémitisme football",
+      "islamophobie football",
+      "homophobie football",
+      "sexisme football"
+    ]
+  },
+
+  "_note_mots": "Un article n'apparaît dans « Dans les médias » que s'il contient un « mot_football ». Il n'entre dans le compteur que s'il contient en plus un « mot_racisme » ET un « mot_incident » (cela écarte les tribunes et campagnes générales).",
+
+  "mots_football": [
+    "football", "footballeur", "footballeuse", "foot ", "foot,", "ligue 1", "ligue 2", "national 2", "national 3", "district", "fff", "lfp",
+    "match", "stade", "supporter", "ultras", "virage", "club", "joueur", "joueuse", "arbitre", "entraîneur", "coupe de france"
+  ],
+
+  "_note_discrimination": "Un article n'apparaît dans « Dans les médias » que s'il contient aussi l'un de ces termes.",
+  "mots_discrimination": [
+    "racis", "racial", "sexis", "misogyn", "homophob", "lgbt", "transphob", "discrimin", "antisémit", "antisemit", "islamophob",
+    "xénophob", "xenophob", "négrophob", "cris de singe", "cri de singe", "insultes", "injure", "haine", "violences sexuelles", "harcèlement"
+  ],
+
+  "mots_incident": [
+    "insult", "injur", "accus", "dénonce", "propos", "cri", "chant", "banderole", "tag", "geste", "salut", "huée", "huées",
+    "victime", "visé", "ciblé", "agress", "menace", "harcèlement", "message",
+    "sanction", "suspendu", "suspension", "interrompu", "arrêté", "plainte", "enquête", "signalement", "condamné", "commission de discipline", "huis clos"
+  ],
+
+  "_note_exclusions": "Articles écartés (football étranger). Un mot trouvé dans le titre ou la description, ou un nom de média dans « sources_exclues », suffit.",
+  "mots_exclus": [
+    "premier league", "angleterre", "anglais", "anglaise", "écosse", "liga ", "espagne", "espagnol", "serie a", "italie", "italien",
+    "bundesliga", "allemagne", "portugal", "pays-bas", "belgique", "belge", "luxembourg", "suisse", "québec", "montréal", "canada",
+    "brésil", "argentine", "concacaf", "guatemala", "suriname", "mls", "benfica", "real madrid", "millwall", "d1b",
+    "rugby", "basket", "handball", "volley", "hockey", "cricket"
+  ],
+  "sources_exclues": [
+    "DHnet", "L'Avenir", "Le Soir", "RTBF", "Sudinfo", "7sur7", "RTL Lëtzebuerg", "L'essentiel", "La Liberté", "24 heures", "Le Temps", "RTS",
+    "Rugbyrama", "Walfoot.be", "98.5 Montréal", "La Presse", "Radio-Canada", "TVA Sports", "Le Journal de Montréal"
+  ],
+
+  "mots_racisme": [
+    "racis", "racial", "raciaux", "raciale",
+    "négrophob", "negrophob",
+    "cri de singe", "cris de singe", "bruits de singe", "bruit de singe", "imitation de singe", "imitations de singe", "singe",
+    "banane", "bananes",
+    "couleur de peau", "xénophob", "xenophob",
+    "antisémit", "antisemit", "islamophob", "arabophob",
+    "salut nazi", "saluts nazis", "croix gammée", "svastika", "néonazi", "neonazi",
+    "suprémacis", "ségrégation",
+    "injure raciale", "injures raciales", "haine raciale", "discrimination raciale", "discriminations raciales",
+    "propos discriminatoires", "chants discriminatoires",
+    "licra", "sos racisme", "dilcrah"
+  ],
+
+  "mentions": {
+    "_note": "Recherches qui alimentent « Ils parlent de nous ». Un article trouvé n'est gardé que si son titre contient l'un des « mots_requis » (ou « AFAR » avec « foot »). Les « articles_manuels » sont toujours affichés.",
+    "mots_requis": ["footballeurs antiracistes", "football antiraciste", "histoire populaire du sport", "el khatib", "stade bauer"],
+    "recherches": [
+      "\"Association des Footballeurs Antiracistes\"",
+      "AFAR football racisme",
+      "\"histoire populaire du sport\" Tribune Saint-Ouen",
+      "Tribune stade Bauer El Khatib",
+      "\"Une histoire populaire du sport\""
+    ],
+    "articles_manuels": [
+      {
+        "title": "Un contre-Puy du Fou dans le 93 : la Seine-Saint-Denis lance trois spectacles pour raconter une autre histoire de France",
+        "link": "https://lcp.fr/actualites/un-contre-puy-du-fou-dans-le-93-la-seine-saint-denis-lance-trois-spectacles-pour",
+        "source": "LCP",
+        "pubDate": "2026-09-22T12:17:00+02:00",
+        "description": "Stéphane Troussel annonce trois spectacles historiques gratuits en 2027, dont l'un au stade Bauer de Saint-Ouen pour raconter « une histoire populaire du sport »."
+      },
+      {
+        "title": "Comment la droite réactionnaire a fait main basse sur le spectacle historique",
+        "link": "https://www.lemonde.fr/politique/article/2025/08/16/comment-la-droite-reactionnaire-a-fait-main-basse-sur-le-spectacle-historique_6630190_823448.html",
+        "source": "Le Monde",
+        "pubDate": "2025-08-16T08:00:00+02:00",
+        "description": "Enquête sur l'essor des spectacles historiques portés par la droite réactionnaire, contexte du projet Populaire."
+      }
+    ]
+  }
+}

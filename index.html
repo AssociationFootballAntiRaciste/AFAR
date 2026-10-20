@@ -1147,6 +1147,46 @@ p + p { margin-top: 0; }
   .fade-in { opacity: 1; transform: none; }
 }
 
+
+/* =========================================================
+   ARTICLE — Tribune / engagements
+   ========================================================= */
+.article-meta { font-family: var(--font-display); font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; font-size: 0.85rem; color: var(--color-muted); }
+.article-body { max-width: var(--max-width-read); }
+.article-body h2 { font-size: clamp(1.7rem, 4vw, 2.6rem); margin: var(--space-5) 0 var(--space-2); }
+.article-body h2:first-child { margin-top: 0; }
+.article-body p { font-size: 1.1rem; line-height: 1.7; margin-bottom: 1.2rem; }
+.programme { list-style: none; padding: 0; margin: var(--space-3) 0; border-top: 1px solid var(--color-line); }
+.programme li { padding: 1rem 0 1rem 1rem; border-bottom: 1px solid var(--color-line); border-left: 4px solid transparent; }
+.programme li strong { display: block; font-family: var(--font-display); text-transform: uppercase; letter-spacing: 0.03em; font-size: 1.15rem; }
+.programme li span { font-size: 0.95rem; color: var(--color-ink-soft); }
+.programme li.is-highlight { border-left-color: var(--color-accent); background: var(--color-accent-light); }
+.encadre { background: var(--color-bg-alt); border-left: 4px solid var(--color-accent); padding: var(--space-3); margin: var(--space-4) 0; }
+.encadre h3 { font-size: 1.3rem; }
+.encadre p { font-size: 1rem; }
+.engagements-liste { padding-left: 1.1em; margin: 0 0 var(--space-3); }
+.engagements-liste li { margin-bottom: 0.8rem; font-size: 1.08rem; }
+.video { margin: var(--space-3) 0 var(--space-4); }
+.video__frame { position: relative; aspect-ratio: 16 / 9; background: var(--color-ink); }
+.video__frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.video figcaption { font-size: 0.9rem; color: var(--color-muted); margin-top: 0.6rem; font-style: italic; }
+.video figcaption a, .sources a { color: var(--color-accent); text-decoration: underline; }
+.telechargement { display: flex; justify-content: space-between; align-items: center; gap: var(--space-3); flex-wrap: wrap; background: var(--color-ink); color: var(--color-white); padding: var(--space-3); margin: var(--space-4) 0; }
+.telechargement h3 { color: var(--color-white); font-size: 1.4rem; margin-bottom: 0.4rem; }
+.telechargement p { margin: 0; font-size: 0.98rem; color: rgba(255,255,255,0.78); max-width: 460px; }
+.sources { border-top: 2px solid var(--color-ink); padding-top: var(--space-2); margin-top: var(--space-4); }
+.sources h3 { font-size: 1.1rem; letter-spacing: 0.08em; }
+.sources ul { padding-left: 1.1em; }
+.sources li { font-size: 0.92rem; color: var(--color-ink-soft); margin-bottom: 0.4rem; }
+.sources__contact { font-size: 0.92rem !important; }
+/* Bloc engagement — page d'accueil */
+.engagement-une { display: grid; grid-template-columns: 1.3fr 1fr; gap: var(--space-4); align-items: center; }
+.engagement-une__date { font-family: var(--font-display); font-weight: 900; text-transform: uppercase; line-height: 0.95; font-size: clamp(2.4rem, 6vw, 4.5rem); color: var(--color-accent); }
+.engagement-une__date small { display: block; font-size: 0.4em; letter-spacing: 0.12em; color: rgba(255,255,255,0.75); margin-top: 0.6rem; }
+.engagement-une p { color: rgba(255,255,255,0.82); font-size: 1.1rem; }
+@media (max-width: 960px) { .engagement-une { grid-template-columns: 1fr; gap: var(--space-3); } }
+@media (max-width: 640px) { .telechargement { flex-direction: column; align-items: flex-start; } }
+
   </style>
   <script type="application/ld+json">
   {
@@ -1243,6 +1283,21 @@ p + p { margin-top: 0; }
       <div class="hero-actions">
         <a href="charte-clubs.html" class="btn btn--accent">Nos chartes</a>
         <a href="contact.html" class="btn btn--outline">Nous rejoindre</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- À LA UNE : ENGAGEMENT TRIBUNE -->
+  <section class="section section--dark" aria-labelledby="une-tribune" style="border-top: 6px solid var(--color-accent);">
+    <div class="container">
+      <div class="engagement-une fade-in">
+        <div>
+          <span class="eyebrow">À la une · Notre engagement</span>
+          <h2 id="une-tribune">« Tribune » avec Mohamed El Khatib</h2>
+          <p>L'AFAR s'engage dans <em>Tribune. Une histoire populaire du sport</em>, le spectacle de Mohamed El Khatib et de l'historien François Da Rocha Carneiro. Nous mobilisons des joueurs professionnels et publions un catalogue ludique et populaire.</p>
+          <p><a href="tribune-saint-ouen.html" class="btn btn--accent">Lire notre engagement</a></p>
+        </div>
+        <div class="engagement-une__date">Juin 2027<small>Stade Bauer · Saint-Ouen</small></div>
       </div>
     </div>
   </section>

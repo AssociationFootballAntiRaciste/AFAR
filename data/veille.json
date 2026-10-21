@@ -1,7 +1,7 @@
 {
- "maj": "2026-10-20T23:53:19+00:00",
+ "maj": "2026-10-21T04:48:27+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 203,
+ "compteur_racisme": 204,
  "incidents": [
   {
    "title": "\"L'école a laissé la situation perdurer\" : le fils d'une légende de la NFL victime de ...",
@@ -18,6 +18,14 @@
    "pubDate": "2026-10-20T17:23:56+00:00",
    "source": "The Times of Israël",
    "raciste": false
+  },
+  {
+   "title": "«Pas de place pour le racisme» : Pourquoi des joueurs de 5 clubs ont refusé ce geste symbolique",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRE9nS3BRYmgxcmhrZk5SSnpnNFN2Q1BLLWJIY2lkS3VVT2N5Rm1obG5scGoyWkFDUk9Pd1hnaExsRm5ycERhWkpzRWhnY2hoREtMdjE4YkJLZnlScl9zdFdLUnlDRmRLd3lhY3BmZXFJWHJIUzJNbDhlcUNFRDBHN2dzUW92TEhZVWhEUmNxaDNzMkNUNmZtRExvbnF2TXBYekNCZzN3ZE9mQ1FHa0NmalRzWkl5dmhyTXF6NXZzZ3lyZ0lBWko4eQ?oc=5",
+   "description": "",
+   "pubDate": "2026-10-20T16:17:00+00:00",
+   "source": "Zamin.uz",
+   "raciste": true
   },
   {
    "title": "Croatie : 23 personnes inculpées après des chants antisémites et pro-nazis avant un match de foot",
@@ -484,16 +492,16 @@
    "raciste": false
   },
   {
-   "title": "\"C'est l'insulte de trop\" : dans l'Yonne, un footballeur amateur décide de s'exprimer après des propos racistes",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObE9QUEFCb3BaSjNrb2xrTkQ5b2tpVjhPdXhtc3BEemFqd1JKc2JWVlJsbkNTU3RpektBLUh5T1dMSFJVMk1rNzFWMzc4X0Rldkl3enN3ZWhVeUpRVWdES3dZRllyS2d5NmJmbS1TQnZuRzR0ckhUWWtCa21YMzVDYnJsR3FTYm9PakFTVlh4UUZnOF9hd0NiVFZCTHRfMVcxNkVQYTRoTjBHcUdjUXIzTFRmemRtb1ZaU1JGMjJfQXNwSW9iODVTeDJZdGJpUFFOazBzU2FsQXZFUl9WMmdnNzFSOWJrSzM5ZDFURVlVc05mTnRzMkxGcFZLSVRJcEQ3ekZ4TERHcw?oc=5",
+   "title": "Football en Creuse : le club de Saint-Fiel dénonce des propos racistes lors d'un match à Bétête",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOa1lxcU91Rm1FR2lDaGZDTUhHUWV0SjV6MERRQlZTNWY5ZzhrdFJIdXl6YkIyeThJNXhaZGVhdTh4TVFZWEFyU0tOVjhLbkNQMmdocE1SaU1WSWgxeTlOd1ozRWdvR2dHYlJqVGc3a2Rsa0xyOXItaTRJWG5hbWxxOHlNRFM3R19ROVlIcVZxRnM5ZDZENTZFZGxVQzVyVjU1RXY5b2ZnNEZQZXFFdXpQUVE5Sm5rZld1dV9Nb3ZGclBMa3FRMklaYkU3YlZvSlBsWnFBc1dPV19wV1gtM0FjeXkxTFVLbE1sY0JXWTFWMA?oc=5",
    "description": "",
    "pubDate": "2026-09-22T07:00:00+00:00",
    "source": "ici.fr",
    "raciste": true
   },
   {
-   "title": "Football en Creuse : le club de Saint-Fiel dénonce des propos racistes lors d'un match à Bétête",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOa1lxcU91Rm1FR2lDaGZDTUhHUWV0SjV6MERRQlZTNWY5ZzhrdFJIdXl6YkIyeThJNXhaZGVhdTh4TVFZWEFyU0tOVjhLbkNQMmdocE1SaU1WSWgxeTlOd1ozRWdvR2dHYlJqVGc3a2Rsa0xyOXItaTRJWG5hbWxxOHlNRFM3R19ROVlIcVZxRnM5ZDZENTZFZGxVQzVyVjU1RXY5b2ZnNEZQZXFFdXpQUVE5Sm5rZld1dV9Nb3ZGclBMa3FRMklaYkU3YlZvSlBsWnFBc1dPV19wV1gtM0FjeXkxTFVLbE1sY0JXWTFWMA?oc=5",
+   "title": "\"C'est l'insulte de trop\" : dans l'Yonne, un footballeur amateur décide de s'exprimer après des propos racistes",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObE9QUEFCb3BaSjNrb2xrTkQ5b2tpVjhPdXhtc3BEemFqd1JKc2JWVlJsbkNTU3RpektBLUh5T1dMSFJVMk1rNzFWMzc4X0Rldkl3enN3ZWhVeUpRVWdES3dZRllyS2d5NmJmbS1TQnZuRzR0ckhUWWtCa21YMzVDYnJsR3FTYm9PakFTVlh4UUZnOF9hd0NiVFZCTHRfMVcxNkVQYTRoTjBHcUdjUXIzTFRmemRtb1ZaU1JGMjJfQXNwSW9iODVTeDJZdGJpUFFOazBzU2FsQXZFUl9WMmdnNzFSOWJrSzM5ZDFURVlVc05mTnRzMkxGcFZLSVRJcEQ3ekZ4TERHcw?oc=5",
    "description": "",
    "pubDate": "2026-09-22T07:00:00+00:00",
    "source": "ici.fr",
@@ -524,20 +532,20 @@
    "raciste": true
   },
   {
-   "title": "«Facho», «raciste» : le footballeur Estéban Lepaul ciblé par une vague d'insultes pour avoir clamé son amour de la France",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbV9YY3BBUjA5MHVWQi0xa1ZkSTc0V3hZS0t3VlNpMVdsM2xzaUtiWGNmS1Y1d2FfWkVUY3piU1prUUZFY1ByZWRlaEZfeWMxRzV2WWtaNFhpUXBtUTFEUExqVlJ3bl95c1EtWUpfMVQxVHNfeHhCdWRzUmduV1VqYWVqZTNLLW1EOExRRktRREQtVmVuWEt1VXZxWmxFaHliYmFIcjRMVFZ2NkV6aHdhOUI0TUw5T3FXVmhsVTRlRkU5YkRBT1JHM2FoN2pQb2hwRUxNc2tuMlRtQ3Q5U3htcG5HOVdHMENxX1NrNDNQdE56RWdva0t5VQ?oc=5",
-   "description": "",
-   "pubDate": "2026-09-21T07:00:00+00:00",
-   "source": "Seneweb",
-   "raciste": true
-  },
-  {
    "title": "Chants homophobes à l'encontre d'Ousmane Dembélé lors du Classique : la LFP ouvre un dossier disciplinaire après OM-PSG",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMzVlWXZRUjJuSTRTd2tMWXN0NVl1dElCaHBqSm5ld2JENGhQTjZoNjlselpZNTVzR3hhMzJPZzIySDFnNWp5dGt4cFhhRm1aQ0o5ZURUc1EzdWZZS2dyeTRfSXE0MHBmODRDcWcwQWZfVk9KNU9SMVJIQW9fZDZRcFhKazBBSzBLSWV3eHBEQU5vTWREMkZkZU1TM2dOTU80a1B2Sk5yUjVDeHY4WDFvZWtJUkdfSklNbFJNQzhMME1GeWpPa3owLWs1aU1OelRRb1MxeWROUG04dUFKdUtNM2xiOW14VjBZMWpEeUFQWm9OQXprODl2Z1hZR0U?oc=5",
    "description": "",
    "pubDate": "2026-09-21T07:00:00+00:00",
    "source": "L'Équipe",
    "raciste": false
+  },
+  {
+   "title": "«Facho», «raciste» : le footballeur Estéban Lepaul ciblé par une vague d'insultes pour avoir clamé son amour de la France",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbV9YY3BBUjA5MHVWQi0xa1ZkSTc0V3hZS0t3VlNpMVdsM2xzaUtiWGNmS1Y1d2FfWkVUY3piU1prUUZFY1ByZWRlaEZfeWMxRzV2WWtaNFhpUXBtUTFEUExqVlJ3bl95c1EtWUpfMVQxVHNfeHhCdWRzUmduV1VqYWVqZTNLLW1EOExRRktRREQtVmVuWEt1VXZxWmxFaHliYmFIcjRMVFZ2NkV6aHdhOUI0TUw5T3FXVmhsVTRlRkU5YkRBT1JHM2FoN2pQb2hwRUxNc2tuMlRtQ3Q5U3htcG5HOVdHMENxX1NrNDNQdE56RWdva0t5VQ?oc=5",
+   "description": "",
+   "pubDate": "2026-09-21T07:00:00+00:00",
+   "source": "Seneweb",
+   "raciste": true
   },
   {
    "title": "\"Il se passe des choses dans les tribunes et à l'extérieur du stade\": Govou précise sa pensée sur le racisme à Lyon",

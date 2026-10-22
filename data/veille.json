@@ -1,8 +1,24 @@
 {
- "maj": "2026-10-22T11:53:39+00:00",
+ "maj": "2026-10-22T17:11:24+00:00",
  "date_depart": "2026-01-01",
  "compteur_racisme": 205,
  "incidents": [
+  {
+   "title": "Ligue Europa : L’UEFA sanctionne l’OL après les chants homophobes de ses supporters contre l’ennemi stéphanois",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRFNCTHlFaHhRcjVTMjlJRzdrMGI5TUZKa0ZSSTJQdHNRN0dhLVhjdnZaN1hod3RPY25ESGNxeDJhc2pQZ01KM1o1cFpJOFFUQ3U2SzJUSEpBWFBLSVM5aFF5QVRlMWc1TTNDQVdyT2JFU1VvZnNLTXJyM1Z0dXZmTnZRdmt4U1BzdjZQcFhSTGs2d0NvRjJsdnlwdlZNb2xpUUtRTnFRZEJQY2gtdDNYeHJrOVpsT1ZrUmZ4ekJZZXhTcjIxSWtQd2V6bUNiVlhDTXoydEo0M3J0dnQwYzFuRHl3Rm1XRU9JWGpldHVWUGpPSUE?oc=5",
+   "description": "",
+   "pubDate": "2026-10-22T14:56:00+00:00",
+   "source": "20 Minutes",
+   "raciste": false
+  },
+  {
+   "title": "[Podcasts] La présence du jour - Elise Goldfarb, chroniqueuse : \"Le football est imperméable aux accusations de viols ! Sexiste, homophobie, dans le foot c'est un non-sujet\" - 22/10",
+   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQb3A5U1lYZm1XdjlBUllRZ2ZlVmNuRTI0cldxc3c5YW9HLTJDM1JTVGNCcUJIWU5pNENoNWpWOUhLQmJFMXlXOFRxRFFhQjgzZHlpNllDakJ2LUl3anRSSVJ5TTZRU1dMVTdUMHRSUm1KZGNnVzJQYVhyWk84eG1xY2VYZmlmV1ZNY0laQVlKX09aTXRzb1k1SnNuVmpYWWUtZVBVSzN2MTRVeUZreGpFRFhVVV9tRzFfRldLODZrWFgwTnZvc040a2VyT1Q2b0lZZjBnU1pmRHM2cTJ0QWgxa1ktSmZ3ek4zXy0wWnY5VGJpc0d0YThvYzgwVDF0QWJRVko2TkY5cXFsNmtHeVJXNXhCdU5vZmFBWC1HMld5aXZVd0E5UzU5OHNxRTg4VjBpQTNxS3dmRVdiMEltUHhYX0NWcEtneHNLcjdxc2YtOA?oc=5",
+   "description": "",
+   "pubDate": "2026-10-22T12:55:30+00:00",
+   "source": "RMC",
+   "raciste": false
+  },
   {
    "title": "\"L'école a laissé la situation perdurer\" : le fils d'une légende de la NFL victime de ...",
    "link": "https://www.ladepeche.fr/2026/10/20/lecole-a-laisse-la-situation-perdurer-le-fils-dune-legende-de-la-nfl-victime-de-harcelement-raciste-dans-une-ecole-chretienne-prestigieuse-de-13612066.php",
@@ -444,19 +460,19 @@
    "raciste": false
   },
   {
-   "title": "« Il ne faut pas le cacher » : Sidney Govou revient sur le racisme dans les stades et notamment celui de l’OL",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tZ3pWbEVKWHNUUmV1RWtXRnNSdW5yMVV1U1o4MlNuUlBUaGY5MzdjeTR4MXZqVlYzaEk2eTNPbzNKMm8tbUU2bE9LOVo4RG1rb0o0T2dnYnJQNGhqYUlvTlUzWm5VamFSd3ozM0lQM2hITWh1eGFN?oc=5",
-   "description": "",
-   "pubDate": "2026-09-24T07:00:00+00:00",
-   "source": "Yahoo Actualités",
-   "raciste": false
-  },
-  {
    "title": "Foot : « l’homophobie n’est pas une opinion », Le Mans boycotté suite à l’arrivée d’Idrissa Gueye",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaEVKZmVOd2d1VGlZRHRTYVZIbXhsSloxWE0wVkw0V19lOUJoTl92V1BST2JtclIyYVNSZWxJbDJMNjhPWTRiM1N4Sm5BZ3F3QUtROVZmSEo2d3lOV2lWWV81T242SmJyVWZlbjJ2QXlXY0N1OEJIS3U1LVRNcFBRUy01Yl9NeTlOY3MzT0RxYXZINVNHX29PVGIwTEJCRzlHbXJWYTY1REdFTktqTDhjZExXLUlNTG1IM1VfUDJvclpuTVpObmxuOQ?oc=5",
    "description": "",
    "pubDate": "2026-09-24T07:00:00+00:00",
    "source": "La Voix du Nord",
+   "raciste": false
+  },
+  {
+   "title": "« Il ne faut pas le cacher » : Sidney Govou revient sur le racisme dans les stades et notamment celui de l’OL",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tZ3pWbEVKWHNUUmV1RWtXRnNSdW5yMVV1U1o4MlNuUlBUaGY5MzdjeTR4MXZqVlYzaEk2eTNPbzNKMm8tbUU2bE9LOVo4RG1rb0o0T2dnYnJQNGhqYUlvTlUzWm5VamFSd3ozM0lQM2hITWh1eGFN?oc=5",
+   "description": "",
+   "pubDate": "2026-09-24T07:00:00+00:00",
+   "source": "Yahoo Actualités",
    "raciste": false
   },
   {
@@ -466,6 +482,14 @@
    "pubDate": "2026-09-23T07:00:00+00:00",
    "source": "La Montagne",
    "raciste": true
+  },
+  {
+   "title": "Le frère Higuaín viré de son club après des propos sexistes",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1ZfRGN3b3VKSDd5UTJBNHFQcWxvcWs4bExqNDhnME5ZODhLVUFXVkhpXy1OanFKRHNldmowcnRSLU9JTmFsWEpPN3pNM2FqY0I4ZTBUM1kwMG9tTTRuRlhIN0UtM1RrVHg1X1lzLWFUdFhSbllfWDZzQjVIX3RWbHFQMy1GeUlZVURCTkl0OXkyR3VPeXota2JDZnowNU9qTlFZRlJ2R29JVkR3c1pYME1TZkQzQQ?oc=5",
+   "description": "",
+   "pubDate": "2026-09-23T07:00:00+00:00",
+   "source": "SO FOOT.com",
+   "raciste": false
   },
   {
    "title": "“C’est un sport d’hommes”: Federico Higuain renvoyé par son club pour des propos sexistes envers une arbitre",
@@ -489,14 +513,6 @@
    "description": "",
    "pubDate": "2026-09-23T07:00:00+00:00",
    "source": "Yahoo Actualités",
-   "raciste": false
-  },
-  {
-   "title": "Le frère Higuaín viré de son club après des propos sexistes",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFY5S1FPWlZ3UGNvcktEMm9DMHd5ZUwwcWJJbzRUT2k3T3NQaEhWNDEycHVHejNRd1lJWGlXV20zWmcwRno1bndWakR0X2ZYR0c0TTR1WlotWjIxWlJadGY5bjZ6TU9mUjhKZnFfcEVMakdJLXZPRFA4ZjZjaW1GNnhCT2hXNVVGZWlzY20ycWh0VUlWYUN5MFRVZmRlMThOYWRsazJLVDZQYlgwTUVBN0dvUQ?oc=5",
-   "description": "",
-   "pubDate": "2026-09-23T07:00:00+00:00",
-   "source": "SO FOOT.com",
    "raciste": false
   },
   {

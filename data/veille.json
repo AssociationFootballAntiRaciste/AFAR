@@ -1,8 +1,16 @@
 {
- "maj": "2026-10-22T21:36:29+00:00",
+ "maj": "2026-10-23T04:50:12+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 205,
+ "compteur_racisme": 206,
  "incidents": [
+  {
+   "title": "Ligue Europa : en vidéo, l'expulsion de Mike Maignan lors du match de l'AC Milan contre ...",
+   "link": "https://www.lefigaro.fr/sports/football/ligue-europa/ligue-europe-en-video-l-expulsion-de-mike-maignan-lors-du-match-de-le-l-ac-milan-ac-contre-bournemouth-20261022",
+   "description": "Ligue 1 · Calendrier et résultats Ligue 1 · Classement Ligue 1 · Calendrier et résultats Ligue 2 · Classement Ligue 2 ... insultes racistes au gardien ...",
+   "pubDate": "2026-10-22T23:02:21+00:00",
+   "source": "lefigaro.fr",
+   "raciste": true
+  },
   {
    "title": "Ligue Europa : L’UEFA sanctionne l’OL après les chants homophobes de ses supporters contre l’ennemi stéphanois",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRFNCTHlFaHhRcjVTMjlJRzdrMGI5TUZKa0ZSSTJQdHNRN0dhLVhjdnZaN1hod3RPY25ESGNxeDJhc2pQZ01KM1o1cFpJOFFUQ3U2SzJUSEpBWFBLSVM5aFF5QVRlMWc1TTNDQVdyT2JFU1VvZnNLTXJyM1Z0dXZmTnZRdmt4U1BzdjZQcFhSTGs2d0NvRjJsdnlwdlZNb2xpUUtRTnFRZEJQY2gtdDNYeHJrOVpsT1ZrUmZ4ekJZZXhTcjIxSWtQd2V6bUNiVlhDTXoydEo0M3J0dnQwYzFuRHl3Rm1XRU9JWGpldHVWUGpPSUE?oc=5",
@@ -484,19 +492,19 @@
    "raciste": true
   },
   {
-   "title": "Le frère Higuaín viré de son club après des propos sexistes",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1ZfRGN3b3VKSDd5UTJBNHFQcWxvcWs4bExqNDhnME5ZODhLVUFXVkhpXy1OanFKRHNldmowcnRSLU9JTmFsWEpPN3pNM2FqY0I4ZTBUM1kwMG9tTTRuRlhIN0UtM1RrVHg1X1lzLWFUdFhSbllfWDZzQjVIX3RWbHFQMy1GeUlZVURCTkl0OXkyR3VPeXota2JDZnowNU9qTlFZRlJ2R29JVkR3c1pYME1TZkQzQQ?oc=5",
-   "description": "",
-   "pubDate": "2026-09-23T07:00:00+00:00",
-   "source": "SO FOOT.com",
-   "raciste": false
-  },
-  {
    "title": "“C’est un sport d’hommes”: Federico Higuain renvoyé par son club pour des propos sexistes envers une arbitre",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQelFDU21MX0NPTGpuc3g3UThmYThUSlBwRmFmWGNKaFNkMTJ1M0hUdEh1Y2RfY21jVWFwYl9PV2xmZU9pWmpTU285emtrai1FZ1k4c2lvTjdUU3RNU09OM29DQ3ZLanhMV09tODJqZmZWLU5iUHI5VzFBTGlEMEdLY05CbFd0a1RiTktFUjgydjZRUXIwTVNGSnZQM3N5QUlhMmhGcTNzUThzRnlCTkZrS0JIV1JDb1NiMzhUZlFKb0ZQT0Q1SmZPRGRWQTNTc0prTHNUVlNxemZOUWs?oc=5",
    "description": "",
    "pubDate": "2026-09-23T07:00:00+00:00",
    "source": "7sur7.be",
+   "raciste": false
+  },
+  {
+   "title": "Le frère Higuaín viré de son club après des propos sexistes",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1ZfRGN3b3VKSDd5UTJBNHFQcWxvcWs4bExqNDhnME5ZODhLVUFXVkhpXy1OanFKRHNldmowcnRSLU9JTmFsWEpPN3pNM2FqY0I4ZTBUM1kwMG9tTTRuRlhIN0UtM1RrVHg1X1lzLWFUdFhSbllfWDZzQjVIX3RWbHFQMy1GeUlZVURCTkl0OXkyR3VPeXota2JDZnowNU9qTlFZRlJ2R29JVkR3c1pYME1TZkQzQQ?oc=5",
+   "description": "",
+   "pubDate": "2026-09-23T07:00:00+00:00",
+   "source": "SO FOOT.com",
    "raciste": false
   },
   {

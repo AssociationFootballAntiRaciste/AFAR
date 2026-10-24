@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-24T04:37:36+00:00",
+ "maj": "2026-10-24T11:01:38+00:00",
  "date_depart": "2026-01-01",
  "compteur_racisme": 213,
  "incidents": [
@@ -140,6 +140,14 @@
    "raciste": true
   },
   {
+   "title": "Julien Pontes : \"Dans le foot, c'est sympathique, le folklore, mais l'homophobie, c'est un délit\"",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaE9KTUhoeHhvRTNQODNLY0pvYjgwSFpwWnBlTS12ckx3d1dDX2hveTJ6SmtlbnFUM2dHTThfSU43NkRQYnh0Q2RVNnM3MzBteEl3b1o2Q2NXd1ltd3h5MEV6bk55WEJRSzV2LUVzVkN0TGFJZ1FDN1FfRzU3Sy1EaEk2Q1BERUpPOXdqZmFYaHptU0tVTFBvSFdwNnV4VXFESGJjb0JVRzEwbkhzYk4zUWp2RjBRVEE2dTYxdlJtajVhS0phbXNjUFdUUm51OTUxbHhUTW8xWTJ6VlR5RVkyUk1LSQ?oc=5",
+   "description": "",
+   "pubDate": "2026-10-19T04:33:50+00:00",
+   "source": "Orange Actualités",
+   "raciste": false
+  },
+  {
    "title": "\"J'ai pu mesurer la différence avec le Parlement européen\", dénonce Corinne Lepage : Actualités",
    "link": "https://actu.orange.fr/videos/societe/tribune-contre-le-sexisme-j-ai-pu-mesurer-la-difference-avec-le-parlement-europeen-denonce-corinne-lepage-CNT000002sVC0V.html",
    "description": "Ligue 1 + · Bouquet Divertissement · Bouquet CINE+ OCS · Bouquet Ciné Séries ... Tribune contre le sexisme : \"J'ai pu mesurer la différence avec le ...",
@@ -188,18 +196,10 @@
    "raciste": false
   },
   {
-   "title": "Julien Pontes : \"Dans le foot, c'est sympathique, le folklore, mais l'homophobie, c'est un délit\"",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeTBER2dzOWNENEswb3BqRkQtVVZxTWQ1UFJUMC04R2w3MVdPT0VzdFFuMHVwNVltckJKUTZ4X1ZDWmJBR1J4UlFpWHJhRzIzMmR5akg2QVVUQnRMOUNlQW03bkROUUpzUm1uY3hsRTJHOTRXZWloWGotbkZHZEExQW1QNkFzaEl0TXRZMjNjVjdYSV9JbGRza2wydkliNVBjbzlsX2lhZEVhNDhHRGVmTTN4Q0ZTcjU3c0MtdVk3LXEycDhYUlVaLUJ3TTlVWGJZYlY4T2tLTTNVUUVLZl9SdHY5cWZ0bkJDRFE?oc=5",
-   "description": "",
-   "pubDate": "2026-10-16T07:07:04+00:00",
-   "source": "Orange Actualités",
-   "raciste": false
-  },
-  {
    "title": "«On se sent pris en otage» : ces supporteurs de l’OL dégoûtés par les agissements racistes au stade",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcjZUNHNacG9Ya0FubHFSanB4NEF5RndFQkNFSTZodENJX1lNV1FoWE92bkhVbUhqMFREQ2F5SkwxbFN5SDVrTHhYdnNfaU5UNmloUG4wUktSYU50d0tkNHd4RGJpY3IxTmJaOUZ1SnRNR3BPX1g5UEtwTHE5QlJDbE9TVGxDR29neU9EN3dmWkt4ZWRwdDhCX0tkeDdIdlgza09RUWRRRENzMjllWDhiNEZNZDBmUG5HS2NOd191WmVXSnZrV1BDTzU3ZXhUSFZHWlI2X2hkMWdUb1MyaWpOQTh2ME45dXg1bV9MdmQ2Tm56a2syXzZHdQ?oc=5",
    "description": "",
-   "pubDate": "2026-10-16T06:12:00+00:00",
+   "pubDate": "2026-10-16T07:00:00+00:00",
    "source": "Libération",
    "raciste": true
   },
@@ -428,19 +428,19 @@
    "raciste": true
   },
   {
-   "title": "Accusations de racisme, Flydubai, \"fin lamentable\"... La conférence de presse de l'Irlande dégénère avant le match contre Israël",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZnN5ZklYSGY3T1NYUFppNkZNVFNicXQtd0lPMzNTWkxBSXFhQTZmbEFvZEQyTjZ2S1FPdTNQT3dNV3lqYThRRE54UzJZOEI5aG9DU3hjTThUb245ZjBwVXlCSS1Pd2VWblRfR0VkWENLdHI2b2JLVDk0TGxWWHB6UUlGQjF5Mm9JTlI2N2V4d2NXU0VLMG9PX3hYTk84ZklhQ2FyNDViX3BSTGd3cERBcWZQbGZ1Qjd6aC0xa2Nfd2F2OWFsdW5va3oyLTlNNE5vWFdPYTItclZDLURxTGZPUXU0WjhISFpMcGdKRXBHbzNNRUtFTjBBcXNkRDFuWm1sa0hGR1hMOEdHNzFqRW0wZ3FUY3FYclU1dDJiUS1XcFdkdw?oc=5",
-   "description": "",
-   "pubDate": "2026-10-03T07:00:00+00:00",
-   "source": "RMC Sport",
-   "raciste": true
-  },
-  {
    "title": "« Vos joueurs ont traité les nôtres de singes » : un journaliste israélien accuse les Irlandais de racisme",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ3RWX3VIQmJFLVVWWHZwSHdRT1p6aHh1MExUVndPUFRLVFFPUWQ3U1ZjUlVpUlkyamdhTm9EcnNNSjRnZFZNLVBMb1lGS3gzRFB6Q1ZiOGdtNDgyamNNVjU0LXcwdTJ5R0RIVVY0QlhMOXZ2TVlNRWVZT0FpaVF2Z0RQWlJTSXI1WE5DOGV3UVRYVElYd1kxTG1jNE1ORWFKVE1iVlVfcGpyV2o0b2JxZi1YbGJKNW1fdGJmMmtia29iSHE3SmtocUtjQmhmNVNodFFhdDdHUDJlUkpX?oc=5",
    "description": "",
    "pubDate": "2026-10-03T07:00:00+00:00",
    "source": "Le Dauphiné Libéré",
+   "raciste": true
+  },
+  {
+   "title": "Accusations de racisme, Flydubai, \"fin lamentable\"... La conférence de presse de l'Irlande dégénère avant le match contre Israël",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZnN5ZklYSGY3T1NYUFppNkZNVFNicXQtd0lPMzNTWkxBSXFhQTZmbEFvZEQyTjZ2S1FPdTNQT3dNV3lqYThRRE54UzJZOEI5aG9DU3hjTThUb245ZjBwVXlCSS1Pd2VWblRfR0VkWENLdHI2b2JLVDk0TGxWWHB6UUlGQjF5Mm9JTlI2N2V4d2NXU0VLMG9PX3hYTk84ZklhQ2FyNDViX3BSTGd3cERBcWZQbGZ1Qjd6aC0xa2Nfd2F2OWFsdW5va3oyLTlNNE5vWFdPYTItclZDLURxTGZPUXU0WjhISFpMcGdKRXBHbzNNRUtFTjBBcXNkRDFuWm1sa0hGR1hMOEdHNzFqRW0wZ3FUY3FYclU1dDJiUS1XcFdkdw?oc=5",
+   "description": "",
+   "pubDate": "2026-10-03T07:00:00+00:00",
+   "source": "RMC Sport",
    "raciste": true
   },
   {
@@ -457,6 +457,14 @@
    "description": "",
    "pubDate": "2026-10-02T07:00:00+00:00",
    "source": "ladepeche.fr",
+   "raciste": false
+  },
+  {
+   "title": "Jürgen Klopp déplore la vague de commentaires racistes envers ses joueurs",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWkFCcXZ2MlB5MzNvWXY1THJ5UEpMalZIb0dpblROWnFvYzZVX2FaYndRVFZLVERheW82UEwzano5bHJaVjlrZmFYU2IxV1c0b2pPNHA0ZWtRR1RMdENlODZ6VTNnUGhrLVBXdGJadjRWd05kSVgyRGxOdVBhek1vWEM1SjBoeHhFU2hkMjkzX2prRTFxYlFpODJKR29jSl9Oa1oxZTZUdFBmdTFTZ3hPUWpZeXZhcEJMZlNLU21kc1hFZ2xXVmZWLXdoazQ?oc=5",
+   "description": "",
+   "pubDate": "2026-10-01T07:00:00+00:00",
+   "source": "SO FOOT.com",
    "raciste": false
   },
   {

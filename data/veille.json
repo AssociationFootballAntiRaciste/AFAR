@@ -1,8 +1,24 @@
 {
- "maj": "2026-10-24T15:57:31+00:00",
+ "maj": "2026-10-24T20:50:27+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 213,
+ "compteur_racisme": 214,
  "incidents": [
+  {
+   "title": "Quelques jours après sa blessure, Luis Enrique (PSG) assure que Khvicha Kvaratskhelia ...",
+   "link": "https://www.eurosport.fr/football/ligue-1/2026-2027/quelques-jours-apres-sa-blessure-luis-enrique-psg-assure-que-khvicha-kvaratskhelia-reviendra-plus-fort-et-dement-tout-recrutement-hivernal_sto23348758/story.shtml",
+   "description": "FootballLigue 1 . Quelques jours après sa blessure, Luis Enrique (PSG) ... L'AC Milan perd Rabiot et soutient Maignan, victime d' insultes racistes .",
+   "pubDate": "2026-10-24T18:39:25+00:00",
+   "source": "eurosport.fr",
+   "raciste": true
+  },
+  {
+   "title": "Ahmed Laaouej : Son enfance, son engagement la scolarité, son combat contre le racisme, sa passion pour le football",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3gxZF9WcTlxR0JNQ1RmOEw3VW1yd0Zza1ZZd1FLZTZrWnJUalpzb18xQ2QxSVFKd1hXTTN5NUJvd2c0NzhJLXZyM2RBbjZVTDRlaFV4VVFtLUg5b3Bpa0tjMWpWN2djTXZ3OGF1R3NPTl82M1dDa3VMeGs5aVJXRGhDZFNIQnYtdUlleExZcEF0WWkwRWRTTS02T1E1NDdjVmN2QTFLV2JGZWhRRmFYSk4xTWhhcy1tWEdNd0xxVjE2X1V0SFg0LXM1aEtRNW56Vy12b0h2SUJ3ejhEMVRj?oc=5",
+   "description": "",
+   "pubDate": "2026-10-24T18:00:00+00:00",
+   "source": "LN24",
+   "raciste": false
+  },
   {
    "title": "Clásico : Joan Garcia attend dimanche avec impatience - AfricaFootUnited",
    "link": "https://africafootunited.com/clasico-joan-garcia-attend-dimanche-avec-impatience/",

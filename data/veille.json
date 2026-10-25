@@ -1,7 +1,7 @@
 {
- "maj": "2026-10-25T11:30:54+00:00",
+ "maj": "2026-10-25T16:20:08+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 215,
+ "compteur_racisme": 216,
  "incidents": [
   {
    "title": "Au club de MMA d'Aubervilliers, la sidération après l'assassinat raciste du combattant Pengo Bossio Wangi à Trappes : «Un mec en or»",
@@ -345,6 +345,14 @@
    "description": "",
    "pubDate": "2026-10-09T07:00:00+00:00",
    "source": "Le Figaro",
+   "raciste": true
+  },
+  {
+   "title": "Un match à huis clos pour la Serbie et une amende pour des comportements «racistes et discriminatoires» en Ligue des nations",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZVpqY1VCSVJpMXNKY2F6UVBMblVaTjVLZjJPSklqT2VYSVRDS0E0SWpmWWo0Y3d0eUZCVlNXV3N1UXlHb0Z2dkVGTGhNdmlCdHk1dmQyM0Ytb3dLOHAybDJLdUdZQ0J0bV96cmNxZ1dpbHlsc3N1YWI0U1g1bDlnbzhwVlZvbXVYSzBaYnV2QXNtYWszZFVxeHBqT25MMVFmUFJuSC1oYzBQUk8yeExuZU56X2w3VDZuZUVha2U5Z3RrRERJbWpLRU82blQ1by1VOVZtSjFhNGltZmczcnRxS2szNF9mdHJnemNCTzZfMnY4WWpoNUdIRTNKN0NreHJfWmZn?oc=5",
+   "description": "",
+   "pubDate": "2026-10-09T07:00:00+00:00",
+   "source": "L'Équipe",
    "raciste": true
   },
   {

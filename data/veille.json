@@ -1,7 +1,7 @@
 {
- "maj": "2026-10-27T00:26:03+00:00",
+ "maj": "2026-10-27T09:00:28+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 218,
+ "compteur_racisme": 219,
  "incidents": [
   {
    "title": "Match de football arrêté : le club de Nantua porte plainte pour des propos racistes",
@@ -41,6 +41,14 @@
    "description": "",
    "pubDate": "2026-10-24T18:00:00+00:00",
    "source": "LN24",
+   "raciste": false
+  },
+  {
+   "title": "Attaque raciste à Trappes et La Verrière : la Ligue de football de Paris reporte les matches autour de Trappes",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPSUJfTXYwaURoUWRLd1B4QmlmX1hkbTdIb2pQQW9zQ1ZzN2VRRWtIZ1hERFZIVXA1UFltOUlfX1JuSURYM1FPRVFsM0FqWkxKeGZjQXlpN3k4S0hNWlVtX0tKQ2FqcDNkTDIydzdLbG5DVmRxcWNBaWJrR2FuOGFyWmdOeWN3STNTbVItTFQ4ZF9TZy11YTJKMG1xY1RYYmpzWnNUeFlQdy1xc2JqdFRiMzMtN0lGNzJxRmlyX2ljalNzb01CYlJqYW91NTlBQTlmaXZUYmRxb09Fd3BBNEdkaEYxZEtZeTJFNHVxbF9QcnhKcDlvWWc0ZUFfLWp6VmV5LXJGX2NHX3NuRDNkRzRXTGd0a2RwdkluNnA3R2o0TkNPR091Q3dJWg?oc=5",
+   "description": "",
+   "pubDate": "2026-10-24T08:05:49+00:00",
+   "source": "Ouest-France",
    "raciste": false
   },
   {
@@ -444,14 +452,6 @@
    "raciste": true
   },
   {
-   "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
-   "description": "",
-   "pubDate": "2026-10-05T07:00:00+00:00",
-   "source": "lanouvellerepublique.fr",
-   "raciste": false
-  },
-  {
    "title": "Football : le match U13 entre l’AS Étaples et Canche Ternoise arrêté après des propos racistes contre l’arbitre",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSm8za2JqQ3RINnNEVmVDMmdybld2QWFUWlpVdFBQOUlKQlM4YUtDYXVOUlFFUjVtdm55M0docUdyOXE2dVFyN2otYlVoSGExZHBWS1JyRjZaYUFsM3IxVjNNc3Nxb3N4QjdSWHhRZkJSNlZ1bzZ5akh3ZnhXSERZdzB1alZhYzducVhVTjdjQW1UbjdndGJaYldidHlQWkh2Z2xxc1FXVEgyNWRFUEJpTVhYNzcyNElhNEFKOXJGSUhyRHJyTUdtel9tVllVQkZk?oc=5",
    "description": "",
@@ -460,11 +460,27 @@
    "raciste": true
   },
   {
+   "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
+   "description": "",
+   "pubDate": "2026-10-05T07:00:00+00:00",
+   "source": "lanouvellerepublique.fr",
+   "raciste": false
+  },
+  {
    "title": "Foot Amateur : le District de l’Indre promet « des sanctions exemplaires » après des propos racistes en D1",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV2xlT1M5Q3J6VHp0bmtydmRuMzFBRUF1UTlsaUhveEVFNWZ1aHh6Rk43cGpNR2VfaTc4eXZVTnIxX0tGWFV3RDllUzRpQjdNN0k0ank2VmV2bTlIc0FENDhOZG1DclN1ZEs3azBWY01GaTBQVVlpQWE0Sm90czgwRnRFa1lVNloyWWJNOFFFb2pBUHVLV1VmVG0tZ29NQWR5Y1h6VzQ5NFVzWWljZG41M09JbDNjQXpJUVlQemtIRDVKYnVpeTN3OFpBMzlNU2pGc2lVYnM2Q2FmX2FWb2FTYlZnVQ?oc=5",
    "description": "",
    "pubDate": "2026-10-05T07:00:00+00:00",
    "source": "Foot National",
+   "raciste": true
+  },
+  {
+   "title": "« Singes », « Magic System » : le club de Coudekerque victime de racisme lors d’un match à Hazebrouck",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeS1NTGZHUXRXbzJ6eFo4eE1Id2l1X3RZN216U2U0UHRHUm1RMC15cklBQk5Md2NmQ19iUWdiVC1BQ0R3TC1UamNzWUhidTFtajB4V1lMTjNselVnN0dIZ0tLdzVyWlVvbFYyU005bzVrVU1YRFRuYVdfbG4taG5BWXAwbUJUb0pLLTVjMnNFdDllQnZFT25iUEM0ZlRENFJLNWRGeTFIc3lSWnFrVlVFcTVrQmZxSmZMak1EUm52cE05Q21xVmYwVzZDSkc?oc=5",
+   "description": "",
+   "pubDate": "2026-10-05T07:00:00+00:00",
+   "source": "La Voix du Nord",
    "raciste": true
   },
   {

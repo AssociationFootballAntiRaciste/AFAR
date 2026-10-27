@@ -1,8 +1,32 @@
 {
- "maj": "2026-10-27T15:21:59+00:00",
+ "maj": "2026-10-27T22:15:02+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 220,
+ "compteur_racisme": 225,
  "incidents": [
+  {
+   "title": "Football. « Nous signalons un acte de racisme »: un match de la Coupe du Monde U15 arrêté après une violente interaction",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVkthdTZXYS1NWWFrMjZta2w2Rjg0MkxhdENnNlNlOV9iOVhBb0lzTGZCaHFEMS13cE9iQ1IwcHRTYl84TC1sWS1lamxXazZVNWE1TnV2OTM1MzdLd3JYdHJFblg2NXc4OUtCTHJoak9VdEdpVk9xRkdfNFczN1ZoMmNET3l1d3IwczVtQzd3cjNoR3d0b0NSclFrX1FYLVdKYTFmTkZQaEJhc2F3TWhpdUV5enNxZXFFbFZEeTZVOXJvZzNuN1lGZ3FVY2YydG1lWjRZYlpKQXpFZnhUaF9EOUNaWXV6VVBFbWxVVU1sX3AxTlVobDFfVldCOUN1a0RITkVKaUctcF81WGZnbjFhQ1cxSzhkbVJmcE80cVFfaw?oc=5",
+   "description": "",
+   "pubDate": "2026-10-27T20:51:34+00:00",
+   "source": "Ouest-France",
+   "raciste": true
+  },
+  {
+   "title": "Ain. Insulte raciste présumée : le club de football de Nantua menace de se dissoudre",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMEJidXRSdTBRNXQtbUZGNkRjTTd0UUU1cWQzY2FNbjIyc2FGZVdNSEt4R0dndDF4SWVrRW9neW9Eck4zMVJic2w4OWZfNDdfY2plTDRfaEpwLVlMMFROLWJheEx1dVFlOXhpOHJWa01RS3BUdjk5ZFhVMERPR0VWRGtxRW9KNEtYS0prcDEzelVEb2VUb0pSZjdsdlZ2bHpQR0EyOUpwRzlyUDZINlQ3dVN5bmxZX0NqdDllVUJxbWhPMWNyY21VYjFGNzJEbGs?oc=5",
+   "description": "",
+   "pubDate": "2026-10-27T18:30:29+00:00",
+   "source": "Le Progrès",
+   "raciste": true
+  },
+  {
+   "title": "« Nous signalons un acte de racisme » : un match de Coupe du monde U15 interrompu après une altercation",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQnNZY2thbktzWGplVGZwLW9wMkxTUnNQTzFVWFBfT2hFMXVudXhGTF9NdjBWcTZLbHVOYl9BR19rdmp2LUg4RndRTlU3dDBXU0YtMUxKLUFncmFOdGdUclkzUmdlUGh3SVBXMmxpMUFaSHpYWWlvaGxhVV81cUk0bDR5TTBtV3lfcS00Y0NrbFctZE5VdzVDbXBvQm44aE5xekc3NWxMX1JRV2ZibUVBZWhjM2hJb250c0NpOXBjY1VQdnZWcnVOV1FSa00xRGVUOGRjX3ZZRE5oVURhZ3ExS2txMk5mVEZ4a0V3Z3djaFdzeU1KRzJ4YnZPMllRRkw1OHNzeW94ZnZCUS1iTHc?oc=5",
+   "description": "",
+   "pubDate": "2026-10-27T18:25:20+00:00",
+   "source": "Le Parisien",
+   "raciste": true
+  },
   {
    "title": "Son adversaire l'aurait traité de \"singe\" : l'équipe quitte le terrain après un incident raciste en plein match d'une Coupe du Monde",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUHlnYjVjSnQxM3pWQ0ZDQXVVQUJVLTQyYWxpYzViZjA3c2o1SFNDQllZYzFPSV9Nd0xkajhGZlE5azUtOVF6SkhIdkdtSFZKaW5acXhmZDdpc0w5WEdhVWdlMXEwUXphU2lXSHhhc1o1MDN3QlRKZV9scGxMakNIbzI2SWw0YjNtT2VvLWtEUEVPWnhpRjNxNDZNZWRzZnhkMlhNb2NhX0pLeGJRaFZiWm12QU9BSkozVWk0aEtIZnVxVHlYSmYzN05GSTA3LW52SWxLQUkxRG8zYVROeDJ4a0J4a0tCVVBySWFHUE5YanhwVGlaaUNlRVA5Y2h5cFBrYnN0Tw?oc=5",
@@ -20,12 +44,20 @@
    "raciste": true
   },
   {
-   "title": "Football : les MTP présent au rassemblement contre l'islamophobie et la négrophobie après l'attentat raciste de Trappes",
+   "title": "Un groupe de supporters de l'OM présent au rassemblement contre l'islamophobie et la négrophobie après l'attentat de Trappes",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQX2t2NUY3enNnS2hWM0ZpOC1ZeC1WaVZ5S2ktWkkzMHl2Y3RyY1liRTJndU9Xa1lZMFAyc1BSZThWSUx6c1VMV0FZd05VTzREWE9YZ3o4SVJteE1Nd183SWhJTUhrTEFjV01rbTJ1UGZJN05mV3czY0toVzNneWw3XzJvajZSOW5ocDBJOG5odE9NSjlCVWp5TjFLUWs2Ty05SVFFdi1PSmdldmhZd2FHRGNfU2hEbXRzVS13RDRaMmRNb1NEZWRKQ3drN21wRXJsaDRvaTNNSlZKNGtLWjF6SVJjU0IzdXBkc28wQXBoYXd5NThHM01Ha0pTMjl3cDA?oc=5",
    "description": "",
    "pubDate": "2026-10-27T10:16:09+00:00",
    "source": "La Provence",
    "raciste": false
+  },
+  {
+   "title": "Ligue 1 : victoire contre Lyon et première place pour le PSG - Yahoo! Actualités",
+   "link": "https://fr.news.yahoo.com/sport/ligue-1-victoire-contre-lyon-214132175.html",
+   "description": "Ligue 1 : victoire contre Lyon et première place pour le PSG. Alice ... insultes racistes , l'équipe quitte le terrain. il faut que ça s'arrête ...",
+   "pubDate": "2026-10-27T09:54:54+00:00",
+   "source": "fr.news.yahoo.com",
+   "raciste": true
   },
   {
    "title": "Match de football arrêté : le club de Nantua porte plainte pour des propos racistes",
@@ -420,20 +452,20 @@
    "raciste": true
   },
   {
+   "title": "Indre. Des propos racistes perturbent deux rencontres du football amateur local",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUExGY1ZKLS15N2J6YU9HMm02M0RLYWdWM0k2WUpPSkRnb2Vlek1vdUpIaWhuTHpjQUc2RkhXQTBZNW1EenVYNWo3a3RhMW9zSWxqeXpBNnRoTmdVU21WUGF4SnI0Q1VkVlRnZ3RKWGx3bzFhQlItZm9oNFVBcUFWaHFCbDQ5YjA4RzEtcHFrcGdFWVRaU3ZDTzl4b1FQbEZYTlRIM1E2UDdyd2k5Q00yQlJVLVNXWU5IbWR1cnNR?oc=5",
+   "description": "",
+   "pubDate": "2026-10-07T07:00:00+00:00",
+   "source": "echoduberry.fr",
+   "raciste": true
+  },
+  {
    "title": "Dans la Manche, un jeune joueur de football dénonce des insultes racistes lors d’un match . Sport",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaWhaVldVYWgxWkxpZkh3b0dGalFJOHB3NUlndVc0SXJzVllZM0JNSXI3LUhtVjJSQXVnaDV6YWRnU0ZsQi1xaGs3bFVEcmpxUUdUYXpRaGE4Qjg3QnpydjNqeXA5QjhScWN2bjY1akJ6aGw3RTZWMmpxbEZBRnVQc05BS1lOcXhiTWl6VnVGSk8zMWJjdWVOZEk1RkM2WUhEc2F0cE5DbVFOYjNqb1VMNE84dWxiRzktaXh3dXp6NFNQOVl2eDhCVTM0VVhxeEhkQzRHMWZhODA2dlZERlRFVk9hYw?oc=5",
    "description": "",
    "pubDate": "2026-10-06T12:11:00+00:00",
    "source": "Ma Ville",
    "raciste": true
-  },
-  {
-   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
-   "description": "",
-   "pubDate": "2026-10-06T07:00:00+00:00",
-   "source": "La Voix du Nord",
-   "raciste": false
   },
   {
    "title": "Cotentin. Un club de football dénonce des propos racistes tenus envers un joueur de l'équipe U15",
@@ -452,6 +484,14 @@
    "raciste": true
   },
   {
+   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
+   "description": "",
+   "pubDate": "2026-10-06T07:00:00+00:00",
+   "source": "La Voix du Nord",
+   "raciste": false
+  },
+  {
    "title": "Foot Amateur : un joueur U15 victime de propos racistes, son club monte au créneau",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNEt4bjMzY0F0Ym1UWHUtRmdyWm5RaERsN1RHeUtLQVRPUldWYlRvemF0NjFTNlhCaXZCc1JVdGZRaS12elVwMDB3Qnl4VHMtUm5KUXVicEFFaEZBVnJMX0U0Smg0Zlg3aUFkdkRXX2t2ZG14Q2VZaGpHOW9vbGdlUXYzR1VxbThIU2JqMkZPand4OG0wQzI4Z1lnN2VBLXo0bVlvclRkbUF3NVpjRTRpU19zMlVPMWZZNW5NQ3lCUFV2SkhaWnI3Ug?oc=5",
    "description": "",
@@ -465,22 +505,6 @@
    "description": "",
    "pubDate": "2026-10-06T07:00:00+00:00",
    "source": "Nord Littoral",
-   "raciste": true
-  },
-  {
-   "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
-   "description": "",
-   "pubDate": "2026-10-05T07:00:00+00:00",
-   "source": "lanouvellerepublique.fr",
-   "raciste": false
-  },
-  {
-   "title": "« Singes », « Magic System » : le club de Coudekerque victime de racisme lors d’un match à Hazebrouck",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeS1NTGZHUXRXbzJ6eFo4eE1Id2l1X3RZN216U2U0UHRHUm1RMC15cklBQk5Md2NmQ19iUWdiVC1BQ0R3TC1UamNzWUhidTFtajB4V1lMTjNselVnN0dIZ0tLdzVyWlVvbFYyU005bzVrVU1YRFRuYVdfbG4taG5BWXAwbUJUb0pLLTVjMnNFdDllQnZFT25iUEM0ZlRENFJLNWRGeTFIc3lSWnFrVlVFcTVrQmZxSmZMak1EUm52cE05Q21xVmYwVzZDSkc?oc=5",
-   "description": "",
-   "pubDate": "2026-10-05T07:00:00+00:00",
-   "source": "La Voix du Nord",
    "raciste": true
   },
   {
@@ -500,11 +524,27 @@
    "raciste": true
   },
   {
+   "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
+   "description": "",
+   "pubDate": "2026-10-05T07:00:00+00:00",
+   "source": "lanouvellerepublique.fr",
+   "raciste": false
+  },
+  {
    "title": "Foot Amateur : le District de l’Indre promet « des sanctions exemplaires » après des propos racistes en D1",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV2xlT1M5Q3J6VHp0bmtydmRuMzFBRUF1UTlsaUhveEVFNWZ1aHh6Rk43cGpNR2VfaTc4eXZVTnIxX0tGWFV3RDllUzRpQjdNN0k0ank2VmV2bTlIc0FENDhOZG1DclN1ZEs3azBWY01GaTBQVVlpQWE0Sm90czgwRnRFa1lVNloyWWJNOFFFb2pBUHVLV1VmVG0tZ29NQWR5Y1h6VzQ5NFVzWWljZG41M09JbDNjQXpJUVlQemtIRDVKYnVpeTN3OFpBMzlNU2pGc2lVYnM2Q2FmX2FWb2FTYlZnVQ?oc=5",
    "description": "",
    "pubDate": "2026-10-05T07:00:00+00:00",
    "source": "Foot National",
+   "raciste": true
+  },
+  {
+   "title": "« Singes », « Magic System » : le club de Coudekerque victime de racisme lors d’un match à Hazebrouck",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeS1NTGZHUXRXbzJ6eFo4eE1Id2l1X3RZN216U2U0UHRHUm1RMC15cklBQk5Md2NmQ19iUWdiVC1BQ0R3TC1UamNzWUhidTFtajB4V1lMTjNselVnN0dIZ0tLdzVyWlVvbFYyU005bzVrVU1YRFRuYVdfbG4taG5BWXAwbUJUb0pLLTVjMnNFdDllQnZFT25iUEM0ZlRENFJLNWRGeTFIc3lSWnFrVlVFcTVrQmZxSmZMak1EUm52cE05Q21xVmYwVzZDSkc?oc=5",
+   "description": "",
+   "pubDate": "2026-10-05T07:00:00+00:00",
+   "source": "La Voix du Nord",
    "raciste": true
   },
   {

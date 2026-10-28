@@ -1188,6 +1188,10 @@ p + p { margin-top: 0; }
 .engagement-une p { color: rgba(255,255,255,0.82); font-size: 1.1rem; }
 @media (max-width: 960px) { .engagement-une { grid-template-columns: 1fr; gap: var(--space-3); } }
 @media (max-width: 640px) { .telechargement { flex-direction: column; align-items: flex-start; } }
+/* Chiffres clés masqués (attribut hidden) : la grille passe de 4 à 2 colonnes sur grand écran.
+   Dès que tous les « hidden » sont retirés, la grille revient seule à 4 colonnes. */
+.stat[hidden] { display: none !important; }
+@media (min-width: 961px) { .stats:has(> .stat[hidden]) { grid-template-columns: repeat(2, 1fr); } }
 
   </style>
   <script type="application/ld+json">
@@ -1330,11 +1334,13 @@ p + p { margin-top: 0; }
           <span class="stat__number" data-compteur>—</span>
           <span class="stat__label">Incidents racistes recensés dans le football français depuis le 1<sup>er</sup> janvier 2026</span>
         </a>
-        <div class="stat">
+        <!-- CHIFFRE À VENIR — pour réafficher : remplacer XX par le chiffre et supprimer le mot « hidden » ci-dessous -->
+        <div class="stat" hidden>
           <span class="stat__number">XX</span>
           <span class="stat__label">Clubs signataires de la charte</span>
         </div>
-        <div class="stat">
+        <!-- CHIFFRE À VENIR — pour réafficher : remplacer XX par le chiffre et supprimer le mot « hidden » ci-dessous -->
+        <div class="stat" hidden>
           <span class="stat__number">XX</span>
           <span class="stat__label">Médias signataires de la charte rédactionnelle</span>
         </div>

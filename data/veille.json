@@ -1,8 +1,16 @@
 {
- "maj": "2026-10-28T05:43:16+00:00",
+ "maj": "2026-10-28T12:55:36+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 225,
+ "compteur_racisme": 226,
  "incidents": [
+  {
+   "title": "Insultes racistes d'un adversaire : en D2, toute une équipe quitte la pelouse - Foot National",
+   "link": "https://www.foot-national.com/foot-amateur/insultes-racistes-dun-adversaire-en-d2-toute-une-equipe-quitte-la-pelouse-960973",
+   "description": "... Ligue 1 · Direct foot Ligue 1 · Calendrier foot Ligue 1 · Résultats foot ... Ligue 2 · Direct foot Ligue 2 · Calendrier foot Ligue 2 · Résultats foot ...",
+   "pubDate": "2026-10-28T10:03:14+00:00",
+   "source": "foot-national.com",
+   "raciste": true
+  },
   {
    "title": "Football. « Nous signalons un acte de racisme »: un match de la Coupe du Monde U15 arrêté après une violente interaction",
    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVkthdTZXYS1NWWFrMjZta2w2Rjg0MkxhdENnNlNlOV9iOVhBb0lzTGZCaHFEMS13cE9iQ1IwcHRTYl84TC1sWS1lamxXazZVNWE1TnV2OTM1MzdLd3JYdHJFblg2NXc4OUtCTHJoak9VdEdpVk9xRkdfNFczN1ZoMmNET3l1d3IwczVtQzd3cjNoR3d0b0NSclFrX1FYLVdKYTFmTkZQaEJhc2F3TWhpdUV5enNxZXFFbFZEeTZVOXJvZzNuN1lGZ3FVY2YydG1lWjRZYlpKQXpFZnhUaF9EOUNaWXV6VVBFbWxVVU1sX3AxTlVobDFfVldCOUN1a0RITkVKaUctcF81WGZnbjFhQ1cxSzhkbVJmcE80cVFfaw?oc=5",
@@ -12,7 +20,7 @@
    "raciste": true
   },
   {
-   "title": "Ain. Insulte raciste présumée : le club de football de Nantua menace de se dissoudre",
+   "title": "Ain. Accusations d'insulte raciste : le club de football de Nantua menace de se dissoudre",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMEJidXRSdTBRNXQtbUZGNkRjTTd0UUU1cWQzY2FNbjIyc2FGZVdNSEt4R0dndDF4SWVrRW9neW9Eck4zMVJic2w4OWZfNDdfY2plTDRfaEpwLVlMMFROLWJheEx1dVFlOXhpOHJWa01RS3BUdjk5ZFhVMERPR0VWRGtxRW9KNEtYS0prcDEzelVEb2VUb0pSZjdsdlZ2bHpQR0EyOUpwRzlyUDZINlQ3dVN5bmxZX0NqdDllVUJxbWhPMWNyY21VYjFGNzJEbGs?oc=5",
    "description": "",
    "pubDate": "2026-10-27T18:30:29+00:00",
@@ -428,19 +436,19 @@
    "raciste": true
   },
   {
-   "title": "Un match à huis clos pour la Serbie et une amende pour des comportements «racistes et discriminatoires» en Ligue des nations",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZVpqY1VCSVJpMXNKY2F6UVBMblVaTjVLZjJPSklqT2VYSVRDS0E0SWpmWWo0Y3d0eUZCVlNXV3N1UXlHb0Z2dkVGTGhNdmlCdHk1dmQyM0Ytb3dLOHAybDJLdUdZQ0J0bV96cmNxZ1dpbHlsc3N1YWI0U1g1bDlnbzhwVlZvbXVYSzBaYnV2QXNtYWszZFVxeHBqT25MMVFmUFJuSC1oYzBQUk8yeExuZU56X2w3VDZuZUVha2U5Z3RrRERJbWpLRU82blQ1by1VOVZtSjFhNGltZmczcnRxS2szNF9mdHJnemNCTzZfMnY4WWpoNUdIRTNKN0NreHJfWmZn?oc=5",
-   "description": "",
-   "pubDate": "2026-10-09T07:00:00+00:00",
-   "source": "L'Équipe",
-   "raciste": true
-  },
-  {
    "title": "Ligue des nations : la Serbie condamnée à 50.000 euros d’amende en raison des comportements racistes de ses supporters",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWx0bUtnYTluMGVmbGVxX2daMzlhekRwSkgxdjAyVm9YNXh6MDR1WU5lSmtyV3NfSlhSQW5OTURXakZCTG9QU3hrZTRHbzRDbkcwX2NzUmdtU0dNeEsza2x4N1pRanlhczVYYVd0QnlVNE8yNWpsT1M2dUtsNVJZbXRpLUdBeXBTQXFIZ2xsSi00WlpLNmtQQXQ0R0tyYmhuUzNpYTFycjhITG1PMkdPdEltUUdDVGNtNVhjMU85aC1nb2NnZUFERkFmdHktd2IzMTc1QnY1Z3hrYzVQbFl4NHJIV040Uk9mWUlvQUhaMnZBNGJJSUljMHBjcHNmRDZ5M1l1TA?oc=5",
    "description": "",
    "pubDate": "2026-10-09T07:00:00+00:00",
    "source": "Le Figaro",
+   "raciste": true
+  },
+  {
+   "title": "Un match à huis clos pour la Serbie et une amende pour des comportements «racistes et discriminatoires» en Ligue des nations",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZVpqY1VCSVJpMXNKY2F6UVBMblVaTjVLZjJPSklqT2VYSVRDS0E0SWpmWWo0Y3d0eUZCVlNXV3N1UXlHb0Z2dkVGTGhNdmlCdHk1dmQyM0Ytb3dLOHAybDJLdUdZQ0J0bV96cmNxZ1dpbHlsc3N1YWI0U1g1bDlnbzhwVlZvbXVYSzBaYnV2QXNtYWszZFVxeHBqT25MMVFmUFJuSC1oYzBQUk8yeExuZU56X2w3VDZuZUVha2U5Z3RrRERJbWpLRU82blQ1by1VOVZtSjFhNGltZmczcnRxS2szNF9mdHJnemNCTzZfMnY4WWpoNUdIRTNKN0NreHJfWmZn?oc=5",
+   "description": "",
+   "pubDate": "2026-10-09T07:00:00+00:00",
+   "source": "L'Équipe",
    "raciste": true
   },
   {
@@ -476,20 +484,20 @@
    "raciste": true
   },
   {
-   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
-   "description": "",
-   "pubDate": "2026-10-06T07:00:00+00:00",
-   "source": "La Voix du Nord",
-   "raciste": false
-  },
-  {
    "title": "Cotentin. Un club de football dénonce des propos racistes tenus envers un joueur de l'équipe U15",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmZZTEsza0U4cmtPd2NIQ2hFQjQzMXRRUHo1dy1PVkR2cG1vemJWM0htZUNvbkdNN19wLXJKc0hvRnQ0OGsxM2N6TXZqNzNrNGNISDJqNnUtWkl3a1g2Q0dld19FT2VtUnRyaUFYc2JELTFRdGRVUDdwd0poendBcFpkT0RQal9nUW5jRmtGT3VGRExLTDU5Y1Z6dGZFR3JpdjUtVk1YbWFWUlV3dkZUQVQtRHFNSzRnMjh0Z2lDZHNjY2NLX21vRlJ6Mlk3U2VSb3JDMHJlQjlzdw?oc=5",
    "description": "",
    "pubDate": "2026-10-06T07:00:00+00:00",
    "source": "lamanchelibre.fr",
    "raciste": true
+  },
+  {
+   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
+   "description": "",
+   "pubDate": "2026-10-06T07:00:00+00:00",
+   "source": "La Voix du Nord",
+   "raciste": false
   },
   {
    "title": "Football : Coudekerque dénonce des propos racistes, les Cheminots d’Hazebrouck contestent",
@@ -516,20 +524,20 @@
    "raciste": true
   },
   {
-   "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
-   "description": "",
-   "pubDate": "2026-10-05T07:00:00+00:00",
-   "source": "lanouvellerepublique.fr",
-   "raciste": false
-  },
-  {
    "title": "« Sale noir » : un jeune joueur de football victime d’une insulte raciste dans le Cotentin",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONW8zUTJFWXE5SHNnNVYyZjZiLWdkdE9EMFhSQ3paZFNKWlJGMGVQbjVhdDJfNE1nV0NNM2VibkdNTXhHV1U2NEd0SmFZV3dkQ1dpX1B4dThXUFJVWXN6d2VTaXVTM1M0MHFzQVo2cjlxQ3g3LUtXSTNzSW93MnpqWVZEN3ExQkd2TFpEUXYzRXlLeG5yWE1ZWVNBY1RVOGRaem9UZnZNaktqR2RDSTY4dHY2czBPZFBxMm53UEN1V0ZGcTJ0UDNtUEdaelc0UFI1OFZlS2lkQQ?oc=5",
    "description": "",
    "pubDate": "2026-10-05T07:00:00+00:00",
    "source": "Actu.fr",
    "raciste": true
+  },
+  {
+   "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
+   "description": "",
+   "pubDate": "2026-10-05T07:00:00+00:00",
+   "source": "lanouvellerepublique.fr",
+   "raciste": false
   },
   {
    "title": "Football : le match U13 entre l’AS Étaples et Canche Ternoise arrêté après des propos racistes contre l’arbitre",

@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-27T22:15:02+00:00",
+ "maj": "2026-10-28T05:43:16+00:00",
  "date_depart": "2026-01-01",
  "compteur_racisme": 225,
  "incidents": [
@@ -324,6 +324,14 @@
    "raciste": true
   },
   {
+   "title": "OL - Les révélations glaciales de Libération concernant un nouvel acte raciste de la part de supporters de l'OL",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcE9SV1BqRUtvdGtYVkU5TmRvd19uX1BuN0JOV2tYcVpFUlRrS1F6OVdRVjdiY2V3Y0NtbDRRNVRuWmozUUZSbUZoX21fUkFVaGtGa0RCOTVKcGozX19qOUw0Y2RQM2NQcVFNN1JjV1RHZTV2TDZTSHAwaGtwZUN5Z0ZfdFFUX2NaWkZGeFJEV2tDSHdsaEs5S3IyaXc3Rms2WjctWURROHJoYjFDQXJvbmU0VGU5ek5veGh2bkM4ajQ5Tk53LVhaVUlwQ0pqT3lQd3U4bWxNRFhsVmFPVzNCMy03aGw0YWhhQW9CdHo3RGVKdXhSbk9qV1p0NXRTRTQ?oc=5",
+   "description": "",
+   "pubDate": "2026-10-15T07:00:00+00:00",
+   "source": "MadeInFOOT",
+   "raciste": false
+  },
+  {
    "title": "« Je n'en vois tout simplement pas l'intérêt » : l'entraîneur de Milwall ne comprend pas l'interruption du match de son équipe pour des insultes racistes présumées",
    "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOeVZ4M1JXOXUzWlZZRXc2dmlqbUJBajE1ZnVjUmpBSC1WQ2x6ZnFLMlVWQlBoRXQtVWtRckgwdkdSR1hFQlVseWRtYW1ReVFBYTN4VVJkaEFpN0VqQUJ3dTV2U1EzRUhCN3FpbDVVYmYxMTRxanVVbXNKb2dGd0V4Tmo3Z2J0dncxQmcwWkViejdUb1VHVUdYS0xwVVFfVUlaRk91N1JEclVVZUVXTGwwbUszRG1hRVJSSnp6dDItR2l3ZUw4M3NYejUtWmoxNVc4MXBLbWFBQWpNSjJkeDloSjNvUUVRRlhDc1FLbWtYcVhwTGxLbk0zdVRTY0N1aDhaWmhoZDdHZUZQdHNPN2gyV0hJQ3FGSTlOTG5OOWpVZzhaXzNGOHRhaFhGVlN1dGxSOUNJ?oc=5",
    "description": "",
@@ -468,6 +476,14 @@
    "raciste": true
   },
   {
+   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
+   "description": "",
+   "pubDate": "2026-10-06T07:00:00+00:00",
+   "source": "La Voix du Nord",
+   "raciste": false
+  },
+  {
    "title": "Cotentin. Un club de football dénonce des propos racistes tenus envers un joueur de l'équipe U15",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmZZTEsza0U4cmtPd2NIQ2hFQjQzMXRRUHo1dy1PVkR2cG1vemJWM0htZUNvbkdNN19wLXJKc0hvRnQ0OGsxM2N6TXZqNzNrNGNISDJqNnUtWkl3a1g2Q0dld19FT2VtUnRyaUFYc2JELTFRdGRVUDdwd0poendBcFpkT0RQal9nUW5jRmtGT3VGRExLTDU5Y1Z6dGZFR3JpdjUtVk1YbWFWUlV3dkZUQVQtRHFNSzRnMjh0Z2lDZHNjY2NLX21vRlJ6Mlk3U2VSb3JDMHJlQjlzdw?oc=5",
    "description": "",
@@ -482,14 +498,6 @@
    "pubDate": "2026-10-06T07:00:00+00:00",
    "source": "Nord Littoral",
    "raciste": true
-  },
-  {
-   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
-   "description": "",
-   "pubDate": "2026-10-06T07:00:00+00:00",
-   "source": "La Voix du Nord",
-   "raciste": false
   },
   {
    "title": "Foot Amateur : un joueur U15 victime de propos racistes, son club monte au créneau",
@@ -508,6 +516,14 @@
    "raciste": true
   },
   {
+   "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
+   "description": "",
+   "pubDate": "2026-10-05T07:00:00+00:00",
+   "source": "lanouvellerepublique.fr",
+   "raciste": false
+  },
+  {
    "title": "« Sale noir » : un jeune joueur de football victime d’une insulte raciste dans le Cotentin",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONW8zUTJFWXE5SHNnNVYyZjZiLWdkdE9EMFhSQ3paZFNKWlJGMGVQbjVhdDJfNE1nV0NNM2VibkdNTXhHV1U2NEd0SmFZV3dkQ1dpX1B4dThXUFJVWXN6d2VTaXVTM1M0MHFzQVo2cjlxQ3g3LUtXSTNzSW93MnpqWVZEN3ExQkd2TFpEUXYzRXlLeG5yWE1ZWVNBY1RVOGRaem9UZnZNaktqR2RDSTY4dHY2czBPZFBxMm53UEN1V0ZGcTJ0UDNtUEdaelc0UFI1OFZlS2lkQQ?oc=5",
    "description": "",
@@ -522,14 +538,6 @@
    "pubDate": "2026-10-05T07:00:00+00:00",
    "source": "La Voix du Nord",
    "raciste": true
-  },
-  {
-   "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
-   "description": "",
-   "pubDate": "2026-10-05T07:00:00+00:00",
-   "source": "lanouvellerepublique.fr",
-   "raciste": false
   },
   {
    "title": "Foot Amateur : le District de l’Indre promet « des sanctions exemplaires » après des propos racistes en D1",

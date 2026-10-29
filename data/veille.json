@@ -1,8 +1,16 @@
 {
- "maj": "2026-10-29T09:58:50+00:00",
+ "maj": "2026-10-29T18:29:04+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 227,
+ "compteur_racisme": 228,
  "incidents": [
+  {
+   "title": "« Beaucoup de mes joueurs veulent arrêter le foot » : le club de D2 dégoûté après les propos racistes visant l’un de ses joueurs",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOX09BM0t1NUtFRXdxdmQ5YnoydnpIOTU5TEc0aWE4VUJ3aEdaMDFRVEE0QUJuT3ZUU0hMSThPa3lRajViOEE1bHBRaEVUdV9iZGhsMHJDbDRfQzZtblpGbWlYTk96TzQwWlh0ay1IeUI4WEw1UkVHd2FiQTYxdzlGSjJNS2hOZzNaUm52OUxPdGc2RTBxRTIyN1BPb2dNVUxFR2phUmhxNFRsYklOaHhJNHcwelJiZ1N4dDl0NG9VbHNrZHA3eHQ2bWFLTkFMZGlmaFRyVTVnRV8tZUtxcDdpR1FadE5VZHpYa0dGWTVwVENCOUFfLTVCNlRvelJWc3JU?oc=5",
+   "description": "",
+   "pubDate": "2026-10-29T11:57:00+00:00",
+   "source": "Foot National",
+   "raciste": true
+  },
   {
    "title": "En Interdistricts niveau 1 de futsal, match arrêté à Guise, Douchy-les-Mines dénonce des ...",
    "link": "https://www.lavoixdunord.fr/1750124/article/2026-10-28/en-interdistricts-niveau-1-de-futsal-match-arrete-guise-douchy-les-mines-denonce",
@@ -532,14 +540,6 @@
    "raciste": true
   },
   {
-   "title": "« Sale noir » : un jeune joueur de football victime d’une insulte raciste dans le Cotentin",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONW8zUTJFWXE5SHNnNVYyZjZiLWdkdE9EMFhSQ3paZFNKWlJGMGVQbjVhdDJfNE1nV0NNM2VibkdNTXhHV1U2NEd0SmFZV3dkQ1dpX1B4dThXUFJVWXN6d2VTaXVTM1M0MHFzQVo2cjlxQ3g3LUtXSTNzSW93MnpqWVZEN3ExQkd2TFpEUXYzRXlLeG5yWE1ZWVNBY1RVOGRaem9UZnZNaktqR2RDSTY4dHY2czBPZFBxMm53UEN1V0ZGcTJ0UDNtUEdaelc0UFI1OFZlS2lkQQ?oc=5",
-   "description": "",
-   "pubDate": "2026-10-05T07:00:00+00:00",
-   "source": "Actu.fr",
-   "raciste": true
-  },
-  {
    "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
    "description": "",
@@ -561,6 +561,14 @@
    "description": "",
    "pubDate": "2026-10-05T07:00:00+00:00",
    "source": "Foot National",
+   "raciste": true
+  },
+  {
+   "title": "« Sale noir » : un jeune joueur de football victime d’une insulte raciste dans le Cotentin",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONW8zUTJFWXE5SHNnNVYyZjZiLWdkdE9EMFhSQ3paZFNKWlJGMGVQbjVhdDJfNE1nV0NNM2VibkdNTXhHV1U2NEd0SmFZV3dkQ1dpX1B4dThXUFJVWXN6d2VTaXVTM1M0MHFzQVo2cjlxQ3g3LUtXSTNzSW93MnpqWVZEN3ExQkd2TFpEUXYzRXlLeG5yWE1ZWVNBY1RVOGRaem9UZnZNaktqR2RDSTY4dHY2czBPZFBxMm53UEN1V0ZGcTJ0UDNtUEdaelc0UFI1OFZlS2lkQQ?oc=5",
+   "description": "",
+   "pubDate": "2026-10-05T07:00:00+00:00",
+   "source": "Actu.fr",
    "raciste": true
   },
   {

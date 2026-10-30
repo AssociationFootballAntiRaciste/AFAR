@@ -1,8 +1,16 @@
 {
- "maj": "2026-10-30T01:00:24+00:00",
+ "maj": "2026-10-30T10:01:37+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 230,
+ "compteur_racisme": 231,
  "incidents": [
+  {
+   "title": "OM - \"Bougnoule, Quitte la France ...\", Ali Zarrak dénonce les insultes racistes après l'affaire ...",
+   "link": "https://madeinmarseillais.ouest-france.fr/infos/article-om-bougnoule-quitte-la-france-ali-zarrak-denonce-les-insultes-racistes-apres-l-affaire-des-motards-avec-papin-543973.html",
+   "description": "OFFICIEL MATCH Ligue 1 25/10. Les notes de ... Bruno Genesio confirme un match amical face à une équipe de Ligue 2 durant la trêve internationale.",
+   "pubDate": "2026-10-29T21:17:49+00:00",
+   "source": "madeinmarseillais.ouest-france.fr",
+   "raciste": true
+  },
   {
    "title": "Adil Rami n'est pas du tout « sexiste » : il a des joueuses dans son équipe FIFA",
    "link": "https://www.sofoot.com/breves/adil-rami-se-defend-detre-sexiste-apres-ses-propos-sexistes-sur-alexia-putellas",
@@ -122,6 +130,14 @@
    "pubDate": "2026-10-26T16:08:45+00:00",
    "source": "SO FOOT.com",
    "raciste": true
+  },
+  {
+   "title": "\"Nous sommes dans un virage dangereux \": Lyon, Vénissieux, Vaulx-en-Velin se mobilisent après l'attentat raciste à Trappes",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOTk5VNHZUVko5LXF3MmhhT0VQUHdpX2drWFJ0amxsRVZOWUFPSWt3NmtHUk12M0F5cjJIcjctbm1LT1p6UWY0aGhRRC1rV0JCendhX252Umo2NXVkQTBLZEJKZVQ3WFpIMXJiTTQyYjBvMEhPSVBPZkJPMmdaRjJ2cFVwM1F5SDNlUklaRkxSa2pYQ3hBUThOTmRrcXRZNm01M2lRc3ViOW4tOWNwQnBsdUpFdjl3VV9ZZk05UFRHd0RzUlZWd1prZTlkZlhHX1BFZFUzZjZ6alIzR2xJYXVkeWNsMnZSY3czak1UWXpNTmhpd2d4TEVXd0hsT0lrMXU1Q294NUlrdjNwNl9RMVpXSTR1NGs2VncwVHYwR3JNakFTSks1eG1IQkFQLTJkRXZreWlFa3BZV0J5YVNQ?oc=5",
+   "description": "",
+   "pubDate": "2026-10-26T16:01:41+00:00",
+   "source": "France 3 Régions",
+   "raciste": false
   },
   {
    "title": "Au club de MMA d'Aubervilliers, la sidération après l'assassinat raciste du combattant Pengo Bossio Wangi à Trappes : «Un mec en or»",

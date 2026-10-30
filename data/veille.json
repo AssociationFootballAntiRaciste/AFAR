@@ -1,8 +1,32 @@
 {
- "maj": "2026-10-29T18:29:04+00:00",
+ "maj": "2026-10-30T01:00:24+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 228,
+ "compteur_racisme": 230,
  "incidents": [
+  {
+   "title": "Adil Rami n'est pas du tout « sexiste » : il a des joueuses dans son équipe FIFA",
+   "link": "https://www.sofoot.com/breves/adil-rami-se-defend-detre-sexiste-apres-ses-propos-sexistes-sur-alexia-putellas",
+   "description": "C'est fou cette manie de tout ramener au sexisme , à l'homophobie ou ... Logo de a compétition Ligue 1 · Logo de a compétition Ligue des ...",
+   "pubDate": "2026-10-29T20:56:49+00:00",
+   "source": "sofoot.com",
+   "raciste": false
+  },
+  {
+   "title": "OM - Ali Zarrak humilie Jean-Pierre Papin après ses lourdes accusations",
+   "link": "https://madeinmarseillais.ouest-france.fr/infos/article-om-ali-zarrak-humilie-jean-pierre-papin-apres-ses-lourdes-accusations-543890.html",
+   "description": "\", Ali Zarrak dénonce les insultes racistes après l'affaire des motards avec Papin ... OFFICIEL MATCH Ligue 1 25/10. Les notes de l'OM face au Havre AC ...",
+   "pubDate": "2026-10-29T20:19:39+00:00",
+   "source": "madeinmarseillais.ouest-france.fr",
+   "raciste": true
+  },
+  {
+   "title": "Un ultra condamné à sept ans et demi de prison après avoir menacé la famille d'Ángel Di María",
+   "link": "https://www.sofoot.com/breves/sergio-di-vanni-un-ultra-des-newells-old-boys-condamne-a-sept-ans-et-demi-de-prison-apres-avoir-menace-la-famille-dangel-di-maria",
+   "description": "De violentes menaces · Commentaires · Une enquête ouverte après des insultes racistes de certains fans de Rosario Central · Ángel Di María est le joueur ...",
+   "pubDate": "2026-10-29T19:15:16+00:00",
+   "source": "sofoot.com",
+   "raciste": true
+  },
   {
    "title": "« Beaucoup de mes joueurs veulent arrêter le foot » : le club de D2 dégoûté après les propos racistes visant l’un de ses joueurs",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOX09BM0t1NUtFRXdxdmQ5YnoydnpIOTU5TEc0aWE4VUJ3aEdaMDFRVEE0QUJuT3ZUU0hMSThPa3lRajViOEE1bHBRaEVUdV9iZGhsMHJDbDRfQzZtblpGbWlYTk96TzQwWlh0ay1IeUI4WEw1UkVHd2FiQTYxdzlGSjJNS2hOZzNaUm52OUxPdGc2RTBxRTIyN1BPb2dNVUxFR2phUmhxNFRsYklOaHhJNHcwelJiZ1N4dDl0NG9VbHNrZHA3eHQ2bWFLTkFMZGlmaFRyVTVnRV8tZUtxcDdpR1FadE5VZHpYa0dGWTVwVENCOUFfLTVCNlRvelJWc3JU?oc=5",
@@ -540,6 +564,14 @@
    "raciste": true
   },
   {
+   "title": "« Sale noir » : un jeune joueur de football victime d’une insulte raciste dans le Cotentin",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONW8zUTJFWXE5SHNnNVYyZjZiLWdkdE9EMFhSQ3paZFNKWlJGMGVQbjVhdDJfNE1nV0NNM2VibkdNTXhHV1U2NEd0SmFZV3dkQ1dpX1B4dThXUFJVWXN6d2VTaXVTM1M0MHFzQVo2cjlxQ3g3LUtXSTNzSW93MnpqWVZEN3ExQkd2TFpEUXYzRXlLeG5yWE1ZWVNBY1RVOGRaem9UZnZNaktqR2RDSTY4dHY2czBPZFBxMm53UEN1V0ZGcTJ0UDNtUEdaelc0UFI1OFZlS2lkQQ?oc=5",
+   "description": "",
+   "pubDate": "2026-10-05T07:00:00+00:00",
+   "source": "Actu.fr",
+   "raciste": true
+  },
+  {
    "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
    "description": "",
@@ -561,14 +593,6 @@
    "description": "",
    "pubDate": "2026-10-05T07:00:00+00:00",
    "source": "Foot National",
-   "raciste": true
-  },
-  {
-   "title": "« Sale noir » : un jeune joueur de football victime d’une insulte raciste dans le Cotentin",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONW8zUTJFWXE5SHNnNVYyZjZiLWdkdE9EMFhSQ3paZFNKWlJGMGVQbjVhdDJfNE1nV0NNM2VibkdNTXhHV1U2NEd0SmFZV3dkQ1dpX1B4dThXUFJVWXN6d2VTaXVTM1M0MHFzQVo2cjlxQ3g3LUtXSTNzSW93MnpqWVZEN3ExQkd2TFpEUXYzRXlLeG5yWE1ZWVNBY1RVOGRaem9UZnZNaktqR2RDSTY4dHY2czBPZFBxMm53UEN1V0ZGcTJ0UDNtUEdaelc0UFI1OFZlS2lkQQ?oc=5",
-   "description": "",
-   "pubDate": "2026-10-05T07:00:00+00:00",
-   "source": "Actu.fr",
    "raciste": true
   },
   {

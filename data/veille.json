@@ -1,8 +1,16 @@
 {
- "maj": "2026-10-30T10:01:37+00:00",
+ "maj": "2026-10-30T18:02:18+00:00",
  "date_depart": "2026-01-01",
  "compteur_racisme": 231,
  "incidents": [
+  {
+   "title": "Un climat sexualisé imposé par Jean-Vincent Placé à ses collaboratrices - 20 Minutes",
+   "link": "https://www.20minutes.fr/justice/4258719-20261029-sexisme-lourdeur-proximite-physique-climat-sexualise-impose-jean-vincent-place-collaboratrices",
+   "description": "« Sexisme , lourdeur et proximité physique »… Un climat sexualisé ... Ligue 1 . FOOTBALL . Les affiches de la 9e journée à ne pas manquer ce week ...",
+   "pubDate": "2026-10-30T17:16:35+00:00",
+   "source": "20minutes.fr",
+   "raciste": false
+  },
   {
    "title": "OM - \"Bougnoule, Quitte la France ...\", Ali Zarrak dénonce les insultes racistes après l'affaire ...",
    "link": "https://madeinmarseillais.ouest-france.fr/infos/article-om-bougnoule-quitte-la-france-ali-zarrak-denonce-les-insultes-racistes-apres-l-affaire-des-motards-avec-papin-543973.html",
@@ -3486,5 +3494,23 @@
    "manuel": true
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "https://news.google.com/rss/search?q=racisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=insultes+racistes+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=propos+racistes+footballeur+when%3A30d&hl=fr&gl=FR&ce : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=chants+racistes+stade+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=cris+de+singe+football+when%3A30d&hl=fr&gl=FR&ceid=FR : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=banderole+raciste+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=racisme+Ligue+1+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=racisme+football+amateur+district+when%3A30d&hl=fr&gl : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=antis%C3%A9mitisme+football+when%3A30d&hl=fr&gl=FR&ce : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=islamophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=homophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3A : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=sexisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=%22Association+des+Footballeurs+Antiracistes%22+when% : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=AFAR+football+racisme+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=%22histoire+populaire+du+sport%22+Tribune+Saint-Ouen+ : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=Tribune+stade+Bauer+El+Khatib+when%3A30d&hl=fr&gl=FR& : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=%22Une+histoire+populaire+du+sport%22+when%3A30d&hl=f : HTTP Error 503: Service Unavailable"
+ ]
 }

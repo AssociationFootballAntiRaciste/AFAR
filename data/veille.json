@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-30T22:21:04+00:00",
+ "maj": "2026-10-31T05:41:42+00:00",
  "date_depart": "2026-01-01",
  "compteur_racisme": 233,
  "incidents": [
@@ -66,6 +66,14 @@
    "pubDate": "2026-10-29T11:57:00+00:00",
    "source": "Foot National",
    "raciste": true
+  },
+  {
+   "title": "VIDEO. Fléau : les jeunes du PSG sensibilisés à l'homophobie - Stade 2 Ligue 1",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUVRcWpocEl1ME1VeUxhTlAxRVVVeTZ0UWU3ZnBRUTU5a29lNS02VncybUE5RE5NX0xDY3VvM3d1SlBtZnprYmVub2NpRk1yRlpNZjA2NVFmZFU4Y1BJMHd6UWF4eVRXOS1ZeGpwVFQ2LXBteWJvSnZzYzNfdktONG00eVg3V1ZyQjVkQmdZcEJkeXJHTlJyQkFQemU3MzBHLW1NNmN1U2RaTjNfMEFN?oc=5",
+   "description": "",
+   "pubDate": "2026-10-28T18:14:02+00:00",
+   "source": "France TV",
+   "raciste": false
   },
   {
    "title": "En Interdistricts niveau 1 de futsal, match arrêté à Guise, Douchy-les-Mines dénonce des ...",

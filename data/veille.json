@@ -1,7 +1,7 @@
 {
- "maj": "2026-10-31T05:41:42+00:00",
+ "maj": "2026-10-31T12:30:51+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 233,
+ "compteur_racisme": 234,
  "incidents": [
   {
    "title": "\"Victime de propos racistes, c’est moi qui suis suspendu sept mois !\" : la colère d’un joueur d’Écueillé et les faits",
@@ -396,6 +396,14 @@
    "raciste": false
   },
   {
+   "title": "« T’es un putain de raciste » : la colère de Mbappé contre le joueur argentin Gianluca Prestianni",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaklKdHdzQzFMS2NMLWlvekk3bWNDa2RvaDk1bFpoVFJWMXpZR0lYbUs3YWxCc0F3Zklwa1oxVGVreVRCOGNPaXNCRzB4V3ZWNV95SGtMTmFLa0RLQTVRdmo0QW80NTN1YUhDMUloalVxVVpvS2dUaDhfNXNwN3I0Uk1Kbkp1SGhwQmI0ZjBPYklsSEJSVGFJaFh2TzlGZndnLXhiUzNKV1dfbXV4di1YTVhoc2cteE85YnBEemhzd3lhMGdpWXpyZ2EzdVAzTEZNWFdkeEl3dw?oc=5",
+   "description": "",
+   "pubDate": "2026-10-16T07:00:00+00:00",
+   "source": "Paris Match",
+   "raciste": false
+  },
+  {
    "title": "«On se sent pris en otage» : ces supporteurs de l’OL dégoûtés par les agissements racistes au stade",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcjZUNHNacG9Ya0FubHFSanB4NEF5RndFQkNFSTZodENJX1lNV1FoWE92bkhVbUhqMFREQ2F5SkwxbFN5SDVrTHhYdnNfaU5UNmloUG4wUktSYU50d0tkNHd4RGJpY3IxTmJaOUZ1SnRNR3BPX1g5UEtwTHE5QlJDbE9TVGxDR29neU9EN3dmWkt4ZWRwdDhCX0tkeDdIdlgza09RUWRRRENzMjllWDhiNEZNZDBmUG5HS2NOd191WmVXSnZrV1BDTzU3ZXhUSFZHWlI2X2hkMWdUb1MyaWpOQTh2ME45dXg1bV9MdmQ2Tm56a2syXzZHdQ?oc=5",
    "description": "",
@@ -441,6 +449,14 @@
    "description": "",
    "pubDate": "2026-10-14T09:40:00+00:00",
    "source": "echoduberry.fr",
+   "raciste": true
+  },
+  {
+   "title": "Mohamed Bouhafsi enquête sur le racisme dans le football",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejYzTDNyc2trNU90MmhiZ3lhQ0Y0VzVTeDJwdFBMSkVkV3haZnBOTzJBR3MxenpDSXA5THJmR2RER2dXbEZ6UzN5VDZHQ1d1VnhoV3d2bGVkeVBiTjhWRXgyUUhGQi0wNWFFbXZGekJZRzExczBpMnVRYU1GbjZnam1CdEU4Um5kVDYtVnNUMzc3RWxYb1F1bUlVRnNyM29rXzBQdmhYYVphZw?oc=5",
+   "description": "",
+   "pubDate": "2026-10-14T07:00:00+00:00",
+   "source": "Paris Match",
    "raciste": true
   },
   {
@@ -572,6 +588,14 @@
    "raciste": true
   },
   {
+   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
+   "description": "",
+   "pubDate": "2026-10-06T07:00:00+00:00",
+   "source": "La Voix du Nord",
+   "raciste": false
+  },
+  {
    "title": "Cotentin. Un club de football dénonce des propos racistes tenus envers un joueur de l'équipe U15",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmZZTEsza0U4cmtPd2NIQ2hFQjQzMXRRUHo1dy1PVkR2cG1vemJWM0htZUNvbkdNN19wLXJKc0hvRnQ0OGsxM2N6TXZqNzNrNGNISDJqNnUtWkl3a1g2Q0dld19FT2VtUnRyaUFYc2JELTFRdGRVUDdwd0poendBcFpkT0RQal9nUW5jRmtGT3VGRExLTDU5Y1Z6dGZFR3JpdjUtVk1YbWFWUlV3dkZUQVQtRHFNSzRnMjh0Z2lDZHNjY2NLX21vRlJ6Mlk3U2VSb3JDMHJlQjlzdw?oc=5",
    "description": "",
@@ -586,14 +610,6 @@
    "pubDate": "2026-10-06T07:00:00+00:00",
    "source": "Nord Littoral",
    "raciste": true
-  },
-  {
-   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
-   "description": "",
-   "pubDate": "2026-10-06T07:00:00+00:00",
-   "source": "La Voix du Nord",
-   "raciste": false
   },
   {
    "title": "Foot Amateur : un joueur U15 victime de propos racistes, son club monte au créneau",
@@ -612,20 +628,20 @@
    "raciste": true
   },
   {
-   "title": "« Sale noir » : un jeune joueur de football victime d’une insulte raciste dans le Cotentin",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONW8zUTJFWXE5SHNnNVYyZjZiLWdkdE9EMFhSQ3paZFNKWlJGMGVQbjVhdDJfNE1nV0NNM2VibkdNTXhHV1U2NEd0SmFZV3dkQ1dpX1B4dThXUFJVWXN6d2VTaXVTM1M0MHFzQVo2cjlxQ3g3LUtXSTNzSW93MnpqWVZEN3ExQkd2TFpEUXYzRXlLeG5yWE1ZWVNBY1RVOGRaem9UZnZNaktqR2RDSTY4dHY2czBPZFBxMm53UEN1V0ZGcTJ0UDNtUEdaelc0UFI1OFZlS2lkQQ?oc=5",
-   "description": "",
-   "pubDate": "2026-10-05T07:00:00+00:00",
-   "source": "Actu.fr",
-   "raciste": true
-  },
-  {
    "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
    "description": "",
    "pubDate": "2026-10-05T07:00:00+00:00",
    "source": "lanouvellerepublique.fr",
    "raciste": false
+  },
+  {
+   "title": "« Sale noir » : un jeune joueur de football victime d’une insulte raciste dans le Cotentin",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONW8zUTJFWXE5SHNnNVYyZjZiLWdkdE9EMFhSQ3paZFNKWlJGMGVQbjVhdDJfNE1nV0NNM2VibkdNTXhHV1U2NEd0SmFZV3dkQ1dpX1B4dThXUFJVWXN6d2VTaXVTM1M0MHFzQVo2cjlxQ3g3LUtXSTNzSW93MnpqWVZEN3ExQkd2TFpEUXYzRXlLeG5yWE1ZWVNBY1RVOGRaem9UZnZNaktqR2RDSTY4dHY2czBPZFBxMm53UEN1V0ZGcTJ0UDNtUEdaelc0UFI1OFZlS2lkQQ?oc=5",
+   "description": "",
+   "pubDate": "2026-10-05T07:00:00+00:00",
+   "source": "Actu.fr",
+   "raciste": true
   },
   {
    "title": "Football : le match U13 entre l’AS Étaples et Canche Ternoise arrêté après des propos racistes contre l’arbitre",
@@ -668,19 +684,19 @@
    "raciste": true
   },
   {
-   "title": "Accusations de racisme, Flydubai, \"fin lamentable\"... La conférence de presse de l'Irlande dégénère avant le match contre Israël",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZnN5ZklYSGY3T1NYUFppNkZNVFNicXQtd0lPMzNTWkxBSXFhQTZmbEFvZEQyTjZ2S1FPdTNQT3dNV3lqYThRRE54UzJZOEI5aG9DU3hjTThUb245ZjBwVXlCSS1Pd2VWblRfR0VkWENLdHI2b2JLVDk0TGxWWHB6UUlGQjF5Mm9JTlI2N2V4d2NXU0VLMG9PX3hYTk84ZklhQ2FyNDViX3BSTGd3cERBcWZQbGZ1Qjd6aC0xa2Nfd2F2OWFsdW5va3oyLTlNNE5vWFdPYTItclZDLURxTGZPUXU0WjhISFpMcGdKRXBHbzNNRUtFTjBBcXNkRDFuWm1sa0hGR1hMOEdHNzFqRW0wZ3FUY3FYclU1dDJiUS1XcFdkdw?oc=5",
-   "description": "",
-   "pubDate": "2026-10-03T07:00:00+00:00",
-   "source": "RMC Sport",
-   "raciste": true
-  },
-  {
    "title": "« Vos joueurs ont traité les nôtres de singes » : un journaliste israélien accuse les Irlandais de racisme",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ3RWX3VIQmJFLVVWWHZwSHdRT1p6aHh1MExUVndPUFRLVFFPUWQ3U1ZjUlVpUlkyamdhTm9EcnNNSjRnZFZNLVBMb1lGS3gzRFB6Q1ZiOGdtNDgyamNNVjU0LXcwdTJ5R0RIVVY0QlhMOXZ2TVlNRWVZT0FpaVF2Z0RQWlJTSXI1WE5DOGV3UVRYVElYd1kxTG1jNE1ORWFKVE1iVlVfcGpyV2o0b2JxZi1YbGJKNW1fdGJmMmtia29iSHE3SmtocUtjQmhmNVNodFFhdDdHUDJlUkpX?oc=5",
    "description": "",
    "pubDate": "2026-10-03T07:00:00+00:00",
    "source": "Le Dauphiné Libéré",
+   "raciste": true
+  },
+  {
+   "title": "Accusations de racisme, Flydubai, \"fin lamentable\"... La conférence de presse de l'Irlande dégénère avant le match contre Israël",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZnN5ZklYSGY3T1NYUFppNkZNVFNicXQtd0lPMzNTWkxBSXFhQTZmbEFvZEQyTjZ2S1FPdTNQT3dNV3lqYThRRE54UzJZOEI5aG9DU3hjTThUb245ZjBwVXlCSS1Pd2VWblRfR0VkWENLdHI2b2JLVDk0TGxWWHB6UUlGQjF5Mm9JTlI2N2V4d2NXU0VLMG9PX3hYTk84ZklhQ2FyNDViX3BSTGd3cERBcWZQbGZ1Qjd6aC0xa2Nfd2F2OWFsdW5va3oyLTlNNE5vWFdPYTItclZDLURxTGZPUXU0WjhISFpMcGdKRXBHbzNNRUtFTjBBcXNkRDFuWm1sa0hGR1hMOEdHNzFqRW0wZ3FUY3FYclU1dDJiUS1XcFdkdw?oc=5",
+   "description": "",
+   "pubDate": "2026-10-03T07:00:00+00:00",
+   "source": "RMC Sport",
    "raciste": true
   },
   {
@@ -3122,14 +3138,6 @@
    "pubDate": "2026-02-18T08:00:00+00:00",
    "source": "L'Équipe",
    "raciste": true
-  },
-  {
-   "title": "« T’es un putain de raciste » : la colère de Mbappé contre le joueur argentin Gianluca Prestianni",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU1o5M2F3YnlVQVBqa1lzaUx4STdTSktoNjZwUTRCeEJ0RGJQTTRRZzQ3b0lrZGtFU0REYkxTa2s5YzloclhGU3F1djBOQ19sYjBHbTNZVnVYNkNWamVpWFlyWlhMRnVtbUhvdUNJUzg2c3BTY19MRkxTNlEtN1NBXzJwVVEzcE5RQzh0NENZNFJYOFMxc0tpUjFlVmpsWVA2MUp5a01TOWF5aWY3Z2YyS0hVWlJYQndia0ZycDZQMjVEOGdDQnh6ZVJPVC1oMlJP?oc=5",
-   "description": "",
-   "pubDate": "2026-02-18T08:00:00+00:00",
-   "source": "parismatch.com",
-   "raciste": false
   },
   {
    "title": "On a entendu du terrain certains propos » : le club de foot de Chantilly a-t-il été visé par des insultes racistes en Corse",

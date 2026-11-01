@@ -1,8 +1,24 @@
 {
- "maj": "2026-11-01T06:06:00+00:00",
+ "maj": "2026-11-01T13:25:20+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 234,
+ "compteur_racisme": 237,
  "incidents": [
+  {
+   "title": "Dans l'Indre, un footballeur d'Écueillé affirme avoir été visé par des propos racistes après un match contre le FC SSRP",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQaGpSckdINjJtcVpUc3pWVzBOSmpjMU1DcEEtS3dxQk51eV8xNnhzYlF4cktYVVVQMURXVlpPZmRYbTVmU09tY2VycG4tSmRya3A2aEZQM0tHOUlpWnpoWnVIQ2NKdncwZEVuUDJFSWtfZWFaQUJGbkNKUURBOGJUa1dkWldnVTh5eDAxbkU1ZGVNZ3FRdnVBRlY0anE2Y2MtbzI2bl9BbWtudUpNZ3ZUdjk1b1RLRVlyX09aLUhlNFFYMzhEbkFOZU1TclNRVTY1XzhUMmVXdTJYV3N2bzdrdzRaLUwwcXptSG5Fcm56a3BfWklBeFkwOGdFYjlKZmFGMnlNUWpFRUd1YmxXbkE?oc=5",
+   "description": "",
+   "pubDate": "2026-11-01T10:29:48+00:00",
+   "source": "ici.fr",
+   "raciste": true
+  },
+  {
+   "title": "Eliteserien : Chiakha dénonce une insulte raciste en plein match",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0F3SFk3M1k1Mi03RGZ5MDl1TGFxU21leEtkREtsbkhEMnZ1MW5EUnhMSHduUk1LdUkzaE5RS1otM3drSWZVUGhEMDVBWm1wYVpzejNxTG9RQU9WUldDZEF4ZV9EdEFEU29LVVNieEV6UEl4MnRPN2Z1NnJLWkNneU5FTlRSZ3pSNGp6eko5NzZ6RTA?oc=5",
+   "description": "",
+   "pubDate": "2026-11-01T08:00:00+00:00",
+   "source": "Fennec Football",
+   "raciste": true
+  },
   {
    "title": "\"Victime de propos racistes, c’est moi qui suis suspendu sept mois !\" : la colère d’un joueur d’Écueillé et les faits",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObV81QTgyZnI2dlI4Z2dyUGlzZ2Zsa3lxcUtBWjRmbVVrdVRLWXBwNjZEYXl5WlIwVlZzLTNQUExPaER4VlN0VXJ4STdzeGoyTmVNVWFOU2RhLUx3aGJVcW1qMjBMSXhhblZBUFhXUklhLWdYOVB1Rm5GWE4xVkEyYzJnNlZ4V2VhN3U5dExycnNPYXc2SlEtUktSNTFQVW9Sa3AxS0NnclVsY2lJNHNSYVZPSGpJbk5XYWRfMnJFdDF1NTl6dDdRTlBCeTBNVEo1SFdFcmdjSlJDVHpQUWdpU0dxVE4xMUxtMnJMalR4RGJSUi0tUXBISU1vR0hJUQ?oc=5",
@@ -588,12 +604,12 @@
    "raciste": true
   },
   {
-   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
+   "title": "« Ni une tricheuse, ni une voleuse » : Coco Gauff dénonce le niveau « insensé » de racisme après un match en Chine",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPckdJMGluNk1IMERsRm9INUo0MlhUYmZwX2k5MEc4NkFNM01vQi01ZGRxV0ktckxrNkE1ejFwdkVBVDE2c1lRQS14SmpQV01hQTBFMFhhcWlSQVE4TVEzVzUzQzJveVBoYUNhaU5mRjZBRzNYTUQ5VWUyOGp3bDFnZzByUmV6TGpZclZTVFhuYy1mdDlZR1ZkV1VQWDdYbHpTX3ltd3l1T0xMcTZkN09mbDdHQVVaczdIVWl0bDF2d2Fvbk04Qms0LUgxVHB3b2VLdnc?oc=5",
    "description": "",
    "pubDate": "2026-10-06T07:00:00+00:00",
-   "source": "La Voix du Nord",
-   "raciste": false
+   "source": "Paris Match",
+   "raciste": true
   },
   {
    "title": "Cotentin. Un club de football dénonce des propos racistes tenus envers un joueur de l'équipe U15",
@@ -612,6 +628,14 @@
    "raciste": true
   },
   {
+   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
+   "description": "",
+   "pubDate": "2026-10-06T07:00:00+00:00",
+   "source": "La Voix du Nord",
+   "raciste": false
+  },
+  {
    "title": "Foot Amateur : un joueur U15 victime de propos racistes, son club monte au créneau",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNEt4bjMzY0F0Ym1UWHUtRmdyWm5RaERsN1RHeUtLQVRPUldWYlRvemF0NjFTNlhCaXZCc1JVdGZRaS12elVwMDB3Qnl4VHMtUm5KUXVicEFFaEZBVnJMX0U0Smg0Zlg3aUFkdkRXX2t2ZG14Q2VZaGpHOW9vbGdlUXYzR1VxbThIU2JqMkZPand4OG0wQzI4Z1lnN2VBLXo0bVlvclRkbUF3NVpjRTRpU19zMlVPMWZZNW5NQ3lCUFV2SkhaWnI3Ug?oc=5",
    "description": "",
@@ -628,20 +652,20 @@
    "raciste": true
   },
   {
-   "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
-   "description": "",
-   "pubDate": "2026-10-05T07:00:00+00:00",
-   "source": "lanouvellerepublique.fr",
-   "raciste": false
-  },
-  {
    "title": "« Sale noir » : un jeune joueur de football victime d’une insulte raciste dans le Cotentin",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONW8zUTJFWXE5SHNnNVYyZjZiLWdkdE9EMFhSQ3paZFNKWlJGMGVQbjVhdDJfNE1nV0NNM2VibkdNTXhHV1U2NEd0SmFZV3dkQ1dpX1B4dThXUFJVWXN6d2VTaXVTM1M0MHFzQVo2cjlxQ3g3LUtXSTNzSW93MnpqWVZEN3ExQkd2TFpEUXYzRXlLeG5yWE1ZWVNBY1RVOGRaem9UZnZNaktqR2RDSTY4dHY2czBPZFBxMm53UEN1V0ZGcTJ0UDNtUEdaelc0UFI1OFZlS2lkQQ?oc=5",
    "description": "",
    "pubDate": "2026-10-05T07:00:00+00:00",
    "source": "Actu.fr",
    "raciste": true
+  },
+  {
+   "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
+   "description": "",
+   "pubDate": "2026-10-05T07:00:00+00:00",
+   "source": "lanouvellerepublique.fr",
+   "raciste": false
   },
   {
    "title": "Football : le match U13 entre l’AS Étaples et Canche Ternoise arrêté après des propos racistes contre l’arbitre",

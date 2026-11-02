@@ -1,8 +1,64 @@
 {
- "maj": "2026-11-02T11:08:35+00:00",
+ "maj": "2026-11-02T21:42:57+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 243,
+ "compteur_racisme": 248,
  "incidents": [
+  {
+   "title": "OM - L'Olympique de Marseille a réalisé sa pire affluence au Vélodrome depuis 2018 !",
+   "link": "https://madeinmarseillais.ouest-france.fr/infos/article-om-l-olympique-de-marseille-a-realise-sa-pire-affluence-au-velodrome-depuis-2018-544385.html",
+   "description": "Il faut remonter au 8 avril 2018 pour voir un match de Ligue 1 au ... \", Ali Zarrak dénonce les insultes racistes après l'affaire des motards avec Papin.",
+   "pubDate": "2026-11-02T18:52:43+00:00",
+   "source": "madeinmarseillais.ouest-france.fr",
+   "raciste": true
+  },
+  {
+   "title": "\"Sale noir\" : un match interrompu et deux clubs qui s'opposent sur fond d'accusation de racisme",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOM1pPUUw5VFFtcnplSUswZDRUeXFqZTc3a0c0aE5fWTlLN1ZYbXVyQ3NEUHVJODFXQ1BZVUJKenZmRjd4YktzLU5IVG1Oc2VUdTVzZFpfQ0QyRkFIX1EwNWRnYS1oaW9WT0w1UnhFZUpOeGNHbjZWSW9vV2k2NDZIVG1GYjNWMl9xTjR3SElPLXZUcC1ERzFRMnRlNWtqaU9rN016NzljZ1NpZ0ktclNkc2hOTTlIMzhLRVQyYlBETzBFOEFTNnR3S3pYcXpSazVIZ000ZTJuenM4M0lGbE9DXzVIYlEwMW80aldURWw0NHNHRTN5c201NlF2ODY2cjRMdml4WlVucFlBblRZWVhmNzIxQlF6REdodXlRVXJYU2JhYjFrZEJOV2RVUktueWNzcnJF?oc=5",
+   "description": "",
+   "pubDate": "2026-11-02T16:59:57+00:00",
+   "source": "France 3 Régions",
+   "raciste": true
+  },
+  {
+   "title": "L'OL vire 20 supporters d'un groupe « anti-racisme »",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUVFFaXlvQjEzXzRpZ1g1MXpJWWQ1SHBrZUZJMExCa05QMk9ZM0Ita2I1TXZSdm5Oc1YtcHgzSTdPZ0ZydFd3dlBSSmRRNDd6OGNOdC0xMnlUVVlsMDJiWWRITXBZSGVSVWlMQVBlRV9Eb1VCaU1qWGZWVDFDb19DVzR0emp1enVLbkozay1ldTc?oc=5",
+   "description": "",
+   "pubDate": "2026-11-02T16:30:00+00:00",
+   "source": "Foot01",
+   "raciste": false
+  },
+  {
+   "title": "Football, Massini (AIA) : « Les insultes envers Ferrieri Caputi sont inacceptables, les femmes méritent le respect »",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQXzczdzJKbjk3VXR5RWJIZlJnODFnbWdPYTRRQ3h2cE5QY0hYemJTOVFDSVpXT1cwaW1kNzcyTWRkbDVWWjMwZlhpLXpIWUpieF9JTU00bnFqQ3hvVU1vVzVHVWFlR1NJUGNKNzZ4S25DWDUzYWRiTTNsd2g2TVRnY0hINmI5NGVybVhjOWktS1diczV1elk5TVplV3h2UW9uaG1fZUk5NWZzci04OFo3bW9TVW9IWk1jR2VGcHhOU0FZbk9KVUdTckEwbWxQaF8wVzRRWFc2aG5pdVBzeXFMYXQ4b1I?oc=5",
+   "description": "",
+   "pubDate": "2026-11-02T14:46:03+00:00",
+   "source": "LaPresse News",
+   "raciste": false
+  },
+  {
+   "title": "Chiakha victime de racisme de la part d'un joueur israélien",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEVTS2xFOHkwQWNwcW9iVDZXQTVFU283cnRmVTBQX1pibVJOeTh4c0N3ajVPNWpTN2pnZG85TVpYdk02QkEwSDFNVFhzOGFra1pDU1NVRk8xZngzV1VjaHlncEhDRWRTMS1PdVd5VGpDNjVxalA2SGkzZnpsOGNoS1lSbk5jWlo0TmVSempFMA?oc=5",
+   "description": "",
+   "pubDate": "2026-11-02T13:00:21+00:00",
+   "source": "Fennec Football",
+   "raciste": true
+  },
+  {
+   "title": "L'entraîneur Park Hang Seo a été victime de discrimination raciale en Thaïlande ; FAT prend la parole.",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSFh6Qk5lUHJqWTBiam9CWGdBYnNKOVFoenVnUjlrMW5uV250R0g0Ni1hR0tFam9JV0FHR0hqUnFhU2l1dkJwQlk4SE5wYXBIMUJfMHJhbmdyWldtZDV5OWNWUHBmOXNwcEl1LWlNVG5CZDBCS1JPdjlnSExIQno5QWxtaVN1MW5GSXBmMWVVQmNIZnNVNkE?oc=5",
+   "description": "",
+   "pubDate": "2026-11-02T11:30:35+00:00",
+   "source": "Vietnam.vn",
+   "raciste": true
+  },
+  {
+   "title": "Madame Pang dénonce la discrimination raciale dont a été victime l'entraîneur Park Hang Seo.",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFJfdDhHYXBuR0xzTWdydFVjeDFITEQyM0pFV2h2TTFfcWtiV0c4MHBFcndsMWhzSENkc0FrNnVDSl9HanVzQnRwLTdPcmNTN1hwTTBIRjR2NnlpNjNEM0wwQ1E0QTkyS3M5c3hNWUw1R3lXWlZsb0RFSmpYOTRoVC1MV0hlMS0tMGJkdG1DMk5SYllTM0l6bEVQNA?oc=5",
+   "description": "",
+   "pubDate": "2026-11-02T11:30:34+00:00",
+   "source": "Vietnam.vn",
+   "raciste": true
+  },
   {
    "title": "Joueuse de l'OM, Louise Fleury, dénonce la polémique sexiste sur le discours de Putellas au Ballon d'or",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVHRfZHMtdFh6ME9DQWg4cld1UnlTeUFoSmJHRTgwZ05NSkdSNFZ5YkhWT2x0RHcyVHBNaEdOU2wtZ2htRXBzT244RGFnOXZEY2xxdjlELUtaSDNCVTk0eVlnOTVfbGRvZ0VtdlJXeG02ZGVNMDZkenRBUXc4cGlLUURYcml5VFBwdnlTMWQ5UFpSMDRzMEtlX3pOLXk5SXZ0dE5tcUtNendKUlZuM0p4bG9rTjhESm00MmNMNXFLVkh1M0VVeDdJRkFLRlZ2eU5FVFd1d3lyaWFPbEgyQk5LeDFBbkFNazV3Q0E0VjQ4cW85SVhETW1IbjYwOERXcWs?oc=5",

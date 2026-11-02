@@ -1,8 +1,48 @@
 {
- "maj": "2026-11-02T00:45:24+00:00",
+ "maj": "2026-11-02T11:08:35+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 239,
+ "compteur_racisme": 243,
  "incidents": [
+  {
+   "title": "Joueuse de l'OM, Louise Fleury, dénonce la polémique sexiste sur le discours de Putellas au Ballon d'or",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVHRfZHMtdFh6ME9DQWg4cld1UnlTeUFoSmJHRTgwZ05NSkdSNFZ5YkhWT2x0RHcyVHBNaEdOU2wtZ2htRXBzT244RGFnOXZEY2xxdjlELUtaSDNCVTk0eVlnOTVfbGRvZ0VtdlJXeG02ZGVNMDZkenRBUXc4cGlLUURYcml5VFBwdnlTMWQ5UFpSMDRzMEtlX3pOLXk5SXZ0dE5tcUtNendKUlZuM0p4bG9rTjhESm00MmNMNXFLVkh1M0VVeDdJRkFLRlZ2eU5FVFd1d3lyaWFPbEgyQk5LeDFBbkFNazV3Q0E0VjQ4cW85SVhETW1IbjYwOERXcWs?oc=5",
+   "description": "",
+   "pubDate": "2026-11-02T10:39:38+00:00",
+   "source": "RMC Sport",
+   "raciste": false
+  },
+  {
+   "title": "Madame Pang et FAT dénoncent les injures racistes proférées à l'encontre de l'entraîneur Park Hang-seo : des mesures fermes seront prises.",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ05fRThxelcxVG1zMHdub0dZSUR4MmFJTkw0YURFeVhWSmtjMDJEdUxRUkJsYjFlVTlHSl9jWUExazNwTlpQUFFkWjduZVV4dmFwbmNFeGNSMHFXcy15ZmpPTjNBdjRQVTlXeENuYy1RWGtlRXYzWm9mdHhYa2tnbnVkeUN3YVJmb0RtMHZMMV96ak9FdEJoUWcwd0dCa1ZSSFR6SC1kRmtSQXlJTkxGV1V3?oc=5",
+   "description": "",
+   "pubDate": "2026-11-02T08:33:21+00:00",
+   "source": "Vietnam.vn",
+   "raciste": true
+  },
+  {
+   "title": "Réaction des clubs thaïlandais aux insultes racistes proférées à l'encontre de l'entraîneur Park Hang Seo.",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFhFQko5RDNoZ3NyOVFPeDB4TFJtWWNTblhCSlRLbW11cmR6TF9ETm5ULUhBcWNzeFBSNWl6M2VKRVhFbVRGSElVOGdJc2thU2hGQVk5bVpOTnltZUY5Tk5JTlJDbHdrVktDb1dVTElscWRSN2piUmtJRFJzY2pNV2s3YzJST0t0VkJZS3Y5WlNVZTdVaGxZcmZyelY?oc=5",
+   "description": "",
+   "pubDate": "2026-11-02T08:33:21+00:00",
+   "source": "Vietnam.vn",
+   "raciste": true
+  },
+  {
+   "title": "Ligue 1 - Les notes de l'OM face au TFC : Marseille s'offre le quatre à la suite et continue sa ...",
+   "link": "https://madeinmarseillais.ouest-france.fr/infos/article-ligue-1-les-notes-de-l-om-face-au-tfc-marseille-s-offre-le-quatre-a-la-suite-et-continue-sa-folle-remontee-du-classement-544298.html",
+   "description": "OFFICIEL MATCH Ligue 1 01/11. Les notes de l'OM face au TFC : Marseille ... \", Ali Zarrak dénonce les insultes racistes après l'affaire des motards avec ...",
+   "pubDate": "2026-11-02T01:08:23+00:00",
+   "source": "madeinmarseillais.ouest-france.fr",
+   "raciste": true
+  },
+  {
+   "title": "OM - Les mots d'Amine Gouiri après son but et le 4e succès de suite en Ligue 1 de l'OM face ...",
+   "link": "https://madeinmarseillais.ouest-france.fr/infos/article-om-les-mots-d-amine-gouiri-apres-son-but-et-le-4e-succes-de-suite-en-ligue-1-de-l-om-face-au-tfc-video-544309.html",
+   "description": "OFFICIEL MATCH Ligue 1 22h40. Les notes de l'OM face au TFC : Marseille ... \", Ali Zarrak dénonce les insultes racistes après l'affaire des motards avec ...",
+   "pubDate": "2026-11-01T23:06:32+00:00",
+   "source": "madeinmarseillais.ouest-france.fr",
+   "raciste": true
+  },
   {
    "title": "En direct : OM - Toulouse (0-0) - SO FOOT .com",
    "link": "https://www.sofoot.com/articles/en-direct-om-toulouse-2026",
@@ -559,7 +599,7 @@
    "title": "Foot Amateur : un dirigeant de la Ligue de Nouvelle-Aquitaine suspendu pour des propos racistes",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMUpOSDkycXB1RHRXTzdNLVUtWWhtS0UzczNmMktLUk40cXFOQTRnYjl3UnRDb1FaZVQxVjE4czZ4T2pLNmp2Q3lVSTBqdDNNLWJlZVRhOXlzYnZmbWd3NG9lNVNqb0Q0ZnJ2ckZqanNudGN5cnJtQVNnQkNVazhpYU5DU3ZBdjRtX2hybUpzZmpONlFGRmU2bU5oYXA0bHZCRFdUZ25SbF93bXNINGQ3NURwTDYzam0wUjQ4RW92elgzZ1BfVUx2b3N4djF2SXdaTWlMOGxyZF9DeE15czZKVg?oc=5",
    "description": "",
-   "pubDate": "2026-10-10T06:03:58+00:00",
+   "pubDate": "2026-10-10T07:00:00+00:00",
    "source": "Foot National",
    "raciste": true
   },
@@ -620,14 +660,6 @@
    "raciste": true
   },
   {
-   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
-   "description": "",
-   "pubDate": "2026-10-06T07:00:00+00:00",
-   "source": "La Voix du Nord",
-   "raciste": false
-  },
-  {
    "title": "Cotentin. Un club de football dénonce des propos racistes tenus envers un joueur de l'équipe U15",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmZZTEsza0U4cmtPd2NIQ2hFQjQzMXRRUHo1dy1PVkR2cG1vemJWM0htZUNvbkdNN19wLXJKc0hvRnQ0OGsxM2N6TXZqNzNrNGNISDJqNnUtWkl3a1g2Q0dld19FT2VtUnRyaUFYc2JELTFRdGRVUDdwd0poendBcFpkT0RQal9nUW5jRmtGT3VGRExLTDU5Y1Z6dGZFR3JpdjUtVk1YbWFWUlV3dkZUQVQtRHFNSzRnMjh0Z2lDZHNjY2NLX21vRlJ6Mlk3U2VSb3JDMHJlQjlzdw?oc=5",
    "description": "",
@@ -642,6 +674,14 @@
    "pubDate": "2026-10-06T07:00:00+00:00",
    "source": "Nord Littoral",
    "raciste": true
+  },
+  {
+   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
+   "description": "",
+   "pubDate": "2026-10-06T07:00:00+00:00",
+   "source": "La Voix du Nord",
+   "raciste": false
   },
   {
    "title": "Foot Amateur : un joueur U15 victime de propos racistes, son club monte au créneau",
@@ -668,14 +708,6 @@
    "raciste": true
   },
   {
-   "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
-   "description": "",
-   "pubDate": "2026-10-05T07:00:00+00:00",
-   "source": "lanouvellerepublique.fr",
-   "raciste": false
-  },
-  {
    "title": "« Sale noir » : un jeune joueur de football victime d’une insulte raciste dans le Cotentin",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONW8zUTJFWXE5SHNnNVYyZjZiLWdkdE9EMFhSQ3paZFNKWlJGMGVQbjVhdDJfNE1nV0NNM2VibkdNTXhHV1U2NEd0SmFZV3dkQ1dpX1B4dThXUFJVWXN6d2VTaXVTM1M0MHFzQVo2cjlxQ3g3LUtXSTNzSW93MnpqWVZEN3ExQkd2TFpEUXYzRXlLeG5yWE1ZWVNBY1RVOGRaem9UZnZNaktqR2RDSTY4dHY2czBPZFBxMm53UEN1V0ZGcTJ0UDNtUEdaelc0UFI1OFZlS2lkQQ?oc=5",
    "description": "",
@@ -684,16 +716,16 @@
    "raciste": true
   },
   {
-   "title": "Football : le match U13 entre l’AS Étaples et Canche Ternoise arrêté après des propos racistes contre l’arbitre",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSm8za2JqQ3RINnNEVmVDMmdybld2QWFUWlpVdFBQOUlKQlM4YUtDYXVOUlFFUjVtdm55M0docUdyOXE2dVFyN2otYlVoSGExZHBWS1JyRjZaYUFsM3IxVjNNc3Nxb3N4QjdSWHhRZkJSNlZ1bzZ5akh3ZnhXSERZdzB1alZhYzducVhVTjdjQW1UbjdndGJaYldidHlQWkh2Z2xxc1FXVEgyNWRFUEJpTVhYNzcyNElhNEFKOXJGSUhyRHJyTUdtel9tVllVQkZk?oc=5",
+   "title": "Football : acte isolé ou racisme ordinaire ? À Aigurande, l’alcool n’excuse pas tout",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3V3SXdWdkxrb05sRGNXbmlXcEtDdnVFMVMzWEs4T3FvSlZLdUV2SzhhaVYwVTI0TWRzeGp6NUM0Y2JzZ2tlMlB5d0gwdjFtMDgzX1piTnYwb1NLX1JsSE9uYU5EaDhrOEYyYXdDLWg1LTNrNDFzVzBvbWNha2lZakFRZ29qa2tDdFdLSlVGQjdKLVNFT2ljNV9GcUpmbURUdUczSncycjNmVS1SZ29zWkVCZ3FhRnRpZEo1UWMybU9RTjFNUUZvTERoT1M2M2NOX29jNXUwN0J4UllUSW9KTW9weW5pMkpCanc?oc=5",
    "description": "",
    "pubDate": "2026-10-05T07:00:00+00:00",
-   "source": "La Voix du Nord",
-   "raciste": true
+   "source": "lanouvellerepublique.fr",
+   "raciste": false
   },
   {
-   "title": "« Singes », « Magic System » : le club de Coudekerque victime de racisme lors d’un match à Hazebrouck",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeS1NTGZHUXRXbzJ6eFo4eE1Id2l1X3RZN216U2U0UHRHUm1RMC15cklBQk5Md2NmQ19iUWdiVC1BQ0R3TC1UamNzWUhidTFtajB4V1lMTjNselVnN0dIZ0tLdzVyWlVvbFYyU005bzVrVU1YRFRuYVdfbG4taG5BWXAwbUJUb0pLLTVjMnNFdDllQnZFT25iUEM0ZlRENFJLNWRGeTFIc3lSWnFrVlVFcTVrQmZxSmZMak1EUm52cE05Q21xVmYwVzZDSkc?oc=5",
+   "title": "Football : le match U13 entre l’AS Étaples et Canche Ternoise arrêté après des propos racistes contre l’arbitre",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSm8za2JqQ3RINnNEVmVDMmdybld2QWFUWlpVdFBQOUlKQlM4YUtDYXVOUlFFUjVtdm55M0docUdyOXE2dVFyN2otYlVoSGExZHBWS1JyRjZaYUFsM3IxVjNNc3Nxb3N4QjdSWHhRZkJSNlZ1bzZ5akh3ZnhXSERZdzB1alZhYzducVhVTjdjQW1UbjdndGJaYldidHlQWkh2Z2xxc1FXVEgyNWRFUEJpTVhYNzcyNElhNEFKOXJGSUhyRHJyTUdtel9tVllVQkZk?oc=5",
    "description": "",
    "pubDate": "2026-10-05T07:00:00+00:00",
    "source": "La Voix du Nord",
@@ -705,6 +737,14 @@
    "description": "",
    "pubDate": "2026-10-05T07:00:00+00:00",
    "source": "Foot National",
+   "raciste": true
+  },
+  {
+   "title": "« Singes », « Magic System » : le club de Coudekerque victime de racisme lors d’un match à Hazebrouck",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeS1NTGZHUXRXbzJ6eFo4eE1Id2l1X3RZN216U2U0UHRHUm1RMC15cklBQk5Md2NmQ19iUWdiVC1BQ0R3TC1UamNzWUhidTFtajB4V1lMTjNselVnN0dIZ0tLdzVyWlVvbFYyU005bzVrVU1YRFRuYVdfbG4taG5BWXAwbUJUb0pLLTVjMnNFdDllQnZFT25iUEM0ZlRENFJLNWRGeTFIc3lSWnFrVlVFcTVrQmZxSmZMak1EUm52cE05Q21xVmYwVzZDSkc?oc=5",
+   "description": "",
+   "pubDate": "2026-10-05T07:00:00+00:00",
+   "source": "La Voix du Nord",
    "raciste": true
   },
   {

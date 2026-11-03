@@ -1,8 +1,32 @@
 {
- "maj": "2026-11-03T06:47:52+00:00",
+ "maj": "2026-11-03T17:03:53+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 250,
+ "compteur_racisme": 252,
  "incidents": [
+  {
+   "title": "OL : 20 supporters d’un groupe « anti-racisme » débarqués en plein match",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNllNSkJKdHdvRDhUcmFWTkFva0huUWFIRi02cGpEaVBKMkdGOWdCbm1qSV9kLXNUZ1JsSDdKcGpGMzFTRVNYMXpSaURZZHB4ZTFySGdYWVR1SzR1S3Y0cjI0ZVo1dGpDZUtwRkIwRHBuVkdjbnBiNzNWWnk0YWhvVGRrc3A3NDZTLWlCNTJQQ0xTQXRubjUyUm5ZYWF5aG9GLVBtTWFwY1FyaEc3?oc=5",
+   "description": "",
+   "pubDate": "2026-11-03T13:32:00+00:00",
+   "source": "Sport.fr",
+   "raciste": false
+  },
+  {
+   "title": "Une nouvelle agression d'arbitre dans le foot amateur",
+   "link": "https://www.sofoot.com/breves/un-arbitre-agresse-par-deux-joueurs-lors-dun-match-amateur-en-seine-saint-denis",
+   "description": "... match, de 4 e division de district de Seine-Saint-Denis (le plus bas échelon). Ils auraient ensuite proféré des insultes racistes et l'auraient ...",
+   "pubDate": "2026-11-03T13:02:38+00:00",
+   "source": "sofoot.com",
+   "raciste": true
+  },
+  {
+   "title": "Les médias sud-coréens expriment leur indignation face aux insultes racistes proférées à l'encontre de l'entraîneur Park Hang Seo.",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRG1ZU3BsWm1YT1VxOWRaRnpnV21idEgySHhtTXkzUWJ2U05DLUFKVTRYcWNkNTlGZHJHQm1UdFVIbkdZYlFqRHB2WjJTUW94UDlSa2Mwc0dIcjRjZVVXaVBSdnV5bHg4WW9tdzhwckhjWk0wOWpKR1dTZHkwTmhVTEhLVVVvYlV5ODZPWmc5T21TYTZJ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-03T09:35:07+00:00",
+   "source": "Vietnam.vn",
+   "raciste": true
+  },
   {
    "title": "Un journal thaïlandais révèle une vérité surprenante concernant les insultes proférées à l'encontre de l'entraîneur Park Hang Seo.",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkZtY2ZkMHJOeHZBV1JCVVlNR2lnY1d4STdaajNsXzlCSXo0RGJ5ekJDb3h0YUVmMlRvLWhrWUZpeDAwdlE4WjhzTzVYWFhBcU54NUswekV3dUtuelViMnFyUmFPNk9EUGk4d0EtdEJ3TW9pLWM2NU02UkFGYUk1S3lsVmxJV3lDbnRUendQVnVWN0FGUEJSaVNmcw?oc=5",

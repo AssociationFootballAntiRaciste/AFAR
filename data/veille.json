@@ -1,8 +1,56 @@
 {
- "maj": "2026-11-03T17:03:53+00:00",
+ "maj": "2026-11-03T23:23:55+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 252,
+ "compteur_racisme": 258,
  "incidents": [
+  {
+   "title": "« Je ne suis pas Jesús ! ».. Une confusion d’identité expose un joueur à des insultes et des menaces racistes après la mort de l’attaquant de Tenerife",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaEFUVzZSYjFKUndvek5EQUQyNWpJNEdueDc5bVQwQ0ZqVmRYTnJsbGxLRnJMbE5Xd3h4dFJvbjhOT01ZSE1kVzE0QUo5MVlqZTl5cll0LVhhNWR4Y1c4OUw4VmVUdjd0UVpUbXlpd25tdktEY3dndUloN0lrcnFXTUdyN0pab1BOb21ILW41dS1Kd1otVU5uXzJLLXF4c29KZ0Z4Y3BKZFFCem5IcFAyNm91c3hYbnd0bFctQW9tdHF6TjFoanFTeF93Z0FGQ0IzMUlfckQwZ1VINGdCcnp1bVJob21PbmFyRGdaU1hGQ1N5UjBvb0ZQc192blEtalpnR2JEc3FzYzNiNk5FLVVGY1pB?oc=5",
+   "description": "",
+   "pubDate": "2026-11-03T20:39:02+00:00",
+   "source": "Foot-Africa.com",
+   "raciste": true
+  },
+  {
+   "title": "Nathan Zézé n'est pas d'accord avec Cristiano Ronaldo - Foot Mercato",
+   "link": "https://www.footmercato.net/a4447525481357523105-nathan-zeze-nest-pas-daccord-avec-cristiano-ronaldo",
+   "description": "En 2024, Cristiano Ronaldo (41 ans) avait sévèrement taclé le niveau de la Ligue 1 ... Torino : Zakaria Aboukhlal victime d' insultes racistes .",
+   "pubDate": "2026-11-03T18:51:50+00:00",
+   "source": "footmercato.net",
+   "raciste": true
+  },
+  {
+   "title": "Décès de Jesús de Miguel : un homonyme du gardien de but victime d' insultes racistes",
+   "link": "https://www.lefigaro.fr/sports/football/espagne/foot-le-mauvais-owono-victime-d-insultes-racistes-apres-le-deces-de-jesus-de-miguel-20261103",
+   "description": "... insultes racistes et les menaces qu'il reçoit depuis le décès de l ... Classement Ligue 1 · Calendrier et résultats Ligue 2 · Classement Ligue 2 ...",
+   "pubDate": "2026-11-03T18:23:36+00:00",
+   "source": "lefigaro.fr",
+   "raciste": true
+  },
+  {
+   "title": "Victime d'un choc violent, Jesús de Miguel est décédé - SO FOOT .com",
+   "link": "https://www.sofoot.com/articles/victime-dun-choc-violent-jesus-de-miguel-est-decede",
+   "description": "... insultes racistes et de menaces. 10 réactions. Décès de Jesús de Miguel ... à la Ligue 1 ? Et si le scandale de Kylian Mbappé en Chine ...",
+   "pubDate": "2026-11-03T18:18:49+00:00",
+   "source": "sofoot.com",
+   "raciste": true
+  },
+  {
+   "title": "OL : Christophe Dugarry est écoeuré par Paulo Fonseca - Foot Mercato",
+   "link": "https://www.footmercato.net/a705408463055985101-ol-christophe-dugarry-est-ecoeure-par-paulo-fonseca",
+   "description": "Arsenal : William Saliba de retour à l'entraînement · 17:18. Torino : Zakaria Aboukhlal victime d' insultes racistes ... La Ligue ...",
+   "pubDate": "2026-11-03T17:43:16+00:00",
+   "source": "footmercato.net",
+   "raciste": true
+  },
+  {
+   "title": "Décès du footballeur Jesús de Miguel : un homonyme du gardien responsable du choc victime d’une vague de cyberharcèlement",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQTTBxSXR5OVN3Z1c5WlNkZVRiLXRJRkRlTVR0RnF4T29qa3Flb1ZUdHNSOEtXRTROYUVnOGxYNzhqNWcxQ0tyY0NPMXBoVDhaaFNubkd5NnFtd0JWVnh0X3N5bnFQMzRPMHRGRWxFeEVXQ3FyYjk5Ty1UYWRCZEk0M1FnbGRZejZfR3FyMFM1cERqdUVtSTMtOEZDX21SeElNSXlCZVhKdENRYWdIa2xxb1N5MW5ucmM1VFdhalB3bmp2WU1jN2h6QWVuQVpEYVFuLVlYb0psR19hMXNSeVowaWtKWl9CQ2hGeDJJQkVpOC00VEg4eUd5UFZQUmVSc3p6bFEydUdoNzZ6UmtrWWI5d0EwOGlyRG94UzJBTTRURnBMUU1rWFphemxR?oc=5",
+   "description": "",
+   "pubDate": "2026-11-03T17:30:00+00:00",
+   "source": "Le Parisien",
+   "raciste": false
+  },
   {
    "title": "OL : 20 supporters d’un groupe « anti-racisme » débarqués en plein match",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNllNSkJKdHdvRDhUcmFWTkFva0huUWFIRi02cGpEaVBKMkdGOWdCbm1qSV9kLXNUZ1JsSDdKcGpGMzFTRVNYMXpSaURZZHB4ZTFySGdYWVR1SzR1S3Y0cjI0ZVo1dGpDZUtwRkIwRHBuVkdjbnBiNzNWWnk0YWhvVGRrc3A3NDZTLWlCNTJQQ0xTQXRubjUyUm5ZYWF5aG9GLVBtTWFwY1FyaEc3?oc=5",
@@ -17,6 +65,14 @@
    "description": "... match, de 4 e division de district de Seine-Saint-Denis (le plus bas échelon). Ils auraient ensuite proféré des insultes racistes et l'auraient ...",
    "pubDate": "2026-11-03T13:02:38+00:00",
    "source": "sofoot.com",
+   "raciste": true
+  },
+  {
+   "title": "Football - Page 2241 - Sports.fr",
+   "link": "https://www.sports.fr/football/page/2241?test=1",
+   "description": "02/11 Football Ligue 2 : Reims-Sochaux, quelle chaîne diffuse le match ? ... insultes-racistes -contre-belaili. Ligue 1 · Des insultes racistes contre ...",
+   "pubDate": "2026-11-03T10:16:46+00:00",
+   "source": "sports.fr",
    "raciste": true
   },
   {

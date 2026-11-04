@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-04T06:23:13+00:00",
+ "maj": "2026-11-04T17:15:21+00:00",
  "date_depart": "2026-01-01",
  "compteur_racisme": 260,
  "incidents": [
@@ -196,16 +196,16 @@
    "raciste": false
   },
   {
-   "title": "Madame Pang et FAT dénoncent les injures racistes proférées à l'encontre de l'entraîneur Park Hang-seo : des mesures fermes seront prises.",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ05fRThxelcxVG1zMHdub0dZSUR4MmFJTkw0YURFeVhWSmtjMDJEdUxRUkJsYjFlVTlHSl9jWUExazNwTlpQUFFkWjduZVV4dmFwbmNFeGNSMHFXcy15ZmpPTjNBdjRQVTlXeENuYy1RWGtlRXYzWm9mdHhYa2tnbnVkeUN3YVJmb0RtMHZMMV96ak9FdEJoUWcwd0dCa1ZSSFR6SC1kRmtSQXlJTkxGV1V3?oc=5",
+   "title": "Réaction des clubs thaïlandais aux insultes racistes proférées à l'encontre de l'entraîneur Park Hang Seo.",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFhFQko5RDNoZ3NyOVFPeDB4TFJtWWNTblhCSlRLbW11cmR6TF9ETm5ULUhBcWNzeFBSNWl6M2VKRVhFbVRGSElVOGdJc2thU2hGQVk5bVpOTnltZUY5Tk5JTlJDbHdrVktDb1dVTElscWRSN2piUmtJRFJzY2pNV2s3YzJST0t0VkJZS3Y5WlNVZTdVaGxZcmZyelY?oc=5",
    "description": "",
    "pubDate": "2026-11-02T08:33:21+00:00",
    "source": "Vietnam.vn",
    "raciste": true
   },
   {
-   "title": "Réaction des clubs thaïlandais aux insultes racistes proférées à l'encontre de l'entraîneur Park Hang Seo.",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFhFQko5RDNoZ3NyOVFPeDB4TFJtWWNTblhCSlRLbW11cmR6TF9ETm5ULUhBcWNzeFBSNWl6M2VKRVhFbVRGSElVOGdJc2thU2hGQVk5bVpOTnltZUY5Tk5JTlJDbHdrVktDb1dVTElscWRSN2piUmtJRFJzY2pNV2s3YzJST0t0VkJZS3Y5WlNVZTdVaGxZcmZyelY?oc=5",
+   "title": "Madame Pang et FAT dénoncent les injures racistes proférées à l'encontre de l'entraîneur Park Hang-seo : des mesures fermes seront prises.",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ05fRThxelcxVG1zMHdub0dZSUR4MmFJTkw0YURFeVhWSmtjMDJEdUxRUkJsYjFlVTlHSl9jWUExazNwTlpQUFFkWjduZVV4dmFwbmNFeGNSMHFXcy15ZmpPTjNBdjRQVTlXeENuYy1RWGtlRXYzWm9mdHhYa2tnbnVkeUN3YVJmb0RtMHZMMV96ak9FdEJoUWcwd0dCa1ZSSFR6SC1kRmtSQXlJTkxGV1V3?oc=5",
    "description": "",
    "pubDate": "2026-11-02T08:33:21+00:00",
    "source": "Vietnam.vn",
@@ -844,6 +844,14 @@
    "raciste": true
   },
   {
+   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
+   "description": "",
+   "pubDate": "2026-10-06T07:00:00+00:00",
+   "source": "La Voix du Nord",
+   "raciste": false
+  },
+  {
    "title": "Cotentin. Un club de football dénonce des propos racistes tenus envers un joueur de l'équipe U15",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmZZTEsza0U4cmtPd2NIQ2hFQjQzMXRRUHo1dy1PVkR2cG1vemJWM0htZUNvbkdNN19wLXJKc0hvRnQ0OGsxM2N6TXZqNzNrNGNISDJqNnUtWkl3a1g2Q0dld19FT2VtUnRyaUFYc2JELTFRdGRVUDdwd0poendBcFpkT0RQal9nUW5jRmtGT3VGRExLTDU5Y1Z6dGZFR3JpdjUtVk1YbWFWUlV3dkZUQVQtRHFNSzRnMjh0Z2lDZHNjY2NLX21vRlJ6Mlk3U2VSb3JDMHJlQjlzdw?oc=5",
    "description": "",
@@ -858,14 +866,6 @@
    "pubDate": "2026-10-06T07:00:00+00:00",
    "source": "Nord Littoral",
    "raciste": true
-  },
-  {
-   "title": "Racisme pendant une rencontre de football à Étaples : « Des adultes ont tout gâché lors d’un match d’enfants, c’est honteux",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONERFTWNhblVSNXAyM3kxaWVHeG9PM2o5RjhPaWRrNzlFR2pKNmRKQ2E4NGZTVWVfZ2RGQVRLeThZbl80Qi1udGR0TXJmY0JQbk5KY1ZRbWdxbXh3UmVfTVFJR01FendSd2Yxc1k5Z0VBZHZHSWVjc3pCQ3Fuak00ZTRMMzlzenZ3OEVIbk5pNVdIUGFrOHB3RzNJNDl6azJjZXdONUc2dnBHZzJMSjJvRHFqRHQ1ejJLNzA0QWFVS2ljTUh4R0t1ZDdVbw?oc=5",
-   "description": "",
-   "pubDate": "2026-10-06T07:00:00+00:00",
-   "source": "La Voix du Nord",
-   "raciste": false
   },
   {
    "title": "Foot Amateur : un joueur U15 victime de propos racistes, son club monte au créneau",

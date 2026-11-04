@@ -1,8 +1,16 @@
 {
- "maj": "2026-11-04T17:15:21+00:00",
+ "maj": "2026-11-04T23:40:03+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 260,
+ "compteur_racisme": 261,
  "incidents": [
+  {
+   "title": "Jesús Owono prend la parole pour la première fois après la mort de Jesús de Miguel",
+   "link": "https://www.sofoot.com/breves/deces-de-jesus-de-miguel-jesus-owono-prend-la-parole-pour-la-premiere-fois-apres-la-mort-de-jesus-de-miguel",
+   "description": "Décès de Jesús de Miguel : un autre Owono victime d' insultes racistes et de menaces ... Logo de a compétition Ligue 1 · Logo de a compétition Ligue ...",
+   "pubDate": "2026-11-04T19:47:58+00:00",
+   "source": "sofoot.com",
+   "raciste": true
+  },
   {
    "title": "La France connaît ses adversaires en Ligue des nations - SO FOOT .com",
    "link": "https://www.sofoot.com/breves/la-france-avec-langleterre-le-portugal-et-lautriche-en-ligue-des-nations",
@@ -196,16 +204,16 @@
    "raciste": false
   },
   {
-   "title": "Réaction des clubs thaïlandais aux insultes racistes proférées à l'encontre de l'entraîneur Park Hang Seo.",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFhFQko5RDNoZ3NyOVFPeDB4TFJtWWNTblhCSlRLbW11cmR6TF9ETm5ULUhBcWNzeFBSNWl6M2VKRVhFbVRGSElVOGdJc2thU2hGQVk5bVpOTnltZUY5Tk5JTlJDbHdrVktDb1dVTElscWRSN2piUmtJRFJzY2pNV2s3YzJST0t0VkJZS3Y5WlNVZTdVaGxZcmZyelY?oc=5",
+   "title": "Madame Pang et FAT dénoncent les injures racistes proférées à l'encontre de l'entraîneur Park Hang-seo : des mesures fermes seront prises.",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ05fRThxelcxVG1zMHdub0dZSUR4MmFJTkw0YURFeVhWSmtjMDJEdUxRUkJsYjFlVTlHSl9jWUExazNwTlpQUFFkWjduZVV4dmFwbmNFeGNSMHFXcy15ZmpPTjNBdjRQVTlXeENuYy1RWGtlRXYzWm9mdHhYa2tnbnVkeUN3YVJmb0RtMHZMMV96ak9FdEJoUWcwd0dCa1ZSSFR6SC1kRmtSQXlJTkxGV1V3?oc=5",
    "description": "",
    "pubDate": "2026-11-02T08:33:21+00:00",
    "source": "Vietnam.vn",
    "raciste": true
   },
   {
-   "title": "Madame Pang et FAT dénoncent les injures racistes proférées à l'encontre de l'entraîneur Park Hang-seo : des mesures fermes seront prises.",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ05fRThxelcxVG1zMHdub0dZSUR4MmFJTkw0YURFeVhWSmtjMDJEdUxRUkJsYjFlVTlHSl9jWUExazNwTlpQUFFkWjduZVV4dmFwbmNFeGNSMHFXcy15ZmpPTjNBdjRQVTlXeENuYy1RWGtlRXYzWm9mdHhYa2tnbnVkeUN3YVJmb0RtMHZMMV96ak9FdEJoUWcwd0dCa1ZSSFR6SC1kRmtSQXlJTkxGV1V3?oc=5",
+   "title": "Réaction des clubs thaïlandais aux insultes racistes proférées à l'encontre de l'entraîneur Park Hang Seo.",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFhFQko5RDNoZ3NyOVFPeDB4TFJtWWNTblhCSlRLbW11cmR6TF9ETm5ULUhBcWNzeFBSNWl6M2VKRVhFbVRGSElVOGdJc2thU2hGQVk5bVpOTnltZUY5Tk5JTlJDbHdrVktDb1dVTElscWRSN2piUmtJRFJzY2pNV2s3YzJST0t0VkJZS3Y5WlNVZTdVaGxZcmZyelY?oc=5",
    "description": "",
    "pubDate": "2026-11-02T08:33:21+00:00",
    "source": "Vietnam.vn",
@@ -688,7 +696,7 @@
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcE9SV1BqRUtvdGtYVkU5TmRvd19uX1BuN0JOV2tYcVpFUlRrS1F6OVdRVjdiY2V3Y0NtbDRRNVRuWmozUUZSbUZoX21fUkFVaGtGa0RCOTVKcGozX19qOUw0Y2RQM2NQcVFNN1JjV1RHZTV2TDZTSHAwaGtwZUN5Z0ZfdFFUX2NaWkZGeFJEV2tDSHdsaEs5S3IyaXc3Rms2WjctWURROHJoYjFDQXJvbmU0VGU5ek5veGh2bkM4ajQ5Tk53LVhaVUlwQ0pqT3lQd3U4bWxNRFhsVmFPVzNCMy03aGw0YWhhQW9CdHo3RGVKdXhSbk9qV1p0NXRTRTQ?oc=5",
    "description": "",
    "pubDate": "2026-10-15T07:00:00+00:00",
-   "source": "MadeInFOOT",
+   "source": "MadeInFoot",
    "raciste": false
   },
   {

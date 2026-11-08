@@ -1,8 +1,16 @@
 {
- "maj": "2026-11-08T17:55:57+00:00",
+ "maj": "2026-11-08T22:05:48+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 262,
+ "compteur_racisme": 263,
  "incidents": [
+  {
+   "title": "\"On sait qui tu es, on va te buter\" : insultes et agression pendant un match de football à ...",
+   "link": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/jura/saint-claude/on-sait-qui-tu-es-on-va-te-buter-insultes-et-agression-pendant-un-match-de-football-a-morbier-une-enquete-ouverte-3446328.html",
+   "description": "Ce dimanche 1er novembre, un match de football de première division de district a dégénéré à Morbier dans le Jura ... insultes racistes présumées tenues ...",
+   "pubDate": "2026-11-08T17:54:55+00:00",
+   "source": "france3-regions.franceinfo.fr",
+   "raciste": true
+  },
   {
    "title": "L'entraîneur Park Hang-seo et Kanchanaburi battent un adversaire redoutable après un incident de discrimination raciale : un agent révèle des détails importants.",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWkc4MkZVLXhWOFQ3cS1INFFpU0ZWdnJKMFNaQnFBX2taU3Y0T0pZOFN6YTNfaXpwX1Zka0UtMkdGZ212TmZhOFZuSWZIQlZmQ2xzSWpiUzJ2QURVWVNjbGE4QnNXR0NRVGEwV2RBWnpGdHB4TU0wcEk1aEV5R196ZmVoN1hHQXJucGkwdEFYaERGS0pxcU5hYk9aQmswakJ1LUxlblJCcDFISERsemo1d1NnWmRWWnNkMXZqeGRjMmU4Zzh4T2t4R085bzkzZkdYTXBN?oc=5",

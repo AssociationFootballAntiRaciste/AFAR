@@ -1,8 +1,24 @@
 {
- "maj": "2026-11-08T22:05:48+00:00",
+ "maj": "2026-11-09T06:32:08+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 263,
+ "compteur_racisme": 265,
  "incidents": [
+  {
+   "title": "Ligue 1 - Les notes de l'OM face au RC Lens : Marseille arrache une victoire précieuse à ...",
+   "link": "https://madeinmarseillais.ouest-france.fr/infos/article-ligue-1-les-notes-de-l-om-face-au-rc-lens-marseille-arrache-une-victoire-precieuse-a-bollaert-et-se-rapproche-du-podium-545174.html",
+   "description": "OFFICIEL MATCH Ligue 1 22h43. Les notes de l'OM face au RC Lens ... \", Ali Zarrak dénonce les insultes racistes après l'affaire des motards avec Papin.",
+   "pubDate": "2026-11-08T22:07:09+00:00",
+   "source": "madeinmarseillais.ouest-france.fr",
+   "raciste": true
+  },
+  {
+   "title": "Ligue 1 - RC Lens - OM : Bruno Genesio demande aux arbitres de décaler le match !",
+   "link": "https://madeinmarseillais.ouest-france.fr/infos/article-ligue-1-rc-lens-om-bruno-genesio-demande-aux-arbitres-de-decaler-le-match-545150.html",
+   "description": "OFFICIEL MATCH Ligue 1 22h43. Les notes de l'OM face au RC ... \", Ali Zarrak dénonce les insultes racistes après l'affaire des motards avec Papin.",
+   "pubDate": "2026-11-08T22:03:08+00:00",
+   "source": "madeinmarseillais.ouest-france.fr",
+   "raciste": true
+  },
   {
    "title": "\"On sait qui tu es, on va te buter\" : insultes et agression pendant un match de football à ...",
    "link": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/jura/saint-claude/on-sait-qui-tu-es-on-va-te-buter-insultes-et-agression-pendant-un-match-de-football-a-morbier-une-enquete-ouverte-3446328.html",
@@ -3822,5 +3838,23 @@
    "manuel": true
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "https://news.google.com/rss/search?q=racisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=insultes+racistes+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=propos+racistes+footballeur+when%3A30d&hl=fr&gl=FR&ce : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=chants+racistes+stade+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=cris+de+singe+football+when%3A30d&hl=fr&gl=FR&ceid=FR : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=banderole+raciste+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=racisme+Ligue+1+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=racisme+football+amateur+district+when%3A30d&hl=fr&gl : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=antis%C3%A9mitisme+football+when%3A30d&hl=fr&gl=FR&ce : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=islamophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=homophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3A : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=sexisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=%22Association+des+Footballeurs+Antiracistes%22+when% : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=AFAR+football+racisme+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=%22histoire+populaire+du+sport%22+Tribune+Saint-Ouen+ : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=Tribune+stade+Bauer+El+Khatib+when%3A30d&hl=fr&gl=FR& : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=%22Une+histoire+populaire+du+sport%22+when%3A30d&hl=f : HTTP Error 503: Service Unavailable"
+ ]
 }

@@ -1,8 +1,104 @@
 {
- "maj": "2026-11-09T06:32:08+00:00",
+ "maj": "2026-11-09T19:50:16+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 265,
+ "compteur_racisme": 277,
  "incidents": [
+  {
+   "title": "Un club de football de la Manche quitte le terrain après une insulte raciste",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaDg1aklobDdvWVlTNUl1S2NEY3pENlpQMVNUZ1FlNml4V2lKTHJFVUlZYnZERVQ3djhGcFUwcVBPSUk0QTZCRmlUWXRtYTk3ZEFXT1psa3ZLdS1jTl83blM5YUJaenh1c3VsSDFxaVFZZFN3Z18tZmFkb2pUQlB3RWVlbzdqWUF1cWk0eHpwWUtXQkJPdnZLMG9OTUNpaGhYa2FGOUFFN0MyVTlZdXdJb1E4eVZKX2poYl9YYndPZXRoWGVHbW5VSFoyRXA1Zw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-09T17:43:09+00:00",
+   "source": "ici.fr",
+   "raciste": true
+  },
+  {
+   "title": "« Retourne d'où tu viens » : deux matches de football amateur stoppés après des propos racistes, un arbitre insulté",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLWVoQXI1UC1RVXhGMllHOXVyb0pGcXZDdi11ZGFXdWZYVDdPZVd6R3VsSDF2M0tDbk56dmtBMjd3YWt5cmk3dW9ibWlzZGR4VURIV3dkSVplcXdHSnZSOWlENFFVNi1UMFlxbEpTZmU4WFZVNS1WUGNCWG1aR01jeTlTUjVhWUhmUkVyWnFLSUE2RUMwZWpqcy1jOGtnN3loV193R0dCeTBydUJrSktBMWwwMVlfdk1PNzFCZXFid202OTlJVmNMVGJaZjR3cE9KLS1LQmlFcVZwODl2eUJkeXRYSkhVS3d6bnpydUd0dElya1BHd2cwX0h3RmpWR2toMDFHTkl0ZE9teklnQkUwMTA1TnQ4ZTg?oc=5",
+   "description": "",
+   "pubDate": "2026-11-09T17:17:39+00:00",
+   "source": "France 3 Régions",
+   "raciste": true
+  },
+  {
+   "title": "Dans la Manche, une équipe de football quitte le terrain après des propos racistes visant l’un de ses joueurs",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZHV2cDN3RTVXTFpYM3JyVnJ5Y2xDSDVLcDJBRTVlbzdhallKTVBhQVFnZE5fQTBXWjNHRHRiR2I2cnl3aXVBcF9JdnVWWi1PMHp0aHZUekpFNU1VMjNqYWN5T0ZuU1BQb0JQYVBnczF4YjYyeWg5R0ZNWTlfMzFoNmFGZS1PMy1GcWpPVFM4eW5UYkdPTXV6M0FzSlJrVzhyUThDLTFzenZuYnNDb2lnbE96aWREM01xSlpFdjdfYS1CZjZ2ajF2c09qeGMtVEwzbUo5ckJXSzFQSDdYV01MdWQwTWdOak42aG5NVkRaRHlMSTJXdkZTVHNtSUZQUmNDUFVULXdfc0dkaElPM3JGWGw4T1pzWXc?oc=5",
+   "description": "",
+   "pubDate": "2026-11-09T17:07:21+00:00",
+   "source": "Ouest-France",
+   "raciste": true
+  },
+  {
+   "title": "Ligue 1 - Un Marseillais dans l'équipe-type de la 10ème journée de L1 - MadeInMarseillais",
+   "link": "https://madeinmarseillais.ouest-france.fr/infos/article-ligue-1-un-marseillais-dans-l-equipe-type-de-la-10eme-journee-de-l1-545211.html",
+   "description": "OFFICIEL MATCH Ligue 1 08/11. Les notes de l'OM face au RC ... \", Ali Zarrak dénonce les insultes racistes après l'affaire des motards avec Papin.",
+   "pubDate": "2026-11-09T16:56:01+00:00",
+   "source": "madeinmarseillais.ouest-france.fr",
+   "raciste": true
+  },
+  {
+   "title": "Football amateur : trois matchs arrêtés ce dimanche dans le Nord-Pas-de-Calais après des insultes racistes",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZWxIMHRHWE5aWlZxTlpjQjA0QVltcUt5UVBZckVhZzMtU2ZLWFNhTDNpOGk3TlFoS1dpX0lrcjVEdHg1S21wY1czZ1AxZ3lVMTFobmFMNTE2T0NWa0hkSUZicW1PbjlINnF1QjlqYkQ1NG1UaGRoVnJncENnYXEwRmFjanJoTVREYWxjSjVNbXJza19uWEpVNmUzUWszWjU4U2RLWERjbnNVMFpRTWpQbmppYnJlMmNrQUROVXFRM1JqUWIySC1JVzNn?oc=5",
+   "description": "",
+   "pubDate": "2026-11-09T16:15:43+00:00",
+   "source": "Nord Littoral",
+   "raciste": true
+  },
+  {
+   "title": "Propos racistes au match de foot à Arques : « Je suis prêt à aller là-bas pour m’excuser auprès du joueur",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSU9GbWVQenlIM0MtallYeHhuWDdDS3djRnVJNTRCWnd6U3otaExzN19CaFdlbHNMWXRfWWIzNlZNV1ktTmVZdjZFd29lcHNHYzgzaW9kUVo4cDQtZFlFemQzaUpIS1dzd0NRek0wZlE4ZHVpeEd1d0N2bU1pbWd0N3JZaWw4NjhMeE40VUNFdS02T2NsUzFxcEJPS1hxSlFxNUozRWZBRWp1UWRPMDVheWtvandERnFmWUpLckhGV2s2Y1Z4X0lFcXdiMFU2Ujla?oc=5",
+   "description": "",
+   "pubDate": "2026-11-09T15:42:21+00:00",
+   "source": "La Voix du Nord",
+   "raciste": true
+  },
+  {
+   "title": "À Arques, le match de foot arrêté à cause de propos racistes tenus… par un élu",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmhiM18wY1JKY1Z6c05jUnh1MUhFSFVibzg0a2FQZ1Vsb2pmeGF1T2I1djRiYzMtNW5PM0RROFg5ODJNSFRpbkhDVVdtR21uTnVWWTQ4c0VqZy1YdklVWk45bVJPRVlfRDdSYUZ5TzBHZUJSQlpGNnMwVEJaSjhseUtKUDh6aTA4Wm9kQVNFWHFMVWhmSEVoU2IwVlhVdVIwRjVNMGpNeWl1ZkdyOFhyamlpaTN1TWlOaW0tUHFaZWVyUVRncEE?oc=5",
+   "description": "",
+   "pubDate": "2026-11-09T15:40:35+00:00",
+   "source": "La Voix du Nord",
+   "raciste": true
+  },
+  {
+   "title": "Football et racisme : Estaires, Hesdin-l’Abbé, Arques, trois matchs arrêtés dimanche",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcElfVGl6a0lqWnhRVFphVjc5TFNsSnhNeU9nV3AwU0FkY3JfSFZ3cmoweXdTaGkyZ2M2aTNWeU5uVGlTZzRWNk8yQ2o3cllTaVkzeGhnVVlkUjJUR0d6bk5FTWdpTG0zQ0FNdGxUbjdDcTZvZDdSTFREd21kOGRBSnZGbE5qYXo2SjUxTVo2VnpYdjV4QjNDQURtOFdEMzdJUWZsOERKNlJHQWVTVXQ3aV9tT1RTTFJVQ1FoRGFSYU9IU3JDeW9RS2FxT09Nbzg?oc=5",
+   "description": "",
+   "pubDate": "2026-11-09T11:52:59+00:00",
+   "source": "La Voix du Nord",
+   "raciste": true
+  },
+  {
+   "title": "Une rencontre de football amateur interrompue par des injures racistes dans la Vienne",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0JDbTlLMEg5alc0UU9tUngwZUk0TGpKWnRsSUZFX2M4RWRyV2V4YWl6Wm9CV1NmbXotWGZNVjl2N3NPTVJQZ2NIYjVhVzh3cldQZHZHektNbl9OdlZJTEtqd2w4cURJcDVIVVBsLWpTdmgtOWEzNkJLMTdwOEt6c1hqSW1SalRMeFFMSmpuN1E5SlpVUDhMWjVNM21FOHRTV3MxaEo4TVc2Qms3VXZVQ1ZSV0dqMW1aLXNSOWdR0gHDAUFVX3lxTE0yZkpyQWk5ZVZ5QjNzMV9MUHVCYldTN2xVa1NFblZpREFFSTVsNkwzUDBEMUQ0R1VqQmtDUk5WakJzTXpwUnYwaEY4VUFwb0pMTlVnaGNPNEpZekc2REpsOTVxa1RkV003WXpzcDZSbW0wT2VEZXVLRWtVcVJGVGExdVRrTEp6WUdTVzFLT0N1SExmeG9vYllSdm5NRzRIbkZNNWM3MHdYR1pYQjMzT3RtdTB3eHN5SkJ1UWgtVkdxRHpNdw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-09T10:39:40+00:00",
+   "source": "Angers Info",
+   "raciste": true
+  },
+  {
+   "title": "Foot Amateur : « Trop, c’est trop », un derby marqué par des propos racistes en Régional 2",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNFlkZVBEbGN0OFVnd1RTZU1URTZFdEhKYVBCSXRPR2xzOS1sb0xIcGx0am82REtFZHNzeS0wdWFJWVYxanlHcm5ydUcxVGdobDg2SEZsYlJVaVh6LWNLakROclVHSzBhQ1RmNEZCLU5EcC05dUp1RFpKaXd5azNKWGduaHZEQnJtbHowYjVVWHBSR0l5MUptUXRWZ0ZSWW13NTlzSWI3S3pJMUFzX0dTbXFBSDhYbXdmbUEwZUo1eUw5VlExRnlmUE9TOA?oc=5",
+   "description": "",
+   "pubDate": "2026-11-09T09:02:00+00:00",
+   "source": "Foot National",
+   "raciste": true
+  },
+  {
+   "title": "Un joueur de Leeds victime de nombreuses insultes racistes en ligne",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONEo1eTdyWFV5bThJY01BenV1Q2J1dEF4emdvcWJoYTMwTmJzSE9KZVNiMVpITld5eEN0Ti01UU9fY3hsYldXbVdyc2JydXA5bVlfS0tEdE5kLVNnZGhQSGk2VlRibFpuSTFmYTFTQkhXZG5CRllTd3d5ZGZaY1pIMTJCSk13WTVFdVBmTEducEIyXzY3cVFjS1J2V1p4bU02UTY2ZEVpVmFiTkRfUjBfUjh0LVYwbmJTOGItTFduOTRNcUt6RWp5aHllUnRlV1RzX3ZGQ2dfN3NicXNvYkJUR09DMWhNbmxsMzRGNlFHMGFhS0lkX2k5dU0zRWktQ3BTMWpndkpmb1hFbFk?oc=5",
+   "description": "",
+   "pubDate": "2026-11-09T08:24:00+00:00",
+   "source": "20 Minutes",
+   "raciste": true
+  },
+  {
+   "title": "Dette de 6.000 euros, accusations de racisme : pourquoi ce club de foot dédié à la prévention de la délinquance à Toulouse ne jouera pas cette saison",
+   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQaUs4a25rUEwzOEN2Y3ByX1pqcVBCOXotRWlULVN0NkNudGZJc2h4Q1dyaFVIeXF2dlVrSm16dmJUYUJwMEY5ajAzNGFHUGgtYmpIQ29idVlrb0hEQjlXS0hUb25mc2lxVnBRYWFqc284SHQ5YnJTZTVfVl9STVctQ1owME9LRkttWW93bjNnbzBSUFIyMENyRFVoRktTSG1fcmwwWnpSZ2VLQzlScmdqVmR0Z3phY3d6ZVp2aE5EZy1Oc3loX2dMVEZ3TFdHSDdsZFRuT0ZJNVk5cHFOd1E3RmJBSGlQbGEzLVZabmc0cjc3cFFqaW5RUkE4RndZR0xkSXBYNlk5bm9OalRIZ0xiR2hOZ0FCT18xSWtqQWZfWGE1Y2R2TDYtUkl1b2hYQTRwbXVvNF9Ka2lybmxCZ2VtUXlFSHdDeUJwSGlObkpHcw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-09T05:00:09+00:00",
+   "source": "France 3 Régions",
+   "raciste": true
+  },
   {
    "title": "Ligue 1 - Les notes de l'OM face au RC Lens : Marseille arrache une victoire précieuse à ...",
    "link": "https://madeinmarseillais.ouest-france.fr/infos/article-ligue-1-les-notes-de-l-om-face-au-rc-lens-marseille-arrache-une-victoire-precieuse-a-bollaert-et-se-rapproche-du-podium-545174.html",
@@ -3838,23 +3934,5 @@
    "manuel": true
   }
  ],
- "erreurs": [
-  "https://news.google.com/rss/search?q=racisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=insultes+racistes+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=propos+racistes+footballeur+when%3A30d&hl=fr&gl=FR&ce : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=chants+racistes+stade+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=cris+de+singe+football+when%3A30d&hl=fr&gl=FR&ceid=FR : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=banderole+raciste+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=racisme+Ligue+1+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=racisme+football+amateur+district+when%3A30d&hl=fr&gl : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=antis%C3%A9mitisme+football+when%3A30d&hl=fr&gl=FR&ce : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=islamophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=homophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3A : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=sexisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%22Association+des+Footballeurs+Antiracistes%22+when% : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=AFAR+football+racisme+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%22histoire+populaire+du+sport%22+Tribune+Saint-Ouen+ : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=Tribune+stade+Bauer+El+Khatib+when%3A30d&hl=fr&gl=FR& : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%22Une+histoire+populaire+du+sport%22+when%3A30d&hl=f : HTTP Error 503: Service Unavailable"
- ]
+ "erreurs": []
 }

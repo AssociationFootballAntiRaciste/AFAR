@@ -1,8 +1,56 @@
 {
- "maj": "2026-11-10T14:54:04+00:00",
+ "maj": "2026-11-10T21:20:34+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 288,
+ "compteur_racisme": 294,
  "incidents": [
+  {
+   "title": "Ligue 3 : QRM officialise un nouveau renfort - Foot National",
+   "link": "https://www.foot-national.com/mercato/ligue-3-qrm-officialise-un-nouveau-renfort-963317",
+   "description": "... Ligue 1 · Direct foot Ligue 1 · Calendrier foot Ligue 1 · Résultats foot Ligue ... insultes racistes venues des tribunes · - · Lire l'article · OL : Pep ...",
+   "pubDate": "2026-11-10T19:50:20+00:00",
+   "source": "foot-national.com",
+   "raciste": true
+  },
+  {
+   "title": "Ligue 2 : les nommés pour le trophée du joueur du mois d'octobre - Foot National",
+   "link": "https://www.foot-national.com/actus/ligue-2-les-nommes-pour-le-trophee-du-joueur-du-mois-doctobre-963175",
+   "description": "... Ligue 1 · Direct foot Ligue 1 · Calendrier foot Ligue 1 · Résultats foot ... insultes racistes : un match de Régional 3 arrêté après de graves · Lire ...",
+   "pubDate": "2026-11-10T17:41:22+00:00",
+   "source": "foot-national.com",
+   "raciste": true
+  },
+  {
+   "title": "Cissè, Doumbia, Kayode, Ahanor… la révolution multiculturelle est enfin en marche ... - Foot Mercato",
+   "link": "https://www.footmercato.net/a3022771939119141356-cisse-doumbia-kayode-ahanor-la-revolution-multiculturelle-est-enfin-en-marche-dans-litalie-de-giorgia-meloni",
+   "description": "Les cris de singe dans les tribunes, les insultes racistes et les ... 08/11 - Ligue 1 ...",
+   "pubDate": "2026-11-10T17:18:06+00:00",
+   "source": "footmercato.net",
+   "raciste": true
+  },
+  {
+   "title": "Vienne : un footballeur victime d' insultes racistes en plein match, deux plaintes déposées",
+   "link": "https://my-angers.info/11/10/vienne-un-footballeur-victime-dinsultes-racistes-en-plein-match-deux-plaintes-deposees/201184",
+   "description": "Contactés par France ... 7 novembre 2026Benoît Foconecapitaine FC 3 Vallées district football FC 3 Vallées 86 football amateur insultes racistes Ligue de ...",
+   "pubDate": "2026-11-10T16:52:34+00:00",
+   "source": "my-angers.info",
+   "raciste": true
+  },
+  {
+   "title": "Visé par des insultes racistes venant des tribunes en plein match, un joueur amateur de la ...",
+   "link": "https://www.ouest-france.fr/societe/racisme/vise-par-des-insultes-racistes-venant-des-tribunes-en-plein-match-un-joueur-amateur-de-la-vienne-porte-plainte-3f4c0c30-dd1c-11f1-9a04-3c520384c4a6",
+   "description": "Contactés par France 3, le directeur général de la Ligue de football de Nouvelle-Aquitaine et le président du district ont condamné les actes de ce ...",
+   "pubDate": "2026-11-10T15:49:36+00:00",
+   "source": "ouest-france.fr",
+   "raciste": true
+  },
+  {
+   "title": "Équipe de France : la FFF prévoit plusieurs hommages avant les rencontres des Bleus ...",
+   "link": "https://www.foot-national.com/equipe-de-france/equipe-de-france-la-fff-prevoit-plusieurs-hommages-avant-les-rencontres-des-bleus-contre-litalie-et-la-turquie-963171",
+   "description": "... Ligue 1 · Direct foot Ligue 1 · Calendrier foot Ligue 1 · Résultats foot ... insultes racistes : un match de Régional 3 arrêté après de graves ...",
+   "pubDate": "2026-11-10T14:21:26+00:00",
+   "source": "foot-national.com",
+   "raciste": true
+  },
   {
    "title": "Crachat au visage, insultes racistes : un match de Régional 3 arrêté après de graves incidents",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVW9YTEZYQ2FlVFhHY3M5MXFWbWhQR21GM09UZEZOMzR1azZicE9JM1FYbTRyTmxrMHEzeFVIWjVjeHRnLXcwZmotODhSSk9lck9abDZJX3pUa0NsMG4wa2dBWm9sQjM0ZkZvM05WZk1wUUdlUWc1dXFNMW9Hb0RvWjFqZ0pUSWY5S1BqUGd6LUtyTFhYOGZ4dWxHcWlEa1Noby1QNERTT3phdWVhRGtTbWhzTnVfNGJ6WmJTMjdocmM1Q2lEdlhoMFFjSkhMcDRQZllDLTJxNXg?oc=5",
@@ -18,6 +66,14 @@
    "pubDate": "2026-11-10T13:55:55+00:00",
    "source": "lanouvellerepublique.fr",
    "raciste": true
+  },
+  {
+   "title": "Tribune sur le « sexisme des prix littéraires » dans Libération : les romancières seraient ...",
+   "link": "https://www.lefigaro.fr/livres/tribune-dans-liberation-les-romancieres-seraient-elles-mauvaises-joueuses-20261110",
+   "description": "La France s'effondre de ce sexisme féministe généralisé qu'on trouve ... Classement Ligue 1 · Classement Top 14 · Transferts football · Coupe du ...",
+   "pubDate": "2026-11-10T13:13:33+00:00",
+   "source": "lefigaro.fr",
+   "raciste": false
   },
   {
    "title": "Arques. L'adjoint au sport suspendu après des injures racistes lors d'un match de football amateur",
@@ -41,6 +97,14 @@
    "description": "",
    "pubDate": "2026-11-10T10:59:33+00:00",
    "source": "Nord Littoral",
+   "raciste": true
+  },
+  {
+   "title": "« Retourne d'où tu viens » : deux matches de football amateur stoppés après des propos ...",
+   "link": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/retourne-d-ou-tu-viens-deux-matches-de-football-amateur-stoppes-apres-des-propos-racistes-un-arbitre-insulte-3446901.html",
+   "description": "Ligue 1 (Nouvelle fenêtre) · Formule 1 (Nouvelle fenêtre) · Directs ... A Hesdin-l'Abbé, c'est un arbitre qui a été la cible d' insultes racistes .",
+   "pubDate": "2026-11-10T10:05:01+00:00",
+   "source": "france3-regions.franceinfo.fr",
    "raciste": true
   },
   {
@@ -105,14 +169,6 @@
    "description": "",
    "pubDate": "2026-11-09T17:43:09+00:00",
    "source": "ici.fr",
-   "raciste": true
-  },
-  {
-   "title": "« Retourne d'où tu viens » : deux matches de football amateur stoppés après des propos racistes, un arbitre insulté",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLWVoQXI1UC1RVXhGMllHOXVyb0pGcXZDdi11ZGFXdWZYVDdPZVd6R3VsSDF2M0tDbk56dmtBMjd3YWt5cmk3dW9ibWlzZGR4VURIV3dkSVplcXdHSnZSOWlENFFVNi1UMFlxbEpTZmU4WFZVNS1WUGNCWG1aR01jeTlTUjVhWUhmUkVyWnFLSUE2RUMwZWpqcy1jOGtnN3loV193R0dCeTBydUJrSktBMWwwMVlfdk1PNzFCZXFid202OTlJVmNMVGJaZjR3cE9KLS1LQmlFcVZwODl2eUJkeXRYSkhVS3d6bnpydUd0dElya1BHd2cwX0h3RmpWR2toMDFHTkl0ZE9teklnQkUwMTA1TnQ4ZTg?oc=5",
-   "description": "",
-   "pubDate": "2026-11-09T17:17:39+00:00",
-   "source": "France 3 Régions",
    "raciste": true
   },
   {
@@ -4030,5 +4086,23 @@
    "manuel": true
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "https://news.google.com/rss/search?q=racisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=insultes+racistes+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=propos+racistes+footballeur+when%3A30d&hl=fr&gl=FR&ce : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=chants+racistes+stade+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=cris+de+singe+football+when%3A30d&hl=fr&gl=FR&ceid=FR : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=banderole+raciste+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=racisme+Ligue+1+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=racisme+football+amateur+district+when%3A30d&hl=fr&gl : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=antis%C3%A9mitisme+football+when%3A30d&hl=fr&gl=FR&ce : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=islamophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=homophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3A : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=sexisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=%22Association+des+Footballeurs+Antiracistes%22+when% : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=AFAR+football+racisme+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=%22histoire+populaire+du+sport%22+Tribune+Saint-Ouen+ : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=Tribune+stade+Bauer+El+Khatib+when%3A30d&hl=fr&gl=FR& : HTTP Error 503: Service Unavailable",
+  "https://news.google.com/rss/search?q=%22Une+histoire+populaire+du+sport%22+when%3A30d&hl=f : HTTP Error 503: Service Unavailable"
+ ]
 }

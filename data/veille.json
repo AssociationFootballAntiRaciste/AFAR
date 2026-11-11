@@ -1,14 +1,54 @@
 {
- "maj": "2026-11-10T21:20:34+00:00",
+ "maj": "2026-11-11T06:21:14+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 294,
+ "compteur_racisme": 300,
  "incidents": [
+  {
+   "title": "Football. Insulte raciste lors du match Arques - Wattrelos : l'adjoint aux sports d'Arques suspendu de ses fonctions",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxORWhsX0ZtczdtSm9yeTJDZGxZZkNMbFg4VVRBM0dBNUFpOFJ3YkRFV1FtTEpLdHREc0x5UUtoeWZMLWhBZEpnQk5XYThMaHdGRW41bjJsVl9ScWZoZFc3RHVOOFVkLTkwMFRTZnRoMDU4X2JacVZHRXZDTmNlOWZTNnRQSGlzVkJsUXotbUNXREhjd0c4LWVVSVVULWVYNzQ3YU5odVU1N1hEZEFMS1U0Qm9NYi0zYlF2LW5XUmJJaFQySVhzd2NsYTVSV2VTOXhpdkk2RXpuQVJ0SEdyNnAwSW1GMFhFekljRkxqNE9qckdacERTLW9mWEJzbG5pQk1YSlcyQTAta1JUSFNBMV93Z25JekxfNEsxdjZZUDJHY0NrelNoVEhj?oc=5",
+   "description": "",
+   "pubDate": "2026-11-11T05:00:13+00:00",
+   "source": "France 3 Régions",
+   "raciste": true
+  },
+  {
+   "title": "Coupe de France : un club de Ligue 2 annonce la co-diffusion de son septième tour sur ...",
+   "link": "https://www.foot-national.com/coupe-de-france/coupe-de-france-un-club-de-ligue-2-annonce-la-co-diffusion-de-son-septieme-tour-sur-youtube-et-a-la-television-963354",
+   "description": "... Ligue 1 · Direct foot Ligue 1 · Calendrier foot Ligue 1 · Résultats foot ... insultes racistes venues des tribunes · Lire l'article · Foot Amateur : un ...",
+   "pubDate": "2026-11-11T00:28:02+00:00",
+   "source": "foot-national.com",
+   "raciste": true
+  },
+  {
+   "title": "LOSC : suspendu six mois par la FFF, le président Olivier Létang va saisir le CNOSF",
+   "link": "https://www.foot-national.com/actus/losc-suspendu-six-mois-par-la-fff-le-president-olivier-letang-va-saisir-le-cnosf-963384",
+   "description": "... Ligue 1 . LOSC : suspendu six mois par la FFF, le président Olivier ... insultes racistes venues des tribunes. La suite après la publicité. logo- ...",
+   "pubDate": "2026-11-10T22:51:04+00:00",
+   "source": "foot-national.com",
+   "raciste": true
+  },
+  {
+   "title": "Crachat au visage, insultes racistes : un match de Régional 3 arrêté après de graves incidents",
+   "link": "https://www.foot-national.com/foot-amateur/crachat-au-visage-insultes-racistes-un-match-de-regional-3-arrete-apres-de-graves-incidents-963227",
+   "description": "... Ligue 1 · Direct foot Ligue 1 · Calendrier foot Ligue 1 · Résultats foot ... Ligue 2 annonce la co-diffusion de son septième tour sur YouTube et à ...",
+   "pubDate": "2026-11-10T20:41:39+00:00",
+   "source": "foot-national.com",
+   "raciste": true
+  },
   {
    "title": "Ligue 3 : QRM officialise un nouveau renfort - Foot National",
    "link": "https://www.foot-national.com/mercato/ligue-3-qrm-officialise-un-nouveau-renfort-963317",
    "description": "... Ligue 1 · Direct foot Ligue 1 · Calendrier foot Ligue 1 · Résultats foot Ligue ... insultes racistes venues des tribunes · - · Lire l'article · OL : Pep ...",
    "pubDate": "2026-11-10T19:50:20+00:00",
    "source": "foot-national.com",
+   "raciste": true
+  },
+  {
+   "title": "Foot Amateur : un club quitte le terrain après des insultes racistes venues des tribunes",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUjZBUkJzQjkzcmJmMXVTMjduSFBjLTNfRTdJNEE4YklfTDVENVNxVFpMeTJIZktNdUtLeTZmc3hfbk0tMGNrZm53bTB1Y0RraDUtRVRITlU0SmNEd0czNUoyNjlIUzJTMmNPcmpLeTNkZEZBQzF1Qnl6Q0p2WWRma0RYSTF5emRoS003UlQ3a3U3ZUx0aVBLLVNRV05PQm56UjhoQlVSYm1KSzZpTllYX21ILU9BOS0wQTVtSElKT3kwX3VHamowc0hWb21uYzZZMXc?oc=5",
+   "description": "",
+   "pubDate": "2026-11-10T18:29:00+00:00",
+   "source": "Foot National",
    "raciste": true
   },
   {
@@ -36,6 +76,14 @@
    "raciste": true
   },
   {
+   "title": "Pas-de-Calais : après des propos racistes au bord d’un terrain de football, un adjoint aux sports suspendu",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPc2EtTHNJNDJfeFZZTG9ZbGg2SE1ZSEt4WFNYeVA1VzlxU1A5amVIMU9iS2tSOTRZbHJ5MGd6MjNpalY0aE5kZTdKazNxRGlRY0dCVjdxdGRRVFlBdTR6V3lGZWxmUllpeHBHeDIxWERPTExmODZVWEd6c1RvbnVxUnpDS3huRFI4RFJadF9mcWkydU5FazBPM1lwTG5fOUo5Rzg0dHVQUUtSX2JNcTAtaUlrR3lLN0lETmRhSnNTRHBYNFo0S2hCOGJBN3BlZ09GZWUzSVMtMFVqLXJmd1JRS1RKU19GZ0h3eE0tMVRDejFObmk3MmhzOHFrR1Fma2FvRGVXRjdQejEwUTBNUENWVQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-10T15:59:05+00:00",
+   "source": "Ouest-France",
+   "raciste": true
+  },
+  {
    "title": "Visé par des insultes racistes venant des tribunes en plein match, un joueur amateur de la ...",
    "link": "https://www.ouest-france.fr/societe/racisme/vise-par-des-insultes-racistes-venant-des-tribunes-en-plein-match-un-joueur-amateur-de-la-vienne-porte-plainte-3f4c0c30-dd1c-11f1-9a04-3c520384c4a6",
    "description": "Contactés par France 3, le directeur général de la Ligue de football de Nouvelle-Aquitaine et le président du district ont condamné les actes de ce ...",
@@ -44,19 +92,19 @@
    "raciste": true
   },
   {
+   "title": "\"Les propos racistes, c’est devenu une habitude\" : le club de football d’Argy victime récurrente",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbU9UQzRsRm0tVUhxMlNwdjJFM1kzN0o3S3FvRi0zOGc2MEVsTFd2RmFyWUM3bnAwWlJ3bGlUdmF5VE1RbHZ4bDZDa0NTUHQzWDFjd0Q3XzV1TUtfVnRKdGszWUhvZDk0NVR5SFQ5NmNBNDhQcThEa2twYnR4OXN2a1dVRkpuS1dTTUltOGZIR3V0QmIyMUpQcUZvYTNpSzRGczdvX0NqeXhaOFlhY09qX1FZZWF5VkpYWVVjTW9WN3BmTkd3MHFtcnhWalA4akRHcG5TX2lQbWl0d2dzcGZTRmt6elFmblZOQ2htNGJyQmIwamJlYmxqQ213?oc=5",
+   "description": "",
+   "pubDate": "2026-11-10T15:45:03+00:00",
+   "source": "lanouvellerepublique.fr",
+   "raciste": true
+  },
+  {
    "title": "Équipe de France : la FFF prévoit plusieurs hommages avant les rencontres des Bleus ...",
    "link": "https://www.foot-national.com/equipe-de-france/equipe-de-france-la-fff-prevoit-plusieurs-hommages-avant-les-rencontres-des-bleus-contre-litalie-et-la-turquie-963171",
    "description": "... Ligue 1 · Direct foot Ligue 1 · Calendrier foot Ligue 1 · Résultats foot ... insultes racistes : un match de Régional 3 arrêté après de graves ...",
    "pubDate": "2026-11-10T14:21:26+00:00",
    "source": "foot-national.com",
-   "raciste": true
-  },
-  {
-   "title": "Crachat au visage, insultes racistes : un match de Régional 3 arrêté après de graves incidents",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVW9YTEZYQ2FlVFhHY3M5MXFWbWhQR21GM09UZEZOMzR1azZicE9JM1FYbTRyTmxrMHEzeFVIWjVjeHRnLXcwZmotODhSSk9lck9abDZJX3pUa0NsMG4wa2dBWm9sQjM0ZkZvM05WZk1wUUdlUWc1dXFNMW9Hb0RvWjFqZ0pUSWY5S1BqUGd6LUtyTFhYOGZ4dWxHcWlEa1Noby1QNERTT3phdWVhRGtTbWhzTnVfNGJ6WmJTMjdocmM1Q2lEdlhoMFFjSkhMcDRQZllDLTJxNXg?oc=5",
-   "description": "",
-   "pubDate": "2026-11-10T14:01:00+00:00",
-   "source": "Foot National",
    "raciste": true
   },
   {
@@ -157,7 +205,7 @@
   },
   {
    "title": "Foot/racisme : pour le président de Wattrelos, « il fallait arrêter, mon joueur était abasourdi »",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUV8ySUdyTTFYWUFvcWgtRUNaU0dTS2xJNGY0OU9LTVkxTXRFMTdidXl3aHJIZ1ZMRXJSQTFoUW16dEJoMmZTdDBrVjhPR1B1d29keVRUYWJfYkE0VVEzbmxCdlFmYTFQMHFiaUpYZ3hTVW9Ia3FOWHQ1Rk40MG1nQm1fMTR6LVhfOHNFdU81NW1Ga3hlMGQ4bFBEMC0xOFNlb2VXWHRYWHhIb1JwRGpzbFBFX3cyRkpEUk5mbjZtYkpoY2piTXNVRFZn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSGtCa3JRbUVSRWRfVzFiTnBsVDdwZ3QwcFRyMkIxSDZ5ZHIwLXhNWFlaUks3ZXZ4dnR5OE9RSVJtMXFubTNkdTBVbTdrRWdVWU4tR3BxekVXWE9lLTI1ejFOM09rYTJ2bFFCTUozcDc5MUZxNjVNQkVwSWxUQnZveEpoelFFTWhxbVN5M005YlU3WTlrdk9IOXRTZ3V2alZjb21SblZ3cWhlSTlmTXhSRmQ1czdMY01BWUNHVG1JaXNNMWZtYzR0eUpUWnpCZw?oc=5",
    "description": "",
    "pubDate": "2026-11-09T20:04:07+00:00",
    "source": "La Voix du Nord",
@@ -175,7 +223,7 @@
    "title": "Dans la Manche, une équipe de football quitte le terrain après des propos racistes visant l’un de ses joueurs",
    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZHV2cDN3RTVXTFpYM3JyVnJ5Y2xDSDVLcDJBRTVlbzdhallKTVBhQVFnZE5fQTBXWjNHRHRiR2I2cnl3aXVBcF9JdnVWWi1PMHp0aHZUekpFNU1VMjNqYWN5T0ZuU1BQb0JQYVBnczF4YjYyeWg5R0ZNWTlfMzFoNmFGZS1PMy1GcWpPVFM4eW5UYkdPTXV6M0FzSlJrVzhyUThDLTFzenZuYnNDb2lnbE96aWREM01xSlpFdjdfYS1CZjZ2ajF2c09qeGMtVEwzbUo5ckJXSzFQSDdYV01MdWQwTWdOak42aG5NVkRaRHlMSTJXdkZTVHNtSUZQUmNDUFVULXdfc0dkaElPM3JGWGw4T1pzWXc?oc=5",
    "description": "",
-   "pubDate": "2026-11-09T17:07:21+00:00",
+   "pubDate": "2026-11-09T17:16:58+00:00",
    "source": "Ouest-France",
    "raciste": true
   },
@@ -221,7 +269,7 @@
   },
   {
    "title": "Une rencontre de football amateur interrompue par des injures racistes dans la Vienne",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMmZKckFpOWVWeUIzczFfTFB1QmJXUzdsVWtTRW5WaURBRUk1bDZMM1AwRDFENEdVakJrQ1JOVmpCc016cFJ2MGhGOFVBcG9KTE5VZ2hjTzRKWXpHNkRKbDk1cWtUZFdNN1l6c3A2Um1tME9lRGV1S0VrVXFSRlRhMXVUa0xKellHU1cxS09DdUhMZnhvb2JZUnZuTUc0SG5GTTVjNzB3WEdaWEIzM090bXUwd3hzeUpCdVFoLVZHcUR6TXfSAcMBQVVfeXFMTTJmSnJBaTllVnlCM3MxX0xQdUJiV1M3bFVrU0VuVmlEQUVJNWw2TDNQMEQxRDRHVWpCa0NSTlZqQnNNenBSdjBoRjhVQXBvSkxOVWdoY080Sll6RzZESmw5NXFrVGRXTTdZenNwNlJtbTBPZURldUtFa1VxUkZUYTF1VGtMSnpZR1NXMUtPQ3VITGZ4b29iWVJ2bk1HNEhuRk01Yzcwd1hHWlhCMzNPdG11MHd4c3lKQnVRaC1WR3FEek13?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0JDbTlLMEg5alc0UU9tUngwZUk0TGpKWnRsSUZFX2M4RWRyV2V4YWl6Wm9CV1NmbXotWGZNVjl2N3NPTVJQZ2NIYjVhVzh3cldQZHZHektNbl9OdlZJTEtqd2w4cURJcDVIVVBsLWpTdmgtOWEzNkJLMTdwOEt6c1hqSW1SalRMeFFMSmpuN1E5SlpVUDhMWjVNM21FOHRTV3MxaEo4TVc2Qms3VXZVQ1ZSV0dqMW1aLXNSOWdR0gHDAUFVX3lxTE0yZkpyQWk5ZVZ5QjNzMV9MUHVCYldTN2xVa1NFblZpREFFSTVsNkwzUDBEMUQ0R1VqQmtDUk5WakJzTXpwUnYwaEY4VUFwb0pMTlVnaGNPNEpZekc2REpsOTVxa1RkV003WXpzcDZSbW0wT2VEZXVLRWtVcVJGVGExdVRrTEp6WUdTVzFLT0N1SExmeG9vYllSdm5NRzRIbkZNNWM3MHdYR1pYQjMzT3RtdTB3eHN5SkJ1UWgtVkdxRHpNdw?oc=5",
    "description": "",
    "pubDate": "2026-11-09T10:39:40+00:00",
    "source": "Angers Info",
@@ -4086,23 +4134,5 @@
    "manuel": true
   }
  ],
- "erreurs": [
-  "https://news.google.com/rss/search?q=racisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=insultes+racistes+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=propos+racistes+footballeur+when%3A30d&hl=fr&gl=FR&ce : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=chants+racistes+stade+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=cris+de+singe+football+when%3A30d&hl=fr&gl=FR&ceid=FR : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=banderole+raciste+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=racisme+Ligue+1+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=racisme+football+amateur+district+when%3A30d&hl=fr&gl : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=antis%C3%A9mitisme+football+when%3A30d&hl=fr&gl=FR&ce : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=islamophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=homophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3A : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=sexisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%22Association+des+Footballeurs+Antiracistes%22+when% : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=AFAR+football+racisme+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%22histoire+populaire+du+sport%22+Tribune+Saint-Ouen+ : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=Tribune+stade+Bauer+El+Khatib+when%3A30d&hl=fr&gl=FR& : HTTP Error 503: Service Unavailable",
-  "https://news.google.com/rss/search?q=%22Une+histoire+populaire+du+sport%22+when%3A30d&hl=f : HTTP Error 503: Service Unavailable"
- ]
+ "erreurs": []
 }

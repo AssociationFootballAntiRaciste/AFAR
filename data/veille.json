@@ -1,14 +1,54 @@
 {
- "maj": "2026-11-11T06:21:14+00:00",
+ "maj": "2026-11-11T17:08:21+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 300,
+ "compteur_racisme": 304,
  "incidents": [
   {
-   "title": "Football. Insulte raciste lors du match Arques - Wattrelos : l'adjoint aux sports d'Arques suspendu de ses fonctions",
-   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxORWhsX0ZtczdtSm9yeTJDZGxZZkNMbFg4VVRBM0dBNUFpOFJ3YkRFV1FtTEpLdHREc0x5UUtoeWZMLWhBZEpnQk5XYThMaHdGRW41bjJsVl9ScWZoZFc3RHVOOFVkLTkwMFRTZnRoMDU4X2JacVZHRXZDTmNlOWZTNnRQSGlzVkJsUXotbUNXREhjd0c4LWVVSVVULWVYNzQ3YU5odVU1N1hEZEFMS1U0Qm9NYi0zYlF2LW5XUmJJaFQySVhzd2NsYTVSV2VTOXhpdkk2RXpuQVJ0SEdyNnAwSW1GMFhFekljRkxqNE9qckdacERTLW9mWEJzbG5pQk1YSlcyQTAta1JUSFNBMV93Z25JekxfNEsxdjZZUDJHY0NrelNoVEhj?oc=5",
+   "title": "En Dordogne, un match de football entaché par des insultes à caractère sexiste et homophobe",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeXRJTDdKaXRiZGxDM2lJWmUteFFfaV9IYUJKc0VfeWtTZ0s5dGQzUFF3cGp0WVg1Nm43LVRGMXM0LUNFWnVqRG1KOU9SNXJfMHlOV3FFRlJrc2pteWxjTmtGR2hrNUd4QUszRGdRZExiTVJIRW53SDhCNlhtZWV1V3NVY2pvMDRWQVZ1ekp5N0lpcXJETHJqMHc5OVBybVFRMDhnUDFQbGlsT0c1c0pDWVdnTnE3d1prS3ZHd3pKclZtZzBnRGNHQlpDTmZ0bzhQUG0zTEstOUFoamxDcEk5WTdfem9SQVZfejdULThB?oc=5",
    "description": "",
-   "pubDate": "2026-11-11T05:00:13+00:00",
-   "source": "France 3 Régions",
+   "pubDate": "2026-11-11T15:44:11+00:00",
+   "source": "Sud Ouest",
+   "raciste": false
+  },
+  {
+   "title": "Football . Insulte raciste lors du match Arques - Wattrelos : l'adjoint aux sports d ... - France 3 Régions",
+   "link": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/saint-omer/football-insulte-raciste-lors-du-match-arques-wattrelos-l-adjoint-aux-sports-d-arques-suspendu-de-ses-fonctions-3447612.html",
+   "description": "Dimanche 8 novembre 2026, lors de la confrontation entre Arques et Wattrelos, un spectateur a proféré des insultes racistes ... Ligue 1 (Nouvelle ...",
+   "pubDate": "2026-11-11T15:30:43+00:00",
+   "source": "france3-regions.franceinfo.fr",
+   "raciste": true
+  },
+  {
+   "title": "Mercato PSG - Paris s'intéresse à ce joueur accusé de racisme il y a quelques mois",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSDlOOEJlc2J3d0RuQkNXMnY3SHZzdUExblVoRW93dGRGbW5MU3JnaE5OTEs2ZU44a25KUHZsX2N3WW1ZRTk0VF9oWTE3bmotMnlIeVVLNmFNWmUxZERZRDRsWEFGX2JKcVlpODNKcUp0cW9rbVlZWnd1ZDA3MU5TOGlZeUd1eUNtYXlSSUZpa2lnZzQ1eE1jVnJUWTlNR2tjZ29aZVJXUUY2RWNxZEQ1eTNETl8wdk1wNFhGOUhLN1dqcWhUY2laM2FyWjlqMnNLOWZtYXlEdks?oc=5",
+   "description": "",
+   "pubDate": "2026-11-11T14:30:00+00:00",
+   "source": "MadeInFoot",
+   "raciste": true
+  },
+  {
+   "title": "L'entraîneur Park Hang Seo a été victime d'insultes racistes ; la FAT annonce une sanction.",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMFJxWjlNN0pDXzVhN2M4Q21UaVliMW52N2l0WjA4UmR3Sk1BckxZS25iaE9PWWpFaV9rR1c2RzJtdjNSR3RZRmdKWHh1RXE0WF9EMDZGMWRBNlQxTHFyclVrZ3M3Si1lSC03Slo2WFE2MzZoY01uQTlCeE44bWRLOXVFN2NQS0RIbTRsN2d2bw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-11T13:58:23+00:00",
+   "source": "Vietnam.vn",
+   "raciste": true
+  },
+  {
+   "title": "TÉMOIGNAGES. Après les incidents lors d'un match amateur dans le Tarn, le président de l ...",
+   "link": "https://www.ladepeche.fr/2026/11/11/temoignages-apres-les-incidents-lors-dun-match-amateur-dans-le-tarn-le-president-de-lus-carmaux-annonce-quil-va-porter-plainte-pour-des-insultes-13645482.php",
+   "description": "Bernard Costes, président du club carmausin, accuse un joueur adverse d'avoir proféré des insultes racistes . Il déposera plainte ce jeudi 12 novembre.",
+   "pubDate": "2026-11-11T12:31:40+00:00",
+   "source": "ladepeche.fr",
+   "raciste": true
+  },
+  {
+   "title": "Foot Amateur : Coteaux Sud monte au créneau après des propos racistes lors d’un match de Régional 3",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmhTRlJxbUNPUWRrbnFSVTFDdk4yM2szS3IyZF8zYmxqVE1kWXdKaThOUEhyRHhQNkRac0tXdlRWdHk3b0dsTHJsandjOWgxMEVxYWN1M3luSGN4cklGVmVQdTdUTUJFS04zMjZBQjhGcEZNbTNGdWdGUlhoSE1QUkZMN3E1SE1IOVl1RnVjU0NRdWNEZVVaQUpsb2ZpcEczcDNZTnktLU44ZTIyd2hiX0RCUm1FaVluRVRNNzVZNzM2ZTZiazMzREFnemhPdmJyZURJcTZBdTBOMVRiMVZR?oc=5",
+   "description": "",
+   "pubDate": "2026-11-11T06:38:00+00:00",
+   "source": "Foot National",
    "raciste": true
   },
   {

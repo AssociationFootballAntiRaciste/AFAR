@@ -1,8 +1,32 @@
 {
- "maj": "2026-11-12T11:11:15+00:00",
+ "maj": "2026-11-12T19:54:43+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 306,
+ "compteur_racisme": 308,
  "incidents": [
+  {
+   "title": "Un joueur jurassien suspendu 9 matches pour propos racistes à Langenthal",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeWRhX1VCUWFDWUcxQnBkOUZFUElJTFN5RTkzV2xYT1BUOHJWbUxvTG05VDdnbGV5dlFaNXNNWTVpdDIyS3FZLVFxdHJhNGJfOG1oaEpMc3BtbmVKRFh1MG1qTG51dmlQUFdDUDYzODVhVVJ6cVB0SXhpbV91bkxoZHo2c1hXWDJBamliNlpCa3piQVI3djN4UGtVbFRXM3dQb2pvNEtFUQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-12T14:09:47+00:00",
+   "source": "20 Minuten",
+   "raciste": true
+  },
+  {
+   "title": "\"Sale turc\" : un footballeur accusé sur le terrain d'insulte raciste à l'encontre d'un adversaire",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPa3loOXJJclF5UlJaZ1N6Vm8wX1NOQ2FjbTVpVTFMUl9qX09qQ2ZJazhTSzNnaTMxOXJsOFphTnh4Qmt0SHp0dVMycnVIVUFlVVpaQ0prNWRMRGdfc0M5SDRrQ1J6MXM5WHM5emNDdEVaMDlFcEhRNmttY2RIeHFzdlJVcUtuN0NTN1htbGU3dnpOUGIzUG9XNUNZYUJUamlJaGcyMHcwM2NVeWRBLTFLbmdFYWh6TTFfUjdCdUg2amJUMVJyeHY3QTVoLXhCd1U1SzF6ckVNYks0Ty1QZVRfbGlZbkFQNS1CdnA4Yk1ZX1Y4dzNMYTdVY3NQZjJTYmFLNlVadUVBTU8?oc=5",
+   "description": "",
+   "pubDate": "2026-11-12T14:04:36+00:00",
+   "source": "France 3 Régions",
+   "raciste": true
+  },
+  {
+   "title": "VIDÉO - Victime d’homophobie pendant un match, cette dirigeante de Dordogne témoigne : \"ça ne doit plus exister\"",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQcHpVNDQ1aU5ZWXJNZFFzZzZ5ZUZWek5Mc0VLTUxmR1pybThpMHN6aVZ0NTBxdU5OajBMbzMxRmtsd1k4VzRmVWM3NHdwY1AzQ1hGamhoQjRVZkVOQkp3OUsyUkVVWVpPRjlCNXhmQkdOWFBsODhVME1XSW9jVFFUOHZyREVXckVwSlhKRE5kSDdZaldRcXJVdjhrRUZHT051dXlGV0VDS1dqMFdRdmJSVTh4aXBDWUFaLW5KUmk4LU45N0VBMDEzS19Pa00zWEdQV1NuVVNwRjROR0NBZnR5ckNKQXVBeHdWa3MzYnBqS2NCV3NOM0pGQWZXRWcydVFtang2eHQ4WWExSk5lRHk2d3Nn?oc=5",
+   "description": "",
+   "pubDate": "2026-11-12T11:17:05+00:00",
+   "source": "ici.fr",
+   "raciste": false
+  },
   {
    "title": "Israël : un prof de sport bannit les insultes de ses joueurs et les remplace par des bénédictions",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2RZUGk3M3U5dzlyQWRYUW5VREdCZ3dwblcwU2htWmZsQ25TXzIzWFZ1MFMwY0MwTUFjM2RoSWVqX1FyM0tVTTFUa0dpTGVZc3pfRmpZaUZKY0VTV0txb2MxMHNkQmpOSmQtLU5QS0o2Yzd6VEF5MVlfTnpjQXUwcVQtTlVsRnp1RjkzSG9teS1zeVRBN2tTZmZfc2wtTG5GTnFCNjlfb0FySjR1N0E?oc=5",
@@ -114,6 +138,14 @@
    "pubDate": "2026-11-10T19:50:20+00:00",
    "source": "foot-national.com",
    "raciste": true
+  },
+  {
+   "title": "Une dirigeante d'un club de foot victime d'une insulte homophobe lors d'un match en Dordogne",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQc01QWE15Wm9rVFRkenA2TnRFaTFpdl91SlFNUVRXYWtvSDB2VU5tN0JGNHdjVmgwVmRSWGZlZ1BXdC1HQUJkX0pyUHF1cE9pOHVjZm9sODRLWm9ORkRUbzJjbnhLRktLc0Vvem82OFB6cXFmREFqWkVFVEF5MWNTY0l6RDJuR3c5dG8xODRrUVV3dk5yN1ZhRGJWMGxxSlRJX3NBZ2FaUS1BM3hFSmlPSTVaXzBTQzZ1QUhBTWlmeE1KLTVtbmV3VDY5WFFTMGhTLXA2ZHhUWkpYTzdvVTd5TVIxUXlvMzVOWnk5UXROUlo4STVXSEpfZjNBUlgxMFFi?oc=5",
+   "description": "",
+   "pubDate": "2026-11-10T19:00:48+00:00",
+   "source": "ici.fr",
+   "raciste": false
   },
   {
    "title": "Foot Amateur : un club quitte le terrain après des insultes racistes venues des tribunes",
@@ -341,7 +373,7 @@
   },
   {
    "title": "Une rencontre de football amateur interrompue par des injures racistes dans la Vienne",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMmZKckFpOWVWeUIzczFfTFB1QmJXUzdsVWtTRW5WaURBRUk1bDZMM1AwRDFENEdVakJrQ1JOVmpCc016cFJ2MGhGOFVBcG9KTE5VZ2hjTzRKWXpHNkRKbDk1cWtUZFdNN1l6c3A2Um1tME9lRGV1S0VrVXFSRlRhMXVUa0xKellHU1cxS09DdUhMZnhvb2JZUnZuTUc0SG5GTTVjNzB3WEdaWEIzM090bXUwd3hzeUpCdVFoLVZHcUR6TXfSAcMBQVVfeXFMTTJmSnJBaTllVnlCM3MxX0xQdUJiV1M3bFVrU0VuVmlEQUVJNWw2TDNQMEQxRDRHVWpCa0NSTlZqQnNNenBSdjBoRjhVQXBvSkxOVWdoY080Sll6RzZESmw5NXFrVGRXTTdZenNwNlJtbTBPZURldUtFa1VxUkZUYTF1VGtMSnpZR1NXMUtPQ3VITGZ4b29iWVJ2bk1HNEhuRk01Yzcwd1hHWlhCMzNPdG11MHd4c3lKQnVRaC1WR3FEek13?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0JDbTlLMEg5alc0UU9tUngwZUk0TGpKWnRsSUZFX2M4RWRyV2V4YWl6Wm9CV1NmbXotWGZNVjl2N3NPTVJQZ2NIYjVhVzh3cldQZHZHektNbl9OdlZJTEtqd2w4cURJcDVIVVBsLWpTdmgtOWEzNkJLMTdwOEt6c1hqSW1SalRMeFFMSmpuN1E5SlpVUDhMWjVNM21FOHRTV3MxaEo4TVc2Qms3VXZVQ1ZSV0dqMW1aLXNSOWdR0gHDAUFVX3lxTE0yZkpyQWk5ZVZ5QjNzMV9MUHVCYldTN2xVa1NFblZpREFFSTVsNkwzUDBEMUQ0R1VqQmtDUk5WakJzTXpwUnYwaEY4VUFwb0pMTlVnaGNPNEpZekc2REpsOTVxa1RkV003WXpzcDZSbW0wT2VEZXVLRWtVcVJGVGExdVRrTEp6WUdTVzFLT0N1SExmeG9vYllSdm5NRzRIbkZNNWM3MHdYR1pYQjMzT3RtdTB3eHN5SkJ1UWgtVkdxRHpNdw?oc=5",
    "description": "",
    "pubDate": "2026-11-09T10:39:40+00:00",
    "source": "Angers Info",

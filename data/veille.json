@@ -1,8 +1,16 @@
 {
- "maj": "2026-11-12T19:54:43+00:00",
+ "maj": "2026-11-13T01:50:12+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 308,
+ "compteur_racisme": 309,
  "incidents": [
+  {
+   "title": "OM - La prophétie de Grégory Lorenzi prend tout son sens, les chiffres confirment la ...",
+   "link": "https://madeinmarseillais.ouest-france.fr/infos/article-om-la-prophetie-de-gregory-lorenzi-prend-tout-son-sens-les-chiffres-confirment-la-metamorphose-marseillaise-545482.html",
+   "description": "Une équipe qui ne court pas en Ligue 1 sera très vite en difficulté. ... \", Ali Zarrak dénonce les insultes racistes après l'affaire des motards avec ...",
+   "pubDate": "2026-11-12T17:10:11+00:00",
+   "source": "madeinmarseillais.ouest-france.fr",
+   "raciste": true
+  },
   {
    "title": "Un joueur jurassien suspendu 9 matches pour propos racistes à Langenthal",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeWRhX1VCUWFDWUcxQnBkOUZFUElJTFN5RTkzV2xYT1BUOHJWbUxvTG05VDdnbGV5dlFaNXNNWTVpdDIyS3FZLVFxdHJhNGJfOG1oaEpMc3BtbmVKRFh1MG1qTG51dmlQUFdDUDYzODVhVVJ6cVB0SXhpbV91bkxoZHo2c1hXWDJBamliNlpCa3piQVI3djN4UGtVbFRXM3dQb2pvNEtFUQ?oc=5",

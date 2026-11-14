@@ -1,8 +1,16 @@
 {
- "maj": "2026-11-14T10:26:37+00:00",
+ "maj": "2026-11-14T18:02:05+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 310,
+ "compteur_racisme": 311,
  "incidents": [
+  {
+   "title": "France-Afrique du Sud : \"Maxime Lucu n'est pas raciste !\" Un célèbre joueur de Top 14 prend la défense du joueur star, accusé d'avoir refusé de serrer la main d'un adversaire",
+   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRmZPUTJwMzl2aUVieDNCRWhrNjZTay1pZzJJRjZpd3lDZlhWekI3Z3JKVDJPQm1KMVVhbHhiRGJUSG94YnkwUzNrT2hxVjVQeG05QnVRZFA5a1kzbUkwLXRwdk95T3djQ2d4ZGtDMy1tZm1XMUtGcGdzMFlpSTh1Z0JIUkpzbHhaT2M5ekZoek9xaG9KNzZNOHVCNlFYN1NLNGVFS01iMWZNNndTU2t4bFpnMGk5MmxzTE1zdkpCUnNyQ0pfY3NHd002STRlSlczNGpzQ3hXVU9OZm14X1RBZXJSbF9HRHhreGlPaW1zUWVwdTRhTlRRTFh6eUV1N1VMb19OTTUxcHpGRndqXzBwNGU3LWhtZEJFTXR6bkgxS3Q0aTZD?oc=5",
+   "description": "",
+   "pubDate": "2026-11-14T17:14:00+00:00",
+   "source": "ladepeche.fr",
+   "raciste": true
+  },
   {
    "title": "Il adresse un dessin satirique de \"Tom et Jerry\" à des policiers municipaux - La Dépêche",
    "link": "https://www.ladepeche.fr/2026/11/13/il-adresse-un-dessin-satirique-de-tom-et-jerry-a-des-policiers-municipaux-le-renvoi-du-transporteur-devant-le-tribunal-pour-outrages-et-sexisme-juge-13650754.php",

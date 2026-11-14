@@ -1,8 +1,32 @@
 {
- "maj": "2026-11-14T01:26:52+00:00",
+ "maj": "2026-11-14T10:26:37+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 309,
+ "compteur_racisme": 310,
  "incidents": [
+  {
+   "title": "Il adresse un dessin satirique de \"Tom et Jerry\" à des policiers municipaux - La Dépêche",
+   "link": "https://www.ladepeche.fr/2026/11/13/il-adresse-un-dessin-satirique-de-tom-et-jerry-a-des-policiers-municipaux-le-renvoi-du-transporteur-devant-le-tribunal-pour-outrages-et-sexisme-juge-13650754.php",
+   "description": "Suite aux plaintes d'un agent et de sa collègue, l'homme de 36 ans était poursuivi pour \"outrages\" et \" sexisme \" par le parquet de Toulouse. ... Ligue 1 ...",
+   "pubDate": "2026-11-14T08:13:29+00:00",
+   "source": "ladepeche.fr",
+   "raciste": false
+  },
+  {
+   "title": "En partenariat avec Her Game Too, le GF38 lutte contre les violences sexistes et sexuelles ... - ici.fr",
+   "link": "https://www.ici.fr/emissions/l-info-d-ici-matin-ici-isere/en-partenariat-avec-her-game-too-le-gf38-lutte-contre-les-violences-sexistes-et-sexuelles-en-tribune-et-sur-le-terrain-7291436",
+   "description": "C'est l'ambition portée par l'association Her Game Too France , qui accompagne dix-sept club de football en ligue 1 et 2. ... sexisme et les ...",
+   "pubDate": "2026-11-14T07:38:25+00:00",
+   "source": "ici.fr",
+   "raciste": false
+  },
+  {
+   "title": "Foot amateur : un match de Wattrelos arrêté après des propos racistes visant un joueur de 18 ans",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTl92eE02QmRqZ3h3alJGajRzcE5KZ0FTSU9ET0I2dkdzOXN0Rmt1VWtETm52eW9jZ3FtX0pyU0s2WFM4SncwZDdmWnAxdFBBTnVQM0hVZGdPbm1KQTRhVjNwVFhrdVpBeHZ2aGhuTHMydnQwM1J4TEVhc1ZrUnhWMExINE1nd1VhRjZwWFJUSVd0Zjd4cVpEOERMdWxpc3hWb1hUbUY3V2ZIMUZEUk1EeFlQX3FZRGNCQll3b3VsU0k0bzRvUGp1N2NDbUs0RldOU0dWOWh2dE5uQzJx?oc=5",
+   "description": "",
+   "pubDate": "2026-11-14T06:19:00+00:00",
+   "source": "Foot National",
+   "raciste": true
+  },
   {
    "title": "OM - La prophétie de Grégory Lorenzi prend tout son sens, les chiffres confirment la ...",
    "link": "https://madeinmarseillais.ouest-france.fr/infos/article-om-la-prophetie-de-gregory-lorenzi-prend-tout-son-sens-les-chiffres-confirment-la-metamorphose-marseillaise-545482.html",

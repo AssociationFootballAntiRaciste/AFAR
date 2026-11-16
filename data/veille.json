@@ -1,8 +1,16 @@
 {
- "maj": "2026-11-15T22:49:18+00:00",
+ "maj": "2026-11-16T06:30:23+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 312,
+ "compteur_racisme": 313,
  "incidents": [
+  {
+   "title": "\"Il a agi très vite et était plus que peiné par la situation\" : une spectatrice profère des insultes racistes, le président du club de foot amateur fait évacuer le stade",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOd3F2NGx4UG9iT042dEM0ZUc3UF9NVDBNMng4X0JTWFVRa0NFd0pMelFVMDJLWXRtOC1BMjR3eURzakVFbzJKdlNSclRnR2hUeVItUmk4M0FTOGpKSGlLbVk4TFEtV2F6V0hDSjR1NnhiSVVpQktaM2oxdWRNeXdYcHFqOXV3d2NDTGNheXVDUV9LOXUtdFZXMlI5NnBQcUE5VEFwalEwY3pMVmRkTXFwRXhzaHpZLTRGNVlsSDlPTFJIb19lYTMtZjN1QTFHWEliVi1LZWtTYnZxdWRDZG05akNLa09rdW1yZjNhSWRpN25EcG1hTU50dVRyU3Fvc0M2VUQxcUFoU1F0dDRuQmYyT3plVjRCdHlmX1JWekwtVG1Pdw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-16T05:34:00+00:00",
+   "source": "ladepeche.fr",
+   "raciste": true
+  },
   {
    "title": "\"Il m’a dit ça tranquillement\" : Heindrix Hebreu revient sur les propos racistes dont il a été victime lors d'un match de football",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdTJzQWZxR0FSV3NMZTNxVmdWUkRJemF5b3hocjlNdzVUUk1HMDhUdVNVUml1ZFpFSVlkWHlVQkFHME9OdjF2UTRxTFJKQWNNbEtVUm5TdDZIdk83ZGQyY0oxakc2WHgwTHoyQjdGTlcteTVIR2gtUlVBMUk4aVZ4aW1JUGR0SFVjRUxWUUhUbVpTa21GT3dQc2E1OWhZT3BmSDI5dlo1NUFSblFxa1Y2Sm9oTVVMMmZDSy0teldJRFBYeGZjeFFtczFfMTd5OUl6bklOTkl6dnJRZnlmWmxhOGUtWG56cnJOSWdWdVk4OHY2UnNmQjEtUXRnUG9CM3NnSjNZT2V6N0pIeWU4T3N6QXVBaGJwUjJoUlJaSGpJaGs?oc=5",
@@ -333,10 +341,10 @@
   },
   {
    "title": "Un joueur d'un club de foot de la Vienne victime de racisme",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnVYWkxZRFlvYlpRU2FxZkNqSVNCdEZ2Y1MwejNjMWUyMUVnLTBxNUE4cTNreFE4Y2ZOMmNGNXRGeVEtdF9Kcm9GWnpKTmpQWHQzenFqNWNhZnhnY3FkSnNLcDBKVV9sX19lRXBWdmhpMW9VeFJSc0Y0aDJEemZwVTl4UkY2WjVyQVRsb2VxNGFQdnBUc01yTTBEdHpwM2piWEhxM3pWX2pXSnh3Q2tEYWlTTmh2YWVxUzlBamN5anIzaXJTU3ZDYTVySkh5XzY0c3JJRVY2N1hZRmM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUZ4emJGVWNyWHI2cUdxdlY5LUJGbk55UEsyd1dVbG1YN2FxODk2SEQ2VzF3amQ4TFd2UW80dmswVTZHN2J5OE1paklDVHd2VUdKbWRvX0VsNHVORm05WElzSU9BV2FwQ0xtOUxIM1pTTVdMa3h4eVBtT01ydEJqREsxNEItWUxjaWxqZFFRVWl2X3MyQy1GcFdVb05aejRWV01ibnRQYmQ2S0xqYldNUG83V2thWjhuU0tuYUJzbjhZanhTeHgyS3l6bEo?oc=5",
    "description": "",
    "pubDate": "2026-11-10T06:32:30+00:00",
-   "source": "Radio France",
+   "source": "ici.fr",
    "raciste": true
   },
   {

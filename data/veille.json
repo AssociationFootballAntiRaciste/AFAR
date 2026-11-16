@@ -1,8 +1,56 @@
 {
- "maj": "2026-11-16T06:30:23+00:00",
+ "maj": "2026-11-16T19:36:38+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 313,
+ "compteur_racisme": 318,
  "incidents": [
+  {
+   "title": "\"Comportement inacceptable d’une seule personne\" : Propos racistes lors d'un match de football amateur au sud de Toulouse, que s'est-il passé exactement",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUEtjaW9aMVU2bl9aM3o4TGZSdUxxbDRNRlc1dHdrSnl1NmZLbEM5VTRFWEZvNzk0M1RpdWZBTkhkYS1tWnkxYjh2RVkwSXhQcllXUjkyMnY1Nk9kZGVERDlNRTNoWWlibzBRUVpYVERiZEJBbDg2OXVEY0U2MmpvSjJGd0JsZGNaUXJFZjNpTkRtNTlrUy1FUFYzeHNCT3pfaXNjTDlCTE9vTjMxWmRBN3lpdjNkNlVCVTZxTjF5V01lelFLUEdYM3VWbG85QjNhUURPcUFoYWNuSThPUnNOQmh1U3Z1VkMyemxNNEJLNnJuMlZ2SWU4US1CeklrMnRnak1vNUQ4U2YxeDd2TU10bDMwb0JBQWdSZU1JZFJR?oc=5",
+   "description": "",
+   "pubDate": "2026-11-16T16:30:00+00:00",
+   "source": "ladepeche.fr",
+   "raciste": true
+  },
+  {
+   "title": "Des insultes racistes fusent dans le public, le président d'un club de foot fait évacuer son ...",
+   "link": "https://actu.fr/occitanie/berat_31065/des-insultes-racistes-fusent-dans-le-public-le-president-d-un-club-de-foot-fait-evacuer-son-stade-pres-de-toulouse_65058826.html",
+   "description": "Un match de football , en D2 de district , a été marqué par des insultes racistes ...",
+   "pubDate": "2026-11-16T15:51:06+00:00",
+   "source": "actu.fr",
+   "raciste": true
+  },
+  {
+   "title": "Pour Lio, une « élite de gauche comme de droite » entretient le sexisme et empêche MeToo ...",
+   "link": "https://www.lefigaro.fr/musique/pour-lio-une-elite-de-gauche-comme-de-droite-entretient-le-sexisme-et-empeche-a-metoo-de-s-imposer-en-france-20261116",
+   "description": "Pour Lio, une « élite de gauche comme de droite » entretient le sexisme et empêche MeToo de s'imposer en France ... Classement Ligue 1 · Classement ...",
+   "pubDate": "2026-11-16T14:53:13+00:00",
+   "source": "lefigaro.fr",
+   "raciste": false
+  },
+  {
+   "title": "Ligue 1 - Marseille - Le Mans : sur quelle chaîne et à quelle heure voir le match en direct ?",
+   "link": "https://madeinmarseillais.ouest-france.fr/infos/article-ligue-1-marseille-le-mans-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-en-direct-545956.html",
+   "description": "Le match sera diffusé en direct sur Ligue 1 +. L1. J11 ... \", Ali Zarrak dénonce les insultes racistes après l'affaire des motards avec Papin.",
+   "pubDate": "2026-11-16T07:54:17+00:00",
+   "source": "madeinmarseillais.ouest-france.fr",
+   "raciste": true
+  },
+  {
+   "title": "Coupe de Bretagne. Squiffiec-Trégonneau, Évran, La Motte… Le point sur les résultats du 5e tour",
+   "link": "https://www.ouest-france.fr/sport/football/coupe-de-bretagne-squiffiec-tregonneau-evran-la-motte-le-point-sur-les-resultats-du-5e-tour-7604706e-e11d-11f1-8a68-1e9f9f2c4ff6",
+   "description": "Huit équipes du district ont atteint ce niveau dont deux équipes de D2, Yffiniac et Calorguen. ... Un joueur de Nanterre victime d' insultes racistes ...",
+   "pubDate": "2026-11-16T07:26:21+00:00",
+   "source": "ouest-france.fr",
+   "raciste": true
+  },
+  {
+   "title": "\"Il a agi très vite et était plus que peiné par la situation\" : une spectatrice profère des insultes ...",
+   "link": "https://www.ladepeche.fr/2026/11/16/il-a-agi-tres-vite-et-etait-plus-que-peine-par-la-situation-une-spectatrice-profere-des-insultes-racistes-le-president-du-club-de-foot-amateur-fait-13653857.php",
+   "description": "... insultes racistes , le président du club de foot amateur fait évacuer le stade ... Un match de district fait polémique sur fond d'injures racistes.",
+   "pubDate": "2026-11-16T05:39:29+00:00",
+   "source": "ladepeche.fr",
+   "raciste": true
+  },
   {
    "title": "\"Il a agi très vite et était plus que peiné par la situation\" : une spectatrice profère des insultes racistes, le président du club de foot amateur fait évacuer le stade",
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOd3F2NGx4UG9iT042dEM0ZUc3UF9NVDBNMng4X0JTWFVRa0NFd0pMelFVMDJLWXRtOC1BMjR3eURzakVFbzJKdlNSclRnR2hUeVItUmk4M0FTOGpKSGlLbVk4TFEtV2F6V0hDSjR1NnhiSVVpQktaM2oxdWRNeXdYcHFqOXV3d2NDTGNheXVDUV9LOXUtdFZXMlI5NnBQcUE5VEFwalEwY3pMVmRkTXFwRXhzaHpZLTRGNVlsSDlPTFJIb19lYTMtZjN1QTFHWEliVi1LZWtTYnZxdWRDZG05akNLa09rdW1yZjNhSWRpN25EcG1hTU50dVRyU3Fvc0M2VUQxcUFoU1F0dDRuQmYyT3plVjRCdHlmX1JWekwtVG1Pdw?oc=5",
@@ -341,10 +389,10 @@
   },
   {
    "title": "Un joueur d'un club de foot de la Vienne victime de racisme",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUZ4emJGVWNyWHI2cUdxdlY5LUJGbk55UEsyd1dVbG1YN2FxODk2SEQ2VzF3amQ4TFd2UW80dmswVTZHN2J5OE1paklDVHd2VUdKbWRvX0VsNHVORm05WElzSU9BV2FwQ0xtOUxIM1pTTVdMa3h4eVBtT01ydEJqREsxNEItWUxjaWxqZFFRVWl2X3MyQy1GcFdVb05aejRWV01ibnRQYmQ2S0xqYldNUG83V2thWjhuU0tuYUJzbjhZanhTeHgyS3l6bEo?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnVYWkxZRFlvYlpRU2FxZkNqSVNCdEZ2Y1MwejNjMWUyMUVnLTBxNUE4cTNreFE4Y2ZOMmNGNXRGeVEtdF9Kcm9GWnpKTmpQWHQzenFqNWNhZnhnY3FkSnNLcDBKVV9sX19lRXBWdmhpMW9VeFJSc0Y0aDJEemZwVTl4UkY2WjVyQVRsb2VxNGFQdnBUc01yTTBEdHpwM2piWEhxM3pWX2pXSnh3Q2tEYWlTTmh2YWVxUzlBamN5anIzaXJTU3ZDYTVySkh5XzY0c3JJRVY2N1hZRmM?oc=5",
    "description": "",
    "pubDate": "2026-11-10T06:32:30+00:00",
-   "source": "ici.fr",
+   "source": "Radio France",
    "raciste": true
   },
   {
@@ -4302,5 +4350,11 @@
    "manuel": true
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "https://news.google.com/rss/search?q=racisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 429: Too Many Requests",
+  "https://news.google.com/rss/search?q=insultes+racistes+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 429: Too Many Requests",
+  "https://news.google.com/rss/search?q=cris+de+singe+football+when%3A30d&hl=fr&gl=FR&ceid=FR : HTTP Error 429: Too Many Requests",
+  "https://news.google.com/rss/search?q=sexisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 429: Too Many Requests",
+  "https://news.google.com/rss/search?q=%22Une+histoire+populaire+du+sport%22+when%3A30d&hl=f : HTTP Error 429: Too Many Requests"
+ ]
 }

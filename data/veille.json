@@ -1,8 +1,104 @@
 {
- "maj": "2026-11-17T03:54:12+00:00",
+ "maj": "2026-11-17T16:00:07+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 321,
+ "compteur_racisme": 332,
  "incidents": [
+  {
+   "title": "Football : Violences Et Racisme, Des Joueurs Palestiniens Au Cœur D'un Scandale Face À L'Inde",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZkJnb1h6ampYakFpNFctb0JtdDdBcEtjWl9aT0JpWEc3Sk9nR0tZTW5RWjNUQW9pLVRyaElNc29rV3kySjhaenhBTVpvanZ2NlBzM2F1NzVScHBhcE1yQXEtbGxIZlUzSmFXd2JqSjd4SkdoTm5HQ3l0RXhGdUcwbHYzYUNNTS1JSlNERkQwYUtxckZaZVlOV3hvM2FLYy1jUG1ERWhxQ09ZOGdBclVLZ1gwRDR3cFdpZm5iZmRjVHVOMm14aWFGckptUWx1UQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T15:44:00+00:00",
+   "source": "i24NEWS",
+   "raciste": false
+  },
+  {
+   "title": "Football : un supporter condamné à onze mois de prison avec sursis pour des insultes racistes envers Kylian Mbappé",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONy1SOWl2RmhTcnBZNHdtMDd2aWNKOHRSb2tDak9FWkQ3eHhfcHl5MDB6OHdFUG1OMGdlME1kbUhCRFMyTFo3MGoyelZSYjJVc0NGeGxlMGNMWXpNREVzakp6Nlp4OVVHRTJlNWRUTEdOUGxwOEJsTWhSSTFqT2lsbU8zb1NSYUd0T3ZiU2VKYjNDZVktcEI0WTY2ajZhZTRQSlJReW9WeDBPUjRvMzY5ME9ENGlUNUFuZmfSAb8BQVVfeXFMTmtueFFsTUx5V2x4M1d4WVRMdW0wajJqRDlpWkdabkU5OU8zUUhYUTlsRWItY0diQTBudUpEdFR0YzQxZFdYaGF4NXMzSXVObmEzaEk1TGRQODdKT1pLVU52VG5ZT2Raa3hsc0I0bXprYlJNU0VYbTBkZ2FwWjQ0QVk0eFRYd2liRGJRZlNESThsSHRkNDFLX0FKZlowUmVuQ2NlMHNhRkU5MXpRVmNReUFLUjliVWJrRUUtNmdDUXc?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T15:12:45+00:00",
+   "source": "CNews",
+   "raciste": true
+  },
+  {
+   "title": "Peine de prison pour des insultes envers Mbappé ! Un supporter sanctionné pour racisme",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVhLWmRRSl93ejBOT0ZVYnRTYXZLaFFpcTlxZm9kVlZOVTFyazZadFJuSUI5MXpZMUJTQ0Y0RHBvRG9CRkNObW91LW10Z1dBZHFvcDlHV3NiV0NjaU1HYVNuYVFFMmNMb3BuVnN1RjgxSEo4WWo1SU5hSUpKSjVjY0ZlN29HMERaUUM0blBnZUVocndXMUtVamZaNWpkTVlaTFVUU1dfU1FxSnh1SVo4Zk9IVkVEcFo2?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T13:56:37+00:00",
+   "source": "Dailysports",
+   "raciste": true
+  },
+  {
+   "title": "Kylian Mbappé : un homme condamné à 11 mois de prison avec sursis pour avoir proféré des insultes racistes à l'encontre du footballeur",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTGZ5ZW9hSTVwOHF4VGxMaWgxTngyOFhHcmZMT3RLbkNHNENQNjBadlVaWG9BakRwcTVOcmhiSEdicjhXMjc1SE14LVlOVWhYSFkyZWFhT0l1VE5qSno0QzJGMm5pdm9ZbEpfalZxRjU4YzBkMk15aTVINzN4RTVVUFNyRHhTRGtsZGxYbWYtQlZ2UlZXOXZNT2xhX3h5Z2pjZ3gteFFRWnVlZHVkNkxwU1lnV2pPSHZkS1k1Tm9MQVFnaklMNlNWOWxJX0tpenNvcXVtdjJTLU9LRVF6REF4cjV2V2FBcjkzZ1dqQjlPaVpHWHpZQVFvWDFPR3h4ZUIy?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T13:44:00+00:00",
+   "source": "Voici",
+   "raciste": true
+  },
+  {
+   "title": "Un supporter d’Oviedo condamné pour insultes racistes",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1hfMWd6c0d6Y05NTktFNkowOGdGM19kcFREem5TUWFRNEU2V0NHU2JqU3VhSlNfUmZ2WjRKRG5BMUZ6azZ2ZEJhR2FwV2p4LVRBcVFRZlVXam10SzdLQUxaVDllQy1oMk12RmNyMTZmb0JtdWVYX05rMkFlaVhPRkd2WTZWRzYzMTZwWmEwclhPdnlqZ3ZhVzFDR1B1MFhOWUZiQkRmbXdyMHlOVVRkSg?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T12:27:07+00:00",
+   "source": "SO FOOT.com",
+   "raciste": true
+  },
+  {
+   "title": "Football . Le Nazairien et patron de la FFF Philippe Diallo candidat à la présidence de la Fifa",
+   "link": "https://www.ouest-france.fr/sport/football/football-le-nazairien-et-patron-de-la-fff-philippe-diallo-candidat-a-la-presidence-de-la-fifa-dc490c4c-e1d4-11f1-b029-43a761592972",
+   "description": "Un supporter ayant proféré des insultes racistes envers Kylian Mbappé condamné à de la prison avec sursis ... Ligue 2 . Vers un report de la rencontre FC ...",
+   "pubDate": "2026-11-17T11:48:38+00:00",
+   "source": "ouest-france.fr",
+   "raciste": true
+  },
+  {
+   "title": "Un club de Haute-Garonne évacue son stade après des propos racistes",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXYyMEg5SFVmc09JQ0pLeGhraFl0bUpzNGV1SVk5QjBxelFFMExZNjNiUmxVR0xNR2dQSmFLX0pVc1Iwd0gzU2N2UWNFVnBmSGMyVlMxbC1CTFR2M19ZamtvXzFqWU9PUDZZMUU2REhLd2hjVXBaUHVnb2VtRG9jR0sxdGhrM3Q1NVVXcl9FWmxwTUVXaGxlQlByN1Z6VDdzak1palNkTQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T11:47:17+00:00",
+   "source": "Foot Amateur",
+   "raciste": true
+  },
+  {
+   "title": "FIFA I Noël Le Graët au sujet de la candidature de Philippe Diallo : \"Vous me faites une blague ?\"",
+   "link": "https://www.eurosport.fr/football/fifa-i-noel-le-graet-au-sujet-de-la-candidature-de-philippe-diallo-vous-me-faites-une-blague_sto23355965/story.shtml",
+   "description": "... insultes racistes : Prison avec sursis pour un supporter d'Oviedo. À l'instant · Transferts. Matos et Strasbourg, ça brûle. À l'instant · Ligue 1 . De ...",
+   "pubDate": "2026-11-17T11:46:09+00:00",
+   "source": "eurosport.fr",
+   "raciste": true
+  },
+  {
+   "title": "avant Philippe Diallo, quels candidats français ont voulu prendre la tête de la FIFA - L'Équipe",
+   "link": "https://www.lequipe.fr/Football/Actualites/Plusieurs-postulants-deux-presidents-avant-philippe-diallo-quels-candidats-francais-ont-voulu-prendre-la-tete-de-la-fifa/1744099",
+   "description": "Ligue 1 · Ligue 2 · Ligue 3 · Ballon d'Or · Ligue des champions · Ligue Europa ... insultes racistes envers Mbappé · 12:07. Foot ,. FFF. Vilotte, un DG ...",
+   "pubDate": "2026-11-17T11:44:30+00:00",
+   "source": "lequipe.fr",
+   "raciste": true
+  },
+  {
+   "title": "Foot : un supporter d'Oviedo condamné à de la prison avec sursis après des insultes ...",
+   "link": "https://www.lefigaro.fr/sports/football/espagne/foot-un-supporter-d-oviedo-condamne-a-de-la-prison-avec-sursis-apres-des-insultes-racistes-envers-mbappe-20261117",
+   "description": "... insultes racistes à l'encontre de Kylian Mbappé ... Ligue 1 · Calendrier et résultats Ligue 1 · Classement Ligue 1 ...",
+   "pubDate": "2026-11-17T11:40:46+00:00",
+   "source": "lefigaro.fr",
+   "raciste": true
+  },
+  {
+   "title": "Un supporter d'Oviedo condamné à onze mois de prison pour crime haineux après des insultes racistes proférées envers Kylian Mbappé",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcG9KbC1pYTVLcWtfMlZKSVVIMlFJRkZ2Z3lWdUZvSzRyMUlsMXJtM2lHWkVnRlVMeE5iTUJfa3JjQTNiZHZ6VDJkRHlmbnZIenpVaGtpR1RIVzlVWDFpclJzQUdMODg0eVFmSmNyNFBHWFd3MEdrTFZaeXhUc21OTjIxVFZOempodzdEMWpYYnl0RHotR2p3cWJvbFd1emxSekV5QWVRQ096WmM0alJvVWZzMTF6MlZjV2x6MHBUWFB4elhiN05VRTdaMVlDWHBFSFQtRU1BVVhXQ2U3ZURQUTczUEZZanYyX0s1bkpMeWJiN1Q4akhOQmh5UUt6X094TnIxY2dUWEo0N0FpaWc?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T11:25:18+00:00",
+   "source": "L'Équipe",
+   "raciste": true
+  },
+  {
+   "title": "Football en Charente-Maritime : exclu de la Ligue Nouvelle-Aquitaine pour propos sexistes, Georges Cascarino a saisi le tribunal administratif",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONXVRbDNHOGREOUNVanFoT0J6dHlia2xVdThRek93MGdHbjM4VEhQbW82bUN1R1VOMi05U3kzLUJ5QmFmak5faV95UkNjVnNmWnJQT3BONmpISzlZdXZrdVc5MGsyam10U1dxRHpjWko1bldZTUhCVXRQUGNsb0pzVDY0b0hZVTZ4bHRzcWZVVm9Pb2FXMVlJYjFtM1B5cWh6SEJoVUdqMFUzUFlSbjZ4YUZKcWdLemVhaHFWYk5tcFJ6aUJQc1BnUEVFNTh0TWFyR0hQekl4S19yclIybWE5VkhhaUlTOExONGkxX1pmUWpmcDdoWHZ1WFhYd2owQUdQbU5tYUo1eFNMdzRpNVpmcGRGa29jUmUwWS1R?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T05:15:00+00:00",
+   "source": "Sud Ouest",
+   "raciste": false
+  },
   {
    "title": "Justice I Agressions et harcèlement sexuels : deux ans de prison requis contre Pierre Ménès",
    "link": "https://www.eurosport.fr/football/juge-pour-harcelement-et-agressions-sexuels-pierre-menes-se-dit-piege-une-plaignante-dit-sa-colere_sto23355980/story.shtml",
@@ -66,6 +162,14 @@
    "pubDate": "2026-11-16T14:53:13+00:00",
    "source": "lefigaro.fr",
    "raciste": false
+  },
+  {
+   "title": "Le maire de Nanterre appelle à «une sanction exemplaire» en Betclic Élite après une insulte raciste adressée à un joueur du club",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUHJuZ0pMcG1qUkttNUNkMVZJdGZUc2NrQkw0RkE0Q0Z0aUhzXzlKZ2ZfSFFSaTgwX1QtZnhPZnRFQUVSVml1ZDhNUk9rUHhMMzFUS2NqamtuRkEyb2FpbHphX3ZBVDFud0FFVTNKN1YzQmd6Rkt2cHJUU3JkVnNHU1pvYVhzLVlyOTZic1plSlcwUWZjSkdGSzNILTRoY0tGT3RGSVh0ajlBMWc0N2xPY0Z5MjBnUU9aNTh1WG83ZXVreEtab1FBRU1lUlo2b3BRaF9sdmRwSk9BZmU0bmdWdU15YXRLNi0wVkg1dzNrOUxrQVI3djFVVjloUHVWZXlEOVVlWVRR?oc=5",
+   "description": "",
+   "pubDate": "2026-11-16T14:06:12+00:00",
+   "source": "L'Équipe",
+   "raciste": true
   },
   {
    "title": "Face aux insultes racistes d’une spectatrice, le club de football fait évacuer tous les supporters",
@@ -445,10 +549,10 @@
   },
   {
    "title": "Un joueur d'un club de foot de la Vienne victime de racisme",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnVYWkxZRFlvYlpRU2FxZkNqSVNCdEZ2Y1MwejNjMWUyMUVnLTBxNUE4cTNreFE4Y2ZOMmNGNXRGeVEtdF9Kcm9GWnpKTmpQWHQzenFqNWNhZnhnY3FkSnNLcDBKVV9sX19lRXBWdmhpMW9VeFJSc0Y0aDJEemZwVTl4UkY2WjVyQVRsb2VxNGFQdnBUc01yTTBEdHpwM2piWEhxM3pWX2pXSnh3Q2tEYWlTTmh2YWVxUzlBamN5anIzaXJTU3ZDYTVySkh5XzY0c3JJRVY2N1hZRmM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUZ4emJGVWNyWHI2cUdxdlY5LUJGbk55UEsyd1dVbG1YN2FxODk2SEQ2VzF3amQ4TFd2UW80dmswVTZHN2J5OE1paklDVHd2VUdKbWRvX0VsNHVORm05WElzSU9BV2FwQ0xtOUxIM1pTTVdMa3h4eVBtT01ydEJqREsxNEItWUxjaWxqZFFRVWl2X3MyQy1GcFdVb05aejRWV01ibnRQYmQ2S0xqYldNUG83V2thWjhuU0tuYUJzbjhZanhTeHgyS3l6bEo?oc=5",
    "description": "",
    "pubDate": "2026-11-10T06:32:30+00:00",
-   "source": "Radio France",
+   "source": "ici.fr",
    "raciste": true
   },
   {
@@ -4406,9 +4510,5 @@
    "manuel": true
   }
  ],
- "erreurs": [
-  "https://news.google.com/rss/search?q=antis%C3%A9mitisme+football+when%3A30d&hl=fr&gl=FR&ce : HTTP Error 429: Too Many Requests",
-  "https://news.google.com/rss/search?q=islamophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 429: Too Many Requests",
-  "https://news.google.com/rss/search?q=%22histoire+populaire+du+sport%22+Tribune+Saint-Ouen+ : HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }

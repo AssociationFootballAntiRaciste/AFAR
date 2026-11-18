@@ -1,8 +1,104 @@
 {
- "maj": "2026-11-18T11:42:43+00:00",
+ "maj": "2026-11-18T20:31:59+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 344,
+ "compteur_racisme": 352,
  "incidents": [
+  {
+   "title": "Un joueur palestinien accusé d’un geste « raciste » envers le capitaine indien lors des qualifications de la Coupe d’Asie U-17",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82R0hpb09GQ29idGFkTkxNMW4yVjhER3ZOa0lwLTF3cGhoLWNubFctQmNIT0pReXhXWkNQME9Ib2ltWmN4elJBSURTYk41U1Z5dWdFcDAwZERDZVY4UnFudmVCbjVsbkRsN1VvX2RXTUNtdGxO?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T19:00:44+00:00",
+   "source": "Infos-Israel.News",
+   "raciste": true
+  },
+  {
+   "title": "Real : prison avec sursis pour un supporter qui a proféré des insultes racistes contre Mbappé",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY2l0MHhhaUc0TE9feHlwVnJwQU5zNmlXQk04bEN4LUIzbzlSTTJhb1U5ZGVnUXVEWGlUNVAzTU5fUUJjYnd0bHF1blV3X2dhR2phYms0YXhLVk9MYnNxVFpsLVRydndHa3ZfSnZNX3h3T1ZrTnExNXJTbkdrQ1hRaVhNT0R5blNxNWwwZk04Z3QwRFlJM2dXaElJZzdiVTBvRF9xUUpnTEhCejRFOEpBODN2Smd4TzFQRDZ0dDIwbElxS00?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T19:00:00+00:00",
+   "source": "Tunisie Numerique",
+   "raciste": true
+  },
+  {
+   "title": "En Gironde, un match de U17 entâché par des accusations de racisme",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanJrUW05SlgtaTBlMEI5dWdYVWd6SHJ3UENlR3p3UkI0UUpvUEg1aVpVTnNBU0ZQM3ZZZElmM2xzbnpzZEphWFJCa242anF6SEFLcG0wcko2S1ZUU1pUeWpiYnJ3eDRreDMwM0lUeEEyVS05N3FjaEFUOU9sb1FNamhkeFp0Q3JKREV1OWUtY1AxWDFmdlJFaWw4ck5zYW4wckhiQ1lybURfVWtTM1lHcg?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T18:50:44+00:00",
+   "source": "SO FOOT.com",
+   "raciste": true
+  },
+  {
+   "title": "Ligue 1 : les supporters de l'OL interdits de déplacement à Lille - Foot National",
+   "link": "https://www.foot-national.com/actus/ligue-1-les-supporters-de-lol-interdits-de-deplacement-a-lille-964718",
+   "description": "... Ligue 2 · Direct foot Ligue 2 · Calendrier foot Ligue 2 · Résultats foot ... insultes racistes · Coupe de France : le superbe tifo du Stade ...",
+   "pubDate": "2026-11-18T18:45:47+00:00",
+   "source": "foot-national.com",
+   "raciste": true
+  },
+  {
+   "title": "OL: \"Le stade doit être un lieu sûr et sacré pour tous\", affirme Michele Kang après les polémiques de racisme autour du club",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkJoSXZzbkI3QlBEdVRXbG56aF9mdjJ1WlRxei1XakJ3UERETnV3WUVVdFk3cVhUR2VWYU5aOHhYd0Vvbk5wRjg4dnhMeHQ4b25VeEtjSENLOHVoM0cydUZUckNhS0h3U3B1b3JnVmVsRmhCaHFoUnVVbHFoZDRKMA?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T17:59:33+00:00",
+   "source": "Yahoo Actualités",
+   "raciste": false
+  },
+  {
+   "title": "Manchester United vise une pépite du Stade Rennais - Sport.fr",
+   "link": "https://www.sport.fr/football/manchester-united-vise-une-pepite-du-stade-rennais-1500344.shtm",
+   "description": "Alors que Franck Haise tente de faire progresser son équipe en Ligue 1 ... Mbappé visé par des insultes racistes : un supporter condamné à onze ...",
+   "pubDate": "2026-11-18T16:14:49+00:00",
+   "source": "sport.fr",
+   "raciste": true
+  },
+  {
+   "title": "Kylian Mbappé : un supporter raciste condamné",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZW94Rm95d1ZHNVBJUTlqbUV2cDkzWWNXOTkzUHgxZUpGUXBHSVQtTHlhX2FnOGVYZzZkdXdtNEdIX2Nhb0Q3T1FaNGg4LU9xNms0WUhDUDl3bVd0eFBHS2FiaHJSRTNnV2M3Z19PT0Y0U0Z5eUt6aTF0dTRjUTJYQi1pM0RpV2txcVYtUDcyMC1lSXNheVE?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T16:03:44+00:00",
+   "source": "Brut",
+   "raciste": true
+  },
+  {
+   "title": "« Allez, dégage ton ballon, sale singe » : accusations de racisme lors d’un match de football entre La Teste et Talence",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOLWlTY0hnY2RwcU5xSmR2MGp3a292VmZWZjg3YzlqOVdvdE16aGJHWlBPZGtRaU1Zc1dWclkxVmZiOVhNYkpmek5yUlVZSGFkX3hia0ozZXBLeWkwN3BJRDJOUHJRWlkxdWxQdE1TZW03RkpCbmF2Y29wMVIzNWN2NE9HdnZoLXI1eUNrM1U5N1lBVTJXOGtCTUJFVFpVaFZFc2VlWDluNjJ5ZFJBUzBVUTdVTm5lUldUNEJFMlduOENNZTZ6ZHNTLUpjZnM3ZkV6QUV3TG82SGlxWlpUS2h2ay1Pb2J3eTM3Sm9vYjNleUMxd0lCRERpSXY1YWJYa1ZJS0NSUm5DQWdyblhEZnBneEFhVDNzTmVZ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T15:55:33+00:00",
+   "source": "Le Parisien",
+   "raciste": true
+  },
+  {
+   "title": "PSG : quatre renforts de taille attendus à Nice - Sport.fr",
+   "link": "https://www.sport.fr/football/psg-quatre-renforts-de-taille-attendus-a-nice-1502708.shtm",
+   "description": "La réaction de Franck Haise et des joueurs est attendue avant le prochain match du Stade Rennais en Ligue 1 . ... Mbappé visé par des insultes racistes : ...",
+   "pubDate": "2026-11-18T15:34:55+00:00",
+   "source": "sport.fr",
+   "raciste": true
+  },
+  {
+   "title": "Kylian Mbappé visé par des insultes racistes : un supporter d'Oviedo condamné à 11 mois de prison avec sursis",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON29XQ0tTQWUyRjBpTm5IbVhDTXBZRlV6eExTcjJhSlZoSHhMYkFrSnVrZkkwR3JDOC1KWDZjRmJ1UXhfWmNnZ2w4ZmZfd2pCb2pXN2JTWlF5blVfSDN6XzJUTnNxbXdoRDhWZHIxOFIyZl9EcXpJSWN3NjNRSUpPd0NZR1U3NzBPSml2SmJWYXhQUFNralVQMVhZOVNhUFhyYXJHM0JHaFhIYWhGUXFEWGlFdHdIU0M3eVh0TFRwbGpjWVVHemhPbEtlSm90dEFOcjhBTk5qRzQ0OHpRbnc?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T15:05:04+00:00",
+   "source": "www.epochtimes.fr",
+   "raciste": true
+  },
+  {
+   "title": "Coupe de France : après Reims, un autre cador de Ligue 2 est reparti avec la recette de son 7e tour",
+   "link": "https://www.foot-national.com/coupe-de-france/coupe-de-france-apres-reims-un-autre-cador-de-ligue-2-est-reparti-avec-la-recette-de-son-7e-tour-964559",
+   "description": "... Ligue 1 · Direct foot Ligue 1 · Calendrier foot Ligue 1 · Résultats foot ... insultes racistes · - · Lire l'article · Chelsea-PSG (F) : les compositions ...",
+   "pubDate": "2026-11-18T12:48:46+00:00",
+   "source": "foot-national.com",
+   "raciste": true
+  },
+  {
+   "title": "“Ce genre de propos n'est pas tolérable” : en D2 un match interrompu et vidé de ses ...",
+   "link": "https://www.foot-national.com/foot-amateur/foot-amateur-ce-genre-de-propos-nest-pas-tolerable-un-match-de-d2-interrompu-apres-des-insultes-racistes-964562",
+   "description": "... Ligue 1 · Direct ... “Ce genre de propos n'est pas tolérable” : en D2 un match interrompu et vidé de ses spectateurs après des insultes racistes .",
+   "pubDate": "2026-11-18T10:30:53+00:00",
+   "source": "foot-national.com",
+   "raciste": true
+  },
   {
    "title": "La Ligue des Droits de l’Homme réagit aux insultes racistes proférées lors du match de football à Arques",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcndzWG5aeXNmeGgxcElKd3puQ1M5dkZOdXY3Y01lMmtsMmNzS0dLX1ZIVkZXS21LeVFQbzFmM29vSlNoTEFUazB4bTBibnBqLUE3SGJyWnByUjJ0SWozMnUwNmp1SXJnLWtuZnhUNWxSUDV2MjB3bk9TMG9QUF9Ocms3UkxjVzFnZzh3bS1FaVZueVhNSUJBU3VSVVR4d2gwV0VCTkJBSXctZEdqSTlNdXNyZGx5VW41V0xraHlNTG8zTlhWTDhBdk1RRQ?oc=5",
@@ -17,14 +113,6 @@
    "description": "",
    "pubDate": "2026-11-18T09:34:00+00:00",
    "source": "Le Tribunal du Net",
-   "raciste": true
-  },
-  {
-   "title": "“Ce genre de propos n’est pas tolérable” : en D2 un match interrompu et vidé de ses spectateurs après des insultes racistes",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNblE5TjF0NUp4Vkc2d0swa3kxYWNNeWR6MXZCMERlb1A5ZFZ2ZUI5QnBTb0pnMGRzOXBGMWtxcnpVa3ZkVjhFTXF2bExNbjI0TUF5UWtRbFZpWG5DMUpqVTRwbEgzQS1MQ2N3cV9ybklPdTlMeDQ4UHRlUWMyOEQyRVhTRXhBSXp5RGQ3dnVibVlKbFBIYWd5dDdmV29LaTJNZTBKWHRud3d4cVE4YjUxaEc3ZVMyc3N6M0FLQ21IeUNpWG04anFHUTcyRnlCNTZITHYyTy1yM2ZmcGRyNzMwblVGY3l2SDBxNEE?oc=5",
-   "description": "",
-   "pubDate": "2026-11-18T09:30:00+00:00",
-   "source": "Foot National",
    "raciste": true
   },
   {
@@ -57,14 +145,6 @@
    "description": "Ligue 1 · Ligue 2 · Ligue 3 · Ballon d'Or · Ligue des champions · Ligue Europa ... insultes racistes envers Mbappé. L'ÉQUIPE. publicité. le journal.",
    "pubDate": "2026-11-17T21:34:19+00:00",
    "source": "lequipe.fr",
-   "raciste": true
-  },
-  {
-   "title": "De la prison avec sursis pour un supporter qui a proféré des insultes racistes contre Mbappé",
-   "link": "https://sports.orange.fr/football/espagne/article/de-la-prison-avec-sursis-pour-un-supporter-qui-a-profere-des-insultes-racistes-contre-mbappe-exclu-CNT000002tLYkg.html",
-   "description": "Ligue 1 + · Bouquet Divertissement · Bouquet CINE+ OCS · Bouquet Ciné ... insultes racistes contre Mbappé. ©Icon Sport, Media365. De la prison avec ...",
-   "pubDate": "2026-11-17T21:10:31+00:00",
-   "source": "sports.orange.fr",
    "raciste": true
   },
   {
@@ -132,14 +212,6 @@
    "raciste": true
   },
   {
-   "title": "Football : un supporter condamné à onze mois de prison avec sursis pour des insultes racistes envers Kylian Mbappé",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONy1SOWl2RmhTcnBZNHdtMDd2aWNKOHRSb2tDak9FWkQ3eHhfcHl5MDB6OHdFUG1OMGdlME1kbUhCRFMyTFo3MGoyelZSYjJVc0NGeGxlMGNMWXpNREVzakp6Nlp4OVVHRTJlNWRUTEdOUGxwOEJsTWhSSTFqT2lsbU8zb1NSYUd0T3ZiU2VKYjNDZVktcEI0WTY2ajZhZTRQSlJReW9WeDBPUjRvMzY5ME9ENGlUNUFuZmfSAb8BQVVfeXFMTmtueFFsTUx5V2x4M1d4WVRMdW0wajJqRDlpWkdabkU5OU8zUUhYUTlsRWItY0diQTBudUpEdFR0YzQxZFdYaGF4NXMzSXVObmEzaEk1TGRQODdKT1pLVU52VG5ZT2Raa3hsc0I0bXprYlJNU0VYbTBkZ2FwWjQ0QVk0eFRYd2liRGJRZlNESThsSHRkNDFLX0FKZlowUmVuQ2NlMHNhRkU5MXpRVmNReUFLUjliVWJrRUUtNmdDUXc?oc=5",
-   "description": "",
-   "pubDate": "2026-11-17T15:12:45+00:00",
-   "source": "CNews",
-   "raciste": true
-  },
-  {
    "title": "Peine de prison pour des insultes envers Mbappé ! Un supporter sanctionné pour racisme",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVhLWmRRSl93ejBOT0ZVYnRTYXZLaFFpcTlxZm9kVlZOVTFyazZadFJuSUI5MXpZMUJTQ0Y0RHBvRG9CRkNObW91LW10Z1dBZHFvcDlHV3NiV0NjaU1HYVNuYVFFMmNMb3BuVnN1RjgxSEo4WWo1SU5hSUpKSjVjY0ZlN29HMERaUUM0blBnZUVocndXMUtVamZaNWpkTVlaTFVUU1dfU1FxSnh1SVo4Zk9IVkVEcFo2?oc=5",
    "description": "",
@@ -180,6 +252,14 @@
    "raciste": true
   },
   {
+   "title": "Un supporter condamné à 11 mois de prison pour insultes racistes envers Kylian Mbappé",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR3ZwMXdfTF9jWXNOVzF4c3BCMFUyeS1yTXdQR3hjMG9ORXJuM1F2aGNjMmdnXzhZX3ZhakRRZU1lYzlhbkVsTU9UemJ5R01SY2xrQlNUSnJSMS1GQngzWXAyTnFFLU40TFJ1NTBvNWxnTlVaYWxWd3NyWnJKY3VrN0RTZlIyNG1Ua1ZGSnRCUjE5TERxVlA3QzRLX21MTmNOOFZJV2tVN0J2SWhmSEdmOEdyV3poVy1Y?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T11:47:57+00:00",
+   "source": "Lente Desportiva",
+   "raciste": true
+  },
+  {
    "title": "Un club de Haute-Garonne évacue son stade après des propos racistes",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXYyMEg5SFVmc09JQ0pLeGhraFl0bUpzNGV1SVk5QjBxelFFMExZNjNiUmxVR0xNR2dQSmFLX0pVc1Iwd0gzU2N2UWNFVnBmSGMyVlMxbC1CTFR2M19ZamtvXzFqWU9PUDZZMUU2REhLd2hjVXBaUHVnb2VtRG9jR0sxdGhrM3Q1NVVXcl9FWmxwTUVXaGxlQlByN1Z6VDdzak1palNkTQ?oc=5",
    "description": "",
@@ -209,14 +289,6 @@
    "description": "... insultes racistes à l'encontre de Kylian Mbappé ... Ligue 1 · Calendrier et résultats Ligue 1 · Classement Ligue 1 ...",
    "pubDate": "2026-11-17T11:40:46+00:00",
    "source": "lefigaro.fr",
-   "raciste": true
-  },
-  {
-   "title": "Un supporter d'Oviedo condamné à onze mois de prison pour crime haineux après des insultes racistes proférées envers Kylian Mbappé",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcG9KbC1pYTVLcWtfMlZKSVVIMlFJRkZ2Z3lWdUZvSzRyMUlsMXJtM2lHWkVnRlVMeE5iTUJfa3JjQTNiZHZ6VDJkRHlmbnZIenpVaGtpR1RIVzlVWDFpclJzQUdMODg0eVFmSmNyNFBHWFd3MEdrTFZaeXhUc21OTjIxVFZOempodzdEMWpYYnl0RHotR2p3cWJvbFd1emxSekV5QWVRQ096WmM0alJvVWZzMTF6MlZjV2x6MHBUWFB4elhiN05VRTdaMVlDWHBFSFQtRU1BVVhXQ2U3ZURQUTczUEZZanYyX0s1bkpMeWJiN1Q4akhOQmh5UUt6X094TnIxY2dUWEo0N0FpaWc?oc=5",
-   "description": "",
-   "pubDate": "2026-11-17T11:25:18+00:00",
-   "source": "L'Équipe",
    "raciste": true
   },
   {

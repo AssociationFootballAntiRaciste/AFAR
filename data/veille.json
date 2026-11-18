@@ -1,15 +1,95 @@
 {
- "maj": "2026-11-17T16:00:07+00:00",
+ "maj": "2026-11-18T00:57:41+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 332,
+ "compteur_racisme": 341,
  "incidents": [
+  {
+   "title": "[Podcasts] Violences sexistes et sexuelles dans le football, un traitement trop laxiste ? Mejdaline Mhiri, co-autrice du livre \"La zone d'impunité\" invitée de l'After – 17/11",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOYXVNMjJZZnJUanFsNmlEc0owdEFBUVJvTGdrQ1BlY1pBMnJlRWN0YTI0NXh6UTA5bXU1d2NsTThVRUs3QUc2azFscVV2ZzNDTjAtYlJkQy1QQXRJbndWVlZCaGFTVV9kdFRwcjVqMVdwUG9nRWpQc0h0WXBTcHV6WUhTUlZlTlVIR3dDS1dqc0NZLXBPcU1rLTBmNEhqeEl1YUhRUXdXaVozbXdYSUVyRnVNNzBscDNUYV9MWFpXTGRPS0JPQnpDYklEUWdnQ1FPS1dOWU9WX3VBaE9ZRGdOVmRiOTBKQ3kyNXFNLVR2UjItSG80OWVRR2l4ZnAwclBtTUVJRlp4RUs5Wk1aWm5GN1o1ZEJMV1FLcVB5Q1E3TUVNdGFZTUN3REpueFBzV0lrTjdXeVF1b2tMcThiLTZvQmUyQ3B2UVpEOUJsQ3dlYVo?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T23:13:21+00:00",
+   "source": "RMC Sport",
+   "raciste": false
+  },
+  {
+   "title": "Après avoir digéré son départ d'Auxerre, Christophe Pelissier se sent d'attaque - L'Équipe",
+   "link": "https://www.lequipe.fr/Football/Actualites/Apres-avoir-digere-son-depart-d-auxerre-christophe-pelissier-se-sent-d-attaque-je-suis-pret-a-relever-n-importe-quel-defi/1744256",
+   "description": "Ligue 1 · Ligue 2 · Ligue 3 · Ballon d'Or · Ligue des champions · Ligue Europa ... insultes racistes envers Mbappé. L'ÉQUIPE. publicité. le journal.",
+   "pubDate": "2026-11-17T21:34:19+00:00",
+   "source": "lequipe.fr",
+   "raciste": true
+  },
+  {
+   "title": "De la prison avec sursis pour un supporter qui a proféré des insultes racistes contre Mbappé",
+   "link": "https://sports.orange.fr/football/espagne/article/de-la-prison-avec-sursis-pour-un-supporter-qui-a-profere-des-insultes-racistes-contre-mbappe-exclu-CNT000002tLYkg.html",
+   "description": "Ligue 1 + · Bouquet Divertissement · Bouquet CINE+ OCS · Bouquet Ciné ... insultes racistes contre Mbappé. ©Icon Sport, Media365. De la prison avec ...",
+   "pubDate": "2026-11-17T21:10:31+00:00",
+   "source": "sports.orange.fr",
+   "raciste": true
+  },
+  {
+   "title": "Jorge Sampaoli sait très bien dans quel club il a été le plus heureux - SO FOOT .com",
+   "link": "https://www.sofoot.com/breves/ligue-1-jorge-sampaoli-garde-un-bon-souvenir-de-son-passage-a-lom",
+   "description": "Un supporter d'Oviedo condamné pour insultes racistes . Esp. Oviedo ... Logo de a compétition Ligue 1 · Logo de a compétition Ligue des champions ...",
+   "pubDate": "2026-11-17T19:47:24+00:00",
+   "source": "sofoot.com",
+   "raciste": true
+  },
+  {
+   "title": "FIFA 2027 | Philippe Diallo confirme sa candidature à la présidence de la FIFA et a reçu ...",
+   "link": "https://www.eurosport.fr/football/presidence-fifa-2027-philippe-diallo-confirme-sa-candidature-a-la-presidence-de-la-fifa-et-a-recu-des-marques-de-soutien-fermes_sto23356123/story.shtml",
+   "description": "Mbappé visé par des insultes racistes : Prison avec sursis pour un supporter d'Oviedo ... Ligue 1 Classement Ligue 1Ligue 1 calendrier et résultats ...",
+   "pubDate": "2026-11-17T18:28:32+00:00",
+   "source": "eurosport.fr",
+   "raciste": true
+  },
+  {
+   "title": "Football : un ancien joueur du PSG et international français annonce sa retraite à 34 ans",
+   "link": "https://www.cnews.fr/sport/2026-11-17/football-un-ancien-joueur-du-psg-et-international-francais-annonce-sa-retraite-34",
+   "description": "Sacré champion de Ligue 2 , en 2013 avec le club monégasque, le latéral ... Kylian Mbappé a été victime d' insultes racistes en août 2025.",
+   "pubDate": "2026-11-17T18:26:56+00:00",
+   "source": "cnews.fr",
+   "raciste": true
+  },
+  {
+   "title": "Estéban Lepaul de retour contre Lorient ? - SO FOOT .com",
+   "link": "https://www.sofoot.com/breves/stade-rennais-esteban-lepaul-de-retour-a-lentrainement-et-apte-contre-lorient",
+   "description": "... Ligue 1 . Il sera en tout cas présent sur celles de la Piverdière ... Un supporter d'Oviedo condamné pour insultes racistes . Esp. Oviedo.",
+   "pubDate": "2026-11-17T18:18:56+00:00",
+   "source": "sofoot.com",
+   "raciste": true
+  },
+  {
+   "title": "Mais qui veut envoyer l'aigle de Nice à la retraite ? - SO FOOT .com",
+   "link": "https://www.sofoot.com/breves/ligue-1-lassociation-peta-souhaite-mettre-laigle-mefi-de-logc-nice-a-la-retraite",
+   "description": "Il y a 3 semaines Plusieurs matchs de Ligue 1 et de Ligue 2 décalés en raison des manifestations ... Un supporter d'Oviedo condamné pour insultes ...",
+   "pubDate": "2026-11-17T18:15:25+00:00",
+   "source": "sofoot.com",
+   "raciste": false
+  },
+  {
+   "title": "« Tu veux voir ma banane ? » : un membre de la commission de discipline de la Ligue régionale de foot exclu pour propos sexistes",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTlpXR3lOLWRYczFPSG9OYkI0eExqVDY3SmJ4WjJySXlWNm5PWGZCeHdkeTFMZ3MyZWN5NHBHUWhHVzJHSzRZSV9lRTNCdG9vZFRlMzF0bl9WS184eWF2akNaQmcxaHhGVy1uU3NpZy00aUc3ZUlwVkdxNTdfQW1XcWdQOHRkdk1BNG5adDg3TWhJQXBNa0xkZkFDam9reGdHMUZiZW1kbkprTHRudWNfV1d3YmpLVWp3bVAwOUdremhvZ3FBMkxrNlBhWkFmYmJyMkNlRlloU0lGY194SHhsWHNudUFsWXd5X1BEQVlJN25za1NVSkxBRHRTX2pNWlpvZVJYTEtyWFM?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T16:11:39+00:00",
+   "source": "Charente Libre",
+   "raciste": true
+  },
   {
    "title": "Football : Violences Et Racisme, Des Joueurs Palestiniens Au Cœur D'un Scandale Face À L'Inde",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZkJnb1h6ampYakFpNFctb0JtdDdBcEtjWl9aT0JpWEc3Sk9nR0tZTW5RWjNUQW9pLVRyaElNc29rV3kySjhaenhBTVpvanZ2NlBzM2F1NzVScHBhcE1yQXEtbGxIZlUzSmFXd2JqSjd4SkdoTm5HQ3l0RXhGdUcwbHYzYUNNTS1JSlNERkQwYUtxckZaZVlOV3hvM2FLYy1jUG1ERWhxQ09ZOGdBclVLZ1gwRDR3cFdpZm5iZmRjVHVOMm14aWFGckptUWx1UQ?oc=5",
    "description": "",
-   "pubDate": "2026-11-17T15:44:00+00:00",
+   "pubDate": "2026-11-17T16:01:22+00:00",
    "source": "i24NEWS",
    "raciste": false
+  },
+  {
+   "title": "Transferts - Vitor Matos (Swansea) et Strasbourg ( Ligue 1 ) seraient proche d'un accord ... - Eurosport",
+   "link": "https://www.eurosport.fr/football/transferts/2026-2027/transferts-vitor-matos-swansea-et-strasbourg-ligue-1-seraient-proche-dun-accord-hugo-oliveira-sur-le-depart_sto23356091/story.shtml",
+   "description": "Football Transferts Ligue 1 . Transferts - Vitor Matos (Swansea) et ... Mbappé visé par des insultes racistes : Prison avec sursis pour un supporter d' ...",
+   "pubDate": "2026-11-17T15:38:09+00:00",
+   "source": "eurosport.fr",
+   "raciste": true
   },
   {
    "title": "Football : un supporter condamné à onze mois de prison avec sursis pour des insultes racistes envers Kylian Mbappé",
@@ -36,11 +116,19 @@
    "raciste": true
   },
   {
-   "title": "Un supporter d’Oviedo condamné pour insultes racistes",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1hfMWd6c0d6Y05NTktFNkowOGdGM19kcFREem5TUWFRNEU2V0NHU2JqU3VhSlNfUmZ2WjRKRG5BMUZ6azZ2ZEJhR2FwV2p4LVRBcVFRZlVXam10SzdLQUxaVDllQy1oMk12RmNyMTZmb0JtdWVYX05rMkFlaVhPRkd2WTZWRzYzMTZwWmEwclhPdnlqZ3ZhVzFDR1B1MFhOWUZiQkRmbXdyMHlOVVRkSg?oc=5",
-   "description": "",
-   "pubDate": "2026-11-17T12:27:07+00:00",
-   "source": "SO FOOT.com",
+   "title": "De Lange : \"Quand tu as l'écusson de l'OM, tu ne te dis pas 'cette saison, on vise la 11e place'\"",
+   "link": "https://www.eurosport.fr/football/ligue-1/2026-2027/jeffrey-de-lange-sur-les-ambitions-de-marseille-ligue-1-quand-tu-as-lecusson-de-lom-tu-ne-te-dis-pas-cette-saison-on-vise-la-11e-place_sto23356047/story.shtml",
+   "description": "FootballLigue 1 . Jeffrey De Lange sur les ambitions de Marseille ( Ligue ... Mbappé visé par des insultes racistes : Prison avec sursis pour un supporter ...",
+   "pubDate": "2026-11-17T13:11:08+00:00",
+   "source": "eurosport.fr",
+   "raciste": true
+  },
+  {
+   "title": "Un supporter d'Oviedo condamné pour insultes racistes - SO FOOT .com",
+   "link": "https://www.sofoot.com/breves/espagne-un-supporter-doviedo-condamne-pour-insultes-racistes-envers-kylian-mbappe",
+   "description": "Un supporter d'Oviedo vient d'être condamné ce mardi par la deuxième section de l'Audience Provinciale des Asturies pour insultes racistes , annonce le ...",
+   "pubDate": "2026-11-17T12:41:50+00:00",
+   "source": "sofoot.com",
    "raciste": true
   },
   {
@@ -201,6 +289,14 @@
    "description": "",
    "pubDate": "2026-11-16T06:25:19+00:00",
    "source": "Sud Ouest",
+   "raciste": false
+  },
+  {
+   "title": "Chants homophobes dans les stades : le ministre des Sports souhaite l'interruption des matchs en cas d'incidents",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdC1MTXlDNkswaHY3U1U4QVctOUVEdHhhcTFPZTg3cS1NYWtJMVVmcl80MzJrRzVnQnRfaHVwb0szTThEVVVqYTk2MTdVWjRYVDFXS1k4aGtMaHF5a2ZyMFNoZUpLcHZJaUFNNDdnX3pBdTR1ZWhiaElSSk9ocm1RV2hIQThXSmFrWkJyeU1YUlhIakF5UDA1QTdzemtZLS01NGNBM0kzVldBTnJEUTFRcVhWTXdTWWFraThldWxEUFhxZw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-16T06:14:22+00:00",
+   "source": "Frontières",
    "raciste": false
   },
   {

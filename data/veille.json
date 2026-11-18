@@ -1,8 +1,48 @@
 {
- "maj": "2026-11-18T00:57:41+00:00",
+ "maj": "2026-11-18T11:42:43+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 341,
+ "compteur_racisme": 344,
  "incidents": [
+  {
+   "title": "La Ligue des Droits de l’Homme réagit aux insultes racistes proférées lors du match de football à Arques",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcndzWG5aeXNmeGgxcElKd3puQ1M5dkZOdXY3Y01lMmtsMmNzS0dLX1ZIVkZXS21LeVFQbzFmM29vSlNoTEFUazB4bTBibnBqLUE3SGJyWnByUjJ0SWozMnUwNmp1SXJnLWtuZnhUNWxSUDV2MjB3bk9TMG9QUF9Ocms3UkxjVzFnZzh3bS1FaVZueVhNSUJBU3VSVVR4d2gwV0VCTkJBSXctZEdqSTlNdXNyZGx5VW41V0xraHlNTG8zTlhWTDhBdk1RRQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T10:05:39+00:00",
+   "source": "Nord Littoral",
+   "raciste": true
+  },
+  {
+   "title": "Insultes racistes envers Mbappé : 11 mois avec sursis et 2 ans sans stade pour le supporter alcoolisé",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVEg2UGRzaENSWHFvQzBEb1RKREZEODJQNW1CXzA5d3dGaTZNSGpQbHBOZFNTbUZrOFExdGt4MV91OU9jclgwZzhvTi1VVDh5VGVzZjlvWjNqRXRHZjZVVW9FSW5NRW9zdHFSSENkVTl2Y25JR0VLM2hBcVYxbXBjclBHSGh6clNOM3oybTlnY0N5Ym0tdUJv?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T09:34:00+00:00",
+   "source": "Le Tribunal du Net",
+   "raciste": true
+  },
+  {
+   "title": "“Ce genre de propos n’est pas tolérable” : en D2 un match interrompu et vidé de ses spectateurs après des insultes racistes",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNblE5TjF0NUp4Vkc2d0swa3kxYWNNeWR6MXZCMERlb1A5ZFZ2ZUI5QnBTb0pnMGRzOXBGMWtxcnpVa3ZkVjhFTXF2bExNbjI0TUF5UWtRbFZpWG5DMUpqVTRwbEgzQS1MQ2N3cV9ybklPdTlMeDQ4UHRlUWMyOEQyRVhTRXhBSXp5RGQ3dnVibVlKbFBIYWd5dDdmV29LaTJNZTBKWHRud3d4cVE4YjUxaEc3ZVMyc3N6M0FLQ21IeUNpWG04anFHUTcyRnlCNTZITHYyTy1yM2ZmcGRyNzMwblVGY3l2SDBxNEE?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T09:30:00+00:00",
+   "source": "Foot National",
+   "raciste": true
+  },
+  {
+   "title": "\"La majorité s'en foutait…\", laxisme contre les violences sexistes et sexuelles… le football en première ligne ?",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSDI2eEMzLW1QbkhsbXlkVTNKNDBKZ2JOUnRmWnF5LW42TzBKb3hUMFRFWURHc1RJYjViVGJrZUxtMUFQWjNwNFpJSkhnRVRTQ05QZkMxNWIycDRjcUJTX2hlVE5IUHNSYklYUXM4UEpKRk0zbkRuTkZnWTdXc0oyQ0k3dE1kVXFyYUpHa1VCWkQ2QmdhVkl3ZWJKMHZLQ21tZm5LRFUtODhrcVc0SDVVd3JaclZCU21sZ0s0NkZQeWdrRUFONWE0RExHcVlmUm1TRWdFQktZYzI4dFhkMkMxYjZQakNmV0VmQU9YS2xKM21ZZEVaZl93NGVweUNJaVVBTjZVYXJKeDJEaVRfcDl1S013b19SQQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T08:27:27+00:00",
+   "source": "RMC Sport",
+   "raciste": false
+  },
+  {
+   "title": "Fouilles inappropriées et agressions en tribunes : quand les stades de foot deviennent le lieu de violences sexistes et sexuelles",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY2tWbWV3eGx0RXJ2VWduQTNCb19iRDA4bTFJMTF4WjNUclVBQTN6RDhKQklGSUZFd1dZSU5nSk04OTJ5VVVUUnFJVHZhOWtqdWszaTE2WloyNElwcWtvRTE3UDhFdUdqOFNSSGs2RjZyVENSa0ZLX1dxZnQzRVBZSmo1cS1DYmN4NFE2aE5ob0pBSUdsTFBPS1BCNnFQWFpGdmtTN3l5cUtzTmZheXhUQWRqT3ljX2ZlQ2syRUFhRlVHdlNoQngybXU1R0w5cmRJVUZSSWNiUFRlMmtsWWRoZVQyUTlRTGlTa1FKRkZsbF9rYmI4OHNLeGVua0JCRXdlM2dGc29IWjhBVTdTOXBoOFlkcWI?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T04:26:00+00:00",
+   "source": "L'Équipe",
+   "raciste": false
+  },
   {
    "title": "[Podcasts] Violences sexistes et sexuelles dans le football, un traitement trop laxiste ? Mejdaline Mhiri, co-autrice du livre \"La zone d'impunité\" invitée de l'After – 17/11",
    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOYXVNMjJZZnJUanFsNmlEc0owdEFBUVJvTGdrQ1BlY1pBMnJlRWN0YTI0NXh6UTA5bXU1d2NsTThVRUs3QUc2azFscVV2ZzNDTjAtYlJkQy1QQXRJbndWVlZCaGFTVV9kdFRwcjVqMVdwUG9nRWpQc0h0WXBTcHV6WUhTUlZlTlVIR3dDS1dqc0NZLXBPcU1rLTBmNEhqeEl1YUhRUXdXaVozbXdYSUVyRnVNNzBscDNUYV9MWFpXTGRPS0JPQnpDYklEUWdnQ1FPS1dOWU9WX3VBaE9ZRGdOVmRiOTBKQ3kyNXFNLVR2UjItSG80OWVRR2l4ZnAwclBtTUVJRlp4RUs5Wk1aWm5GN1o1ZEJMV1FLcVB5Q1E3TUVNdGFZTUN3REpueFBzV0lrTjdXeVF1b2tMcThiLTZvQmUyQ3B2UVpEOUJsQ3dlYVo?oc=5",
@@ -103,7 +143,7 @@
    "title": "Peine de prison pour des insultes envers Mbappé ! Un supporter sanctionné pour racisme",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVhLWmRRSl93ejBOT0ZVYnRTYXZLaFFpcTlxZm9kVlZOVTFyazZadFJuSUI5MXpZMUJTQ0Y0RHBvRG9CRkNObW91LW10Z1dBZHFvcDlHV3NiV0NjaU1HYVNuYVFFMmNMb3BuVnN1RjgxSEo4WWo1SU5hSUpKSjVjY0ZlN29HMERaUUM0blBnZUVocndXMUtVamZaNWpkTVlaTFVUU1dfU1FxSnh1SVo4Zk9IVkVEcFo2?oc=5",
    "description": "",
-   "pubDate": "2026-11-17T13:56:37+00:00",
+   "pubDate": "2026-11-17T14:00:35+00:00",
    "source": "Dailysports",
    "raciste": true
   },

@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-19T02:34:24+00:00",
+ "maj": "2026-11-19T11:40:25+00:00",
  "date_depart": "2026-01-01",
  "compteur_racisme": 355,
  "incidents": [
@@ -780,10 +780,18 @@
    "raciste": true
   },
   {
+   "title": "Un joueur d'un club de foot de la Vienne victime de racisme",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUZ4emJGVWNyWHI2cUdxdlY5LUJGbk55UEsyd1dVbG1YN2FxODk2SEQ2VzF3amQ4TFd2UW80dmswVTZHN2J5OE1paklDVHd2VUdKbWRvX0VsNHVORm05WElzSU9BV2FwQ0xtOUxIM1pTTVdMa3h4eVBtT01ydEJqREsxNEItWUxjaWxqZFFRVWl2X3MyQy1GcFdVb05aejRWV01ibnRQYmQ2S0xqYldNUG83V2thWjhuU0tuYUJzbjhZanhTeHgyS3l6bEo?oc=5",
+   "description": "",
+   "pubDate": "2026-11-10T08:00:00+00:00",
+   "source": "ici.fr",
+   "raciste": true
+  },
+  {
    "title": "Trois matchs de foot amateur arrêtés dimanche, quelles solutions pour exclure les racistes des stades",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTXhSeDJ0eFBYQ0NqYjRhdnBjZ0JUTW82SExPVUw3em5JcnN4Z1M3QUxzeFM5MUdYQ2ZSR3RpWnRRNVIwYWtSU1pESDN3bDkyd1ZvYzdJZXExYTY0Ym8xazBkQ0JnMXVORVMxMTRoWmhDUURLX2F3b3NpU3lqamtZVW1yY2NObThlam80b1ZUT0ZiMmhmcVUzdGV2Z2cwNUcwNzVMeTZNcXY2R0F3T0E2eEh6QjhCVlFpeWVheEs0U1JVZTFQUUphX0Eybnl2cUUz?oc=5",
    "description": "",
-   "pubDate": "2026-11-10T07:48:39+00:00",
+   "pubDate": "2026-11-10T08:00:00+00:00",
    "source": "La Voix du Nord",
    "raciste": true
   },
@@ -793,14 +801,6 @@
    "description": "",
    "pubDate": "2026-11-10T07:43:07+00:00",
    "source": "Delta FM",
-   "raciste": true
-  },
-  {
-   "title": "Un joueur d'un club de foot de la Vienne victime de racisme",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUZ4emJGVWNyWHI2cUdxdlY5LUJGbk55UEsyd1dVbG1YN2FxODk2SEQ2VzF3amQ4TFd2UW80dmswVTZHN2J5OE1paklDVHd2VUdKbWRvX0VsNHVORm05WElzSU9BV2FwQ0xtOUxIM1pTTVdMa3h4eVBtT01ydEJqREsxNEItWUxjaWxqZFFRVWl2X3MyQy1GcFdVb05aejRWV01ibnRQYmQ2S0xqYldNUG83V2thWjhuU0tuYUJzbjhZanhTeHgyS3l6bEo?oc=5",
-   "description": "",
-   "pubDate": "2026-11-10T06:32:30+00:00",
-   "source": "ici.fr",
    "raciste": true
   },
   {
@@ -4758,5 +4758,8 @@
    "manuel": true
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "https://news.google.com/rss/search?q=cris+de+singe+football+when%3A30d&hl=fr&gl=FR&ceid=FR : HTTP Error 429: Too Many Requests",
+  "https://news.google.com/rss/search?q=racisme+Ligue+1+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 429: Too Many Requests"
+ ]
 }

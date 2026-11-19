@@ -1,8 +1,24 @@
 {
- "maj": "2026-11-19T11:40:25+00:00",
+ "maj": "2026-11-19T20:37:57+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 355,
+ "compteur_racisme": 357,
  "incidents": [
+  {
+   "title": "Insultes racistes lors d'un match de football à La Teste-de-Buch ? Le dossier transmis à la justice - ICI",
+   "link": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/la-teste-de-buch/insultes-racistes-lors-d-un-match-de-football-a-la-teste-de-buch-le-dossier-transmis-a-la-justice-8355408",
+   "description": "Le district de football la Gironde dit prendre l'affaire très au sérieux ... insultes racistes au bord du terrain du FC Pays de Buch.",
+   "pubDate": "2026-11-19T15:09:55+00:00",
+   "source": "ici.fr",
+   "raciste": true
+  },
+  {
+   "title": "\"Sale singe\", \"sale noir\" : lors d’un match de foot en Gironde, des spectateurs accusés d'avoir tenu des propos racistes",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMGxYOE5BNzdhTGFULVk4WkhPMEF6cDBMVUQ4b1hXT1Q1enhLMjJRamdyZTA5MHRXQzV4TDd4V2hqbUxHOEhOVUtmdE53MGhKSHNGVW94eFVFTXVvbXpENC1YRmZGdFBSSy1SUkZ2cUJlU1plZS1lOUI2UThzUU5xSVYtTFdUb2JnNUVfeEFtUGhOUU9zWjhVQTNLQU12eXFOZGVMXzRDTWpMZm5seDlPdWZ4dUhlZm5Fc2dMcnB3S0xtLURydTBYYlFjajdVbU1CWDhTTjZUN205b3MwX1dUai1IYWVSN3o4U3pybTRHLThMdmV1NDE0NmFFUDVrZVdIcGNzb2Rn?oc=5",
+   "description": "",
+   "pubDate": "2026-11-19T11:46:01+00:00",
+   "source": "Actu.fr",
+   "raciste": true
+  },
   {
    "title": "passe d'armes entre LFI et la préfecture de l'Oise autour d'une écharpe tricolore - Le Figaro",
    "link": "https://www.lefigaro.fr/politique/passe-d-armes-entre-lfi-et-la-prefecture-de-l-oise-autour-du-port-d-une-echarpe-tricolore-20261118",
@@ -4758,8 +4774,5 @@
    "manuel": true
   }
  ],
- "erreurs": [
-  "https://news.google.com/rss/search?q=cris+de+singe+football+when%3A30d&hl=fr&gl=FR&ceid=FR : HTTP Error 429: Too Many Requests",
-  "https://news.google.com/rss/search?q=racisme+Ligue+1+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }

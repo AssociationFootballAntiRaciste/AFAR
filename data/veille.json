@@ -1,8 +1,40 @@
 {
- "maj": "2026-11-18T20:31:59+00:00",
+ "maj": "2026-11-19T02:34:24+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 352,
+ "compteur_racisme": 355,
  "incidents": [
+  {
+   "title": "passe d'armes entre LFI et la préfecture de l'Oise autour d'une écharpe tricolore - Le Figaro",
+   "link": "https://www.lefigaro.fr/politique/passe-d-armes-entre-lfi-et-la-prefecture-de-l-oise-autour-du-port-d-une-echarpe-tricolore-20261118",
+   "description": "«Ni sexisme , ni politique, ni impérialisme, simple application de la ... Classement Ligue 1 · Classement Top 14 · Transferts football · Coupe du ...",
+   "pubDate": "2026-11-18T23:44:46+00:00",
+   "source": "lefigaro.fr",
+   "raciste": false
+  },
+  {
+   "title": "Foot Amateur : la FFF valide la refonte de l'Observatoire des comportements pour lutter ...",
+   "link": "https://www.foot-national.com/foot-amateur/foot-amateur-la-fff-valide-la-refonte-de-lobservatoire-des-comportements-pour-lutter-contre-les-violences-964700",
+   "description": "... Ligue 1 · Direct foot Ligue 1 · Calendrier foot Ligue 1 · Résultats foot ... sexisme , handicap). La plupart des ligues régionales ont commencé à ...",
+   "pubDate": "2026-11-18T22:12:18+00:00",
+   "source": "foot-national.com",
+   "raciste": false
+  },
+  {
+   "title": "Avenir, finances, fréquentations au stade, actes racistes... Les chantiers de Michele Kang, la présidente de l'OL",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUXhTSTkxT0U2a1RmZ284aHlLV3VKVjhVNUVzeWlWbi1PODZzM25oSzNES1lBLVROQTNaRjN4aGZ1bmtQcFdpVW9DTzVLU2EtSTJlVmV0MzZ5QzBTajhxWHcxZHFsMmxxM1BaY2hNT29NbTFQYW4tN2xCcnFJaG5PUFN6QmVRX3NPczY3eU9XcWotc2tqMTUyT3o1ZXlDOHgtYVVOdmtNTEh0Z1g1X0JQU2ZoR1lRNDBVZEw5YTBSdzE4b0NPVVc1ZWVyRVQ2TEliNFI1Qm4tZWR5SjZBQ05TM3BSTDlKNG1UaUIwZVdB?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T21:43:57+00:00",
+   "source": "L'Équipe",
+   "raciste": true
+  },
+  {
+   "title": "Foot Amateur : passé par la Ligue 1 , Mickaël Le Bihan signe en Régional 2",
+   "link": "https://www.foot-national.com/foot-amateur/foot-amateur-passe-par-la-ligue-1-mickael-le-bihan-signe-en-regional-2-964723",
+   "description": "... insultes racistes · Talents · U19. U19 Groupe A. Calendrier · Classement ... Ligue 2 en 2014-2015 (18 buts). Ses performances lui avaient permis d ...",
+   "pubDate": "2026-11-18T21:06:10+00:00",
+   "source": "foot-national.com",
+   "raciste": true
+  },
   {
    "title": "Un joueur palestinien accusé d’un geste « raciste » envers le capitaine indien lors des qualifications de la Coupe d’Asie U-17",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82R0hpb09GQ29idGFkTkxNMW4yVjhER3ZOa0lwLTF3cGhoLWNubFctQmNIT0pReXhXWkNQME9Ib2ltWmN4elJBSURTYk41U1Z5dWdFcDAwZERDZVY4UnFudmVCbjVsbkRsN1VvX2RXTUNtdGxO?oc=5",
@@ -42,6 +74,14 @@
    "pubDate": "2026-11-18T17:59:33+00:00",
    "source": "Yahoo Actualités",
    "raciste": false
+  },
+  {
+   "title": "Layvin Kurzawa, ex-Monaco et PSG : le latéral gauche annonce sa retraite à 34 ans",
+   "link": "https://www.sport.fr/football/layvin-kurzawa-ex-monaco-et-psg-le-lateral-gauche-annonce-sa-retraite-a-34-ans-1502366.shtm",
+   "description": "Avant le déplacement à Nice, samedi en Ligue 1 , Luis Enrique espère ... Mbappé visé par des insultes racistes : un supporter condamné à onze mois de ...",
+   "pubDate": "2026-11-18T16:16:04+00:00",
+   "source": "sport.fr",
+   "raciste": true
   },
   {
    "title": "Manchester United vise une pépite du Stade Rennais - Sport.fr",

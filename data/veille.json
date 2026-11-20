@@ -1,7 +1,7 @@
 {
- "maj": "2026-11-20T02:19:29+00:00",
+ "maj": "2026-11-20T11:40:42+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 359,
+ "compteur_racisme": 360,
  "incidents": [
   {
    "title": "Insultes racistes lors d'un match de football à La Teste-de-Buch ? Le dossier transmis à la justice - ICI",
@@ -194,6 +194,14 @@
    "pubDate": "2026-11-17T23:13:21+00:00",
    "source": "RMC Sport",
    "raciste": false
+  },
+  {
+   "title": "Racisme contre Kylian Mbappé : Un supporter condamné",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRVY1T3BQQ2NQMDFpNnlLWU5rb1NzR2x1b3ZNMVd2LVFYenFlNzZ5V1ZGQ09fVlVXWldlTWJJZC1BRkwzdkFaNThDTE1nelhpanBwT0JxZ2hqeFlrVzdWTnRoRXVQcGhLdm16ckZLaGVIc25rR0podWgwckFscm9WYVJhQUxpdw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T22:35:00+00:00",
+   "source": "Méga Sports",
+   "raciste": true
   },
   {
    "title": "Après avoir digéré son départ d'Auxerre, Christophe Pelissier se sent d'attaque - L'Équipe",

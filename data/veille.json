@@ -1,8 +1,32 @@
 {
- "maj": "2026-11-20T11:40:42+00:00",
+ "maj": "2026-11-20T20:21:10+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 360,
+ "compteur_racisme": 364,
  "incidents": [
+  {
+   "title": "Racisme dans le football girondin : le district fait équipe avec la justice pour sanctionner plus vite",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVU11cmVWeEhzUXMtNC04ZWREUzUzd1NOcWtHY2xmQnExeWczU0VyTVVuMnNhcm16NnFkdlVNQTlTVEdSQzl4ZFNXNFFPOVdOcGZJaXA0XzNXMHcwRkcwak5US3QyMHZRUkdKREtIbGhHdVM3Zy16WUJJOWgyUlJHcXNNcjFTclBPQV9fejdMNE9BakI1MFYyaDYyQ0hmd0dUa3poWVRJYmVIVWk3TzgtdkF6LWtUSGlxNFRnR2pZMGVwckxrSDdreWlzYjF4S09IQmpoQ2NINjBmQQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-20T17:14:41+00:00",
+   "source": "Le Figaro",
+   "raciste": true
+  },
+  {
+   "title": "Après des soupçons d' insultes racistes lors d'un match de foot en Gironde, les subventions ...",
+   "link": "https://www.ouest-france.fr/sport/football/apres-des-soupcons-dinsultes-racistes-lors-dun-match-de-foot-en-gironde-les-subventions-dun-club-suspendues-36ec6ee0-e4f1-11f1-b9ed-164c427aef07",
+   "description": "Le District de la Gironde de football a saisi sa commission de ... Ligue 1 · Equipe de France · CAN 2025 · Ligue des champions · Coupe de France · PSG ...",
+   "pubDate": "2026-11-20T16:35:24+00:00",
+   "source": "ouest-france.fr",
+   "raciste": true
+  },
+  {
+   "title": "L'arbitre algérien Youcef Gamouh est mort à l'âge de 39 ans, le football africain en deuil",
+   "link": "https://www.ouest-france.fr/sport/football/larbitre-algerien-youcef-gamouh-est-mort-a-lage-de-39-ans-le-football-africain-en-deuil-4860fca4-e4ab-11f1-bd4e-6f30b8f49e21",
+   "description": "OM - Le Mans FC : avant le match de Ligue 1 , Antoine Rabillard revient sur ses années passées à Marseille ... Après des soupçons d' insultes racistes ...",
+   "pubDate": "2026-11-20T16:06:01+00:00",
+   "source": "ouest-france.fr",
+   "raciste": true
+  },
   {
    "title": "Insultes racistes lors d'un match de football à La Teste-de-Buch ? Le dossier transmis à la justice - ICI",
    "link": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/la-teste-de-buch/insultes-racistes-lors-d-un-match-de-football-a-la-teste-de-buch-le-dossier-transmis-a-la-justice-8355408",
@@ -180,6 +204,14 @@
    "raciste": false
   },
   {
+   "title": "La Fédération indienne de football accuse un joueur palestinien U17 de racisme et saisit l'AFC",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFdjV29TclFKdllKeUg4UlFMSjkxMmtfaGl6djQtNWtTd25CdmdvODlXakI3S3B0T082Y2Q0X0gtTlJSVG96Yy1oWG9hengwT09ZdG96Y1lpOUNOUjN0OHc0SjNOSWdxeDZpYVJZUWJhMHItWC1SWW9JY0pSNWdxOGQ5Q1RvLU9XU3lmaGtKVFFnMlBZODE4?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T07:10:44+00:00",
+   "source": "AllFootball",
+   "raciste": true
+  },
+  {
    "title": "Fouilles inappropriées et agressions en tribunes : quand les stades de foot deviennent le lieu de violences sexistes et sexuelles",
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY2tWbWV3eGx0RXJ2VWduQTNCb19iRDA4bTFJMTF4WjNUclVBQTN6RDhKQklGSUZFd1dZSU5nSk04OTJ5VVVUUnFJVHZhOWtqdWszaTE2WloyNElwcWtvRTE3UDhFdUdqOFNSSGs2RjZyVENSa0ZLX1dxZnQzRVBZSmo1cS1DYmN4NFE2aE5ob0pBSUdsTFBPS1BCNnFQWFpGdmtTN3l5cUtzTmZheXhUQWRqT3ljX2ZlQ2syRUFhRlVHdlNoQngybXU1R0w5cmRJVUZSSWNiUFRlMmtsWWRoZVQyUTlRTGlTa1FKRkZsbF9rYmI4OHNLeGVua0JCRXdlM2dGc29IWjhBVTdTOXBoOFlkcWI?oc=5",
    "description": "",
@@ -197,7 +229,7 @@
   },
   {
    "title": "Racisme contre Kylian Mbappé : Un supporter condamné",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRVY1T3BQQ2NQMDFpNnlLWU5rb1NzR2x1b3ZNMVd2LVFYenFlNzZ5V1ZGQ09fVlVXWldlTWJJZC1BRkwzdkFaNThDTE1nelhpanBwT0JxZ2hqeFlrVzdWTnRoRXVQcGhLdm16ckZLaGVIc25rR0podWgwckFscm9WYVJhQUxpdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT0NwdGNZQ1VMU0dvTjQ2NUtESVRrNkNzVC1JWldRTXZIajBYd3dHbFVXcmFoR1doZDZpTHJUc3hQVG5JWFdfSGw0Skt5cDg1YmhmTVRjRDJpN0pNSE1QODRIT0FYc1ZUUzc4R05kTU9ETHhib0pSNW43RFhuT3F5WXZJUVEzNDg?oc=5",
    "description": "",
    "pubDate": "2026-11-17T22:35:00+00:00",
    "source": "Méga Sports",
@@ -4806,5 +4838,7 @@
    "manuel": true
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "https://news.google.com/rss/search?q=banderole+raciste+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 429: Too Many Requests"
+ ]
 }

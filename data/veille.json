@@ -1,7 +1,7 @@
 {
- "maj": "2026-11-19T20:37:57+00:00",
+ "maj": "2026-11-20T02:19:29+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 357,
+ "compteur_racisme": 359,
  "incidents": [
   {
    "title": "Insultes racistes lors d'un match de football à La Teste-de-Buch ? Le dossier transmis à la justice - ICI",
@@ -380,6 +380,14 @@
    "raciste": false
   },
   {
+   "title": "Nanterre : Un joueur victime d'une insulte raciste à Dijon : Sports - Orange",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR1BLWEFTYVpyWXpGelVoQmJXc3NNQlFNZjMtLVZBNUMtSmwxYjJCeFVLSnBVOFVXU0tvaUJRSk12QjZyUmFJOU9kWmZkYlJ6c3JybW40VzZ2d1R2Mmh6bWxmVXB3RENoZWtTSFl0bDF4UmdacF9VamdvV2YwdUY3QmQzQnQzdEVCZWlkcnJQVlZTaVZaUW1BTnlpcU9rMjhSOXJqVTJ3d1JwQUlSUnA2Zk1hZTVaU2dra3QzUXVMcGxHQ0FyZGVkNmFrSVQ3TUUzUVHSAdABQVVfeXFMT0tSSVptYjNsWGZTZEFmLU53UWE1OHI3NHU3YjdENjhtZl9fS3BXZzdCVldlYXFxUVU2T1d1aDVOYkhCcUFpWHdBOWppTUhBTXVFYm81QVA4TWtYaE9IWUFaclUwTkFXMGNfczFsS1hXUkZuY3VtY2JZUDY2WW9RSm1ja0UzN21pN2RBWkp3Y0ZQVmtUWmVoaEZJWTZaM0dwa0FrT09LSWF0R1NvaDM4cmNwOEVkd3BaMFJ2ZkV1SF9nR0ZjdjZYN0xKYXV0QWZPVA?oc=5",
+   "description": "",
+   "pubDate": "2026-11-16T18:53:00+00:00",
+   "source": "Sports - Orange",
+   "raciste": true
+  },
+  {
    "title": "Un collectif de 18 organisations s'élève pour l'annulation du Canon Français à Vannes",
    "link": "https://www.ouest-france.fr/bretagne/vannes-56000/un-collectif-de-18-organisations-seleve-pour-lannulation-du-canon-francais-a-vannes-2cddd378-e1d9-11f1-b029-43a761592972",
    "description": "... insultes racistes ... Metz éliminé par une R1, Nantes et les autres Ligue 2 assurent…",
@@ -481,6 +489,14 @@
    "description": "",
    "pubDate": "2026-11-16T05:34:00+00:00",
    "source": "ladepeche.fr",
+   "raciste": true
+  },
+  {
+   "title": "Nanterre 92 dénonce une insulte raciste envers un de ses joueurs par un spectateur lors de son match contre Dijon",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNk9PcVhhUjVQeV9GTVdCTVZ2OW5vcnN1MzRnU2VCWlAyZWVFb3NRLXc5Z3RIU25CamsyRHp6b2dMbFBneklUOVV1dk00aFJfVTEyYWFGejJSby1qZUNiSkhYYWhLSGxRVWJ5M3lqSy15SmJQUGhOeDhtVldwSG5qQVJ4T29lQXFGWTNmY3l2b3RIWHF1UVJSNmF6RFN5SUQzV3N2eWxVckpIYlZzaUVHTTFBNTgyUGRWQnB5S1A1RW0teHc2RXlOTDhobjFDYzNxZ2NHS0ZrOE0yVVdMam42WGtBdW9hc0JMZHBTRkc0YmxvMVhOV2xicFNSbllrSm5KWlRUT1c5UnI4dw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-15T21:11:47+00:00",
+   "source": "L'Équipe",
    "raciste": true
   },
   {
@@ -626,6 +642,14 @@
    "pubDate": "2026-11-11T13:58:23+00:00",
    "source": "Vietnam.vn",
    "raciste": true
+  },
+  {
+   "title": "L'entraîneur Park Hang Seo écope d'une pénalité en Thaïlande malgré les insultes dont il est victime.",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQUdONkNjTlB5aDhITjFadGo1YnV3Y3VGWF9HUGNSSmZqVHI4Z3BBTlE1aVVuY1ZuUEpVeVpEdHV3dUwyTUg2aVBvTTZheUpqQ3kyVm9YSV9wN3RxY2pXb1JVWDZhdjZkUmprV1A3YUdYbl9FaFFFV1g1cVo5UklaODZrWUp4MUMwQldJLQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-11T13:35:08+00:00",
+   "source": "Vietnam.vn",
+   "raciste": false
   },
   {
    "title": "TÉMOIGNAGES. Après les incidents lors d'un match amateur dans le Tarn, le président de l ...",

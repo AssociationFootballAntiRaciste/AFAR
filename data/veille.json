@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-21T02:15:37+00:00",
+ "maj": "2026-11-21T11:01:46+00:00",
  "date_depart": "2026-01-01",
  "compteur_racisme": 364,
  "incidents": [
@@ -631,7 +631,7 @@
    "title": "Insultes racistes, crachat… Un joueur traité de “sale turc” lors d’un match de foot en Haute-Vienne",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcWt3elJIS2ppRFdUb2MyeVIzOEhFbm0wUmNxdktGRV9YdjkwLTdwQ1FuRFVUVWpCUnJBWkZfTHhEeGlMZHRmMGF0OUZON3lZUzJ2dUcwNU5Ia2Y2eGU3RDV6U2ZaNFRpeEROc3N0dUcwMnVVRW83cGhzZGVadl9GdzlDQ1BPdFZTVi0xdldMZEZXSG0zOFpHT3Z0Vkd5aUtDQ1NPNXR4MldBbVNneDVwUk5UWUxFWjU0RHZKdVliTk9qQzQ3TE5hLXM0ZnhqMktWY3RjMlV5ZWNVREJweG9FMkRfeFByU25iRUZzdG15Y1d4QQ?oc=5",
    "description": "",
-   "pubDate": "2026-11-12T04:55:00+00:00",
+   "pubDate": "2026-11-12T08:00:00+00:00",
    "source": "Le Populaire du Centre",
    "raciste": true
   },
@@ -4838,5 +4838,10 @@
    "manuel": true
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "https://news.google.com/rss/search?q=cris+de+singe+football+when%3A30d&hl=fr&gl=FR&ceid=FR : HTTP Error 429: Too Many Requests",
+  "https://news.google.com/rss/search?q=islamophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 429: Too Many Requests",
+  "https://news.google.com/rss/search?q=sexisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 429: Too Many Requests",
+  "https://news.google.com/rss/search?q=%22Une+histoire+populaire+du+sport%22+when%3A30d&hl=f : HTTP Error 429: Too Many Requests"
+ ]
 }

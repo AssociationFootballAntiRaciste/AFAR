@@ -1,7 +1,7 @@
 {
- "maj": "2026-11-21T11:01:46+00:00",
+ "maj": "2026-11-21T19:15:55+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 364,
+ "compteur_racisme": 365,
  "incidents": [
   {
    "title": "Racisme dans le football girondin : le district fait équipe avec la justice pour sanctionner plus vite",
@@ -337,6 +337,14 @@
    "description": "Un supporter d'Oviedo vient d'être condamné ce mardi par la deuxième section de l'Audience Provinciale des Asturies pour insultes racistes , annonce le ...",
    "pubDate": "2026-11-17T12:41:50+00:00",
    "source": "sofoot.com",
+   "raciste": true
+  },
+  {
+   "title": "Un supporter d’Oviedo condamné à de la prison avec sursis pour racisme envers Mbappé",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObWFJcGgzYXJMb0JDY1N1ZUlJXzdMNVlaNWExOWtSdFk0WkpUUmE2cXhhX2xhZ2UyeXYwTVBiazJaejRfMDVINVl5YTJheDJBeE1wUUc4TWFkNnNFa0NOdzZmdThmRDk1cUZ6alBtYV9YcXNLYVJJRmJhSWRiRGEyZFdNMWJJaDdadHYxWDBvWUpSVEZKUE5GcUM5cl9RX2s5ekg2X3NFeEt3bUxxUG1DTW5uYVFfenZDcVdfeWJ3LXg?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T12:19:55+00:00",
+   "source": "7sur7.be",
    "raciste": true
   },
   {
@@ -4838,10 +4846,5 @@
    "manuel": true
   }
  ],
- "erreurs": [
-  "https://news.google.com/rss/search?q=cris+de+singe+football+when%3A30d&hl=fr&gl=FR&ceid=FR : HTTP Error 429: Too Many Requests",
-  "https://news.google.com/rss/search?q=islamophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR% : HTTP Error 429: Too Many Requests",
-  "https://news.google.com/rss/search?q=sexisme+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr : HTTP Error 429: Too Many Requests",
-  "https://news.google.com/rss/search?q=%22Une+histoire+populaire+du+sport%22+when%3A30d&hl=f : HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }

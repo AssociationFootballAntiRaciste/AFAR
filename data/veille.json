@@ -1,8 +1,24 @@
 {
- "maj": "2026-11-22T01:19:42+00:00",
+ "maj": "2026-11-22T11:25:28+00:00",
  "date_depart": "2026-01-01",
  "compteur_racisme": 367,
  "incidents": [
+  {
+   "title": "Foot Amateur : accusé de propos sexistes, un dirigeant de la Ligue de Nouvelle-Aquitaine exclu",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbmdCQk5CS2tEbGV0aHZ2WS1neTNQbFdQOXY4OTEzMDVNVjZYWkxMQXh4TXpsNVh3VURxUC15ZmppdjNGOWNsbFREaFc4X3F2SDMwbVlDOGZLNXBXTkw1aks3MjJRRkxKUmFYdnhRVUdpWXJjNWUtU2NqUDZNcHRUVERTTVNwa3QwT3ljWmJ4VXN4M1Q0SmJ4cC1lMG15YlRJbEVVY1RBam4xYnkyWXJ2TFRKVnp6Tnl2QU1Ob0dCWGg4NU1KOWlsV3NWUEV1TDI2LVJ5RGdONTg?oc=5",
+   "description": "",
+   "pubDate": "2026-11-22T05:39:00+00:00",
+   "source": "Foot National",
+   "raciste": false
+  },
+  {
+   "title": "\"Je ne peux pas contrôler chaque spectateur\" : un club amateur privé de subventions après des soupçons de racisme",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWHZaNVpNV2p1ZF9aOGR5MDM2VUJmV3ZLWVlWaE55Ulc2VndJZmVGN2ltMzlEWDZ3NTJjbTJDeWoyaDhzYVFIQzg5QU5HNmUyV2JHQTB3eDIydFhfLXRRUzhkOURxeG85U2VmbGl6Vk5pSFFvTElYWlRZZTFxS0NjQ2M0a2N0RWgtSW9QNHpCN3h4MzFldlVTOTJWeW56dFA0dnFYOEVNRVE3eG5WcFJNQTBVdGtFdXJjaWsxSm9jLWFyNk0yZ3ZXWTMtMF9JQTNvWUFtUWd1X1V5clVBTWtnYS1paElmUEMtTlJyaHZ1aWNEYnVwQ3JLUkhqUXNpQU85cDNF?oc=5",
+   "description": "",
+   "pubDate": "2026-11-22T05:22:00+00:00",
+   "source": "Foot National",
+   "raciste": false
+  },
   {
    "title": "Après les nouvelles insultes proférées à Dijon, l'enjeu de la lutte contre le racisme fait son ...",
    "link": "https://www.lequipe.fr/Basket/Article/Apres-les-nouvelles-insultes-proferees-a-dijon-l-enjeu-de-la-lutte-contre-le-racisme-fait-son-retour-au-premier-plan-sur-les-parquets-francais/1745159",
@@ -10,6 +26,14 @@
    "pubDate": "2026-11-21T22:01:05+00:00",
    "source": "lequipe.fr",
    "raciste": true
+  },
+  {
+   "title": "Incident raciste dans le football féminin : une joueuse d'OHL prise à partie par une supportrice de la RAAL",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVnR5SjJteDBIQ3ltZlE3VEZqakdkTVBkUWgyUGNRTVNKLXpJT1d6QUFrSFloY1l5TkhSTTBac3N5S2l3ZlJ1aW5KY2pDal9aWFloNlBNVW5EOE9SN0dHOHU4SW9WRmRCZW9UUHU5OGhNZUc3UGRqUllTVDhDaW1ZVTlSUm9LNzJKTExwdkNNR3hSdTNHemw5YnZWbTNRd2F1cVp0RkV0U3RHTTZLcWdfamFCQWdQc19wdnVaOFliQUxnNXAxOTZIdjFpSUFqLWlnc252cDFuLXlDZVJwMFFOUzdEZ9IB6AFBVV95cUxQaFdQR1BzSFZ2Ql9DaWRZRmo3WkpnNVJ1WlFBN1lKZlgwVFg4UUxvVXBfMXh4ZVhNb1NIOHJUdUowZUZVbWEtQXZXLVFVYnNJNTF2UXlaZ0JraHFjdGg0c1NxTkJzZGpTeE9HVmhLbnlsNXZFY2Q0SExfc3U4MHdFcmhxVThPV043V3lSR3lOU0VFN005WFJjXzA1T1dTQ0VYTWNsZnB0OU1UUk42bW5lMkFiak5CY00tRnd5bWhGY2VmLUEtTU1pdVUxZjczNEQ5aW41endKalJDT2NRb1VmQ2tIMmstZDRW?oc=5",
+   "description": "",
+   "pubDate": "2026-11-21T20:10:00+00:00",
+   "source": "FootFeminin.be",
+   "raciste": false
   },
   {
    "title": "VIDÉO. Didier Deschamps, plein d'autodérision après l'échec du Mondial, fait le show dans ...",
@@ -245,7 +269,7 @@
   },
   {
    "title": "Racisme contre Kylian Mbappé : Un supporter condamné",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT0NwdGNZQ1VMU0dvTjQ2NUtESVRrNkNzVC1JWldRTXZIajBYd3dHbFVXcmFoR1doZDZpTHJUc3hQVG5JWFdfSGw0Skt5cDg1YmhmTVRjRDJpN0pNSE1QODRIT0FYc1ZUUzc4R05kTU9ETHhib0pSNW43RFhuT3F5WXZJUVEzNDg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRVY1T3BQQ2NQMDFpNnlLWU5rb1NzR2x1b3ZNMVd2LVFYenFlNzZ5V1ZGQ09fVlVXWldlTWJJZC1BRkwzdkFaNThDTE1nelhpanBwT0JxZ2hqeFlrVzdWTnRoRXVQcGhLdm16ckZLaGVIc25rR0podWgwckFscm9WYVJhQUxpdw?oc=5",
    "description": "",
    "pubDate": "2026-11-17T22:35:00+00:00",
    "source": "Méga Sports",
@@ -1031,7 +1055,7 @@
    "title": "Dette de 6.000 euros, accusations de racisme : pourquoi ce club de foot dédié à la prévention de la délinquance à Toulouse ne jouera pas cette saison",
    "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQaUs4a25rUEwzOEN2Y3ByX1pqcVBCOXotRWlULVN0NkNudGZJc2h4Q1dyaFVIeXF2dlVrSm16dmJUYUJwMEY5ajAzNGFHUGgtYmpIQ29idVlrb0hEQjlXS0hUb25mc2lxVnBRYWFqc284SHQ5YnJTZTVfVl9STVctQ1owME9LRkttWW93bjNnbzBSUFIyMENyRFVoRktTSG1fcmwwWnpSZ2VLQzlScmdqVmR0Z3phY3d6ZVp2aE5EZy1Oc3loX2dMVEZ3TFdHSDdsZFRuT0ZJNVk5cHFOd1E3RmJBSGlQbGEzLVZabmc0cjc3cFFqaW5RUkE4RndZR0xkSXBYNlk5bm9OalRIZ0xiR2hOZ0FCT18xSWtqQWZfWGE1Y2R2TDYtUkl1b2hYQTRwbXVvNF9Ka2lybmxCZ2VtUXlFSHdDeUJwSGlObkpHcw?oc=5",
    "description": "",
-   "pubDate": "2026-11-09T05:00:09+00:00",
+   "pubDate": "2026-11-09T08:00:00+00:00",
    "source": "France 3 Régions",
    "raciste": true
   },

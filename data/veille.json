@@ -1,21 +1,45 @@
 {
- "maj": "2026-11-22T11:25:28+00:00",
+ "maj": "2026-11-22T19:41:15+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 367,
+ "compteur_racisme": 371,
  "incidents": [
+  {
+   "title": "\"Je ne peux pas contrôler chaque spectateur\" : un club amateur privé de subventions après ...",
+   "link": "https://www.foot-national.com/foot-amateur/foot-amateur-je-ne-peux-pas-controler-chaque-spectateur-un-club-girondin-prive-de-subventions-apres-des-soupcons-de-racisme-965205",
+   "description": "... insultes racistes venues du bord du terrain lors d'un match à La Teste-de-Buch (Gironde), face au FC Pays de Buch. Le District de la Gironde a ...",
+   "pubDate": "2026-11-22T17:35:26+00:00",
+   "source": "foot-national.com",
+   "raciste": true
+  },
+  {
+   "title": "De nouveaux propos racistes tenus en marge d’un match de football dans la Vienne",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeWJJYldld0R4RldUSVdlRjdNc0swTWFIdkNmZ25Uc3lQQ1I4QnFkNDU4ZUFMNzR3UGpONTVwdy1FREdxOHlaMVRSZzJVaGJ5Z2Z2cEZkTzNjclZVSkVSMGM2V2plM2NmOER3bUlnQ1FzV2VWUGQxb2pEVmY4ODhiUUpWbm9lWGNWdUlTM2dzZGd1REJ6Tkk4a1JzSU9kRzk2eU16bFJGWEd1dW9oSkg2SXBmM2ZVbWNEVEtJSVplVVpMTlp0dDE3c2tRMjFGa3ZROFdnLWh1ZVk?oc=5",
+   "description": "",
+   "pubDate": "2026-11-22T16:58:37+00:00",
+   "source": "lanouvellerepublique.fr",
+   "raciste": true
+  },
+  {
+   "title": "Des insultes racistes tenues lors d'un match de football dans la Vienne",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUndXRm1GYzBHUDBtWHFQOHFKSkd5VTkyUkNOUkNSalJiZzE4d294b1RDZHhKUk1sYURxdzdtTDY0dmxZNDZOaHVjeFp2VUN2cGNEc1RoTDlONHRBRm5BaWwwWmNDSFlPQ01KUDhXSTNQVGZaMkticUpmazRSM2t5eVg1X2dTd09HWWhPbW9fOWRKSUxzS0VRR3p0MXNpSnFLNHhIQjE1WkdMb0tBM0FtOGFhcUdLRWdSaWdNNkJsdF9JRm9uS0tJRkkwZW5FZktOSlhsRzMxcm8?oc=5",
+   "description": "",
+   "pubDate": "2026-11-22T15:47:06+00:00",
+   "source": "ici.fr",
+   "raciste": true
+  },
+  {
+   "title": "\"Notre jeune joueur pleurait dans le vestiaire\" : témoignage après de nouveaux propos racistes en marge d’un match de foot dans la Vienne",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQcDJidV96T1J0aHpXODlua21YbHlHRHI1MXFqd3RiZDdmSVRuVWFjTjdWQVJNcjQxT2pZRzE1ME02VFE3V0pSY3JzU3NuTEtZRmhyUEc2alRLMmpoRDNwTUJVNElqNnRUT29ZWE5pUUtMYVM2cTFOQkdzaUNMV3dwSFdUYmhxTlN0ZjBORmVIdmtQVkl2R2RtYy1sY0ZZcEhpNWJ4YXBlWEFtbWdtX3l6R09fR2tJT1JuLUpRNlRmbE1mRzZ4UlJmYndkUTREdk5iV1RETlBHcVNCVG5HMkNMcFB4YVJESm50N0lYR0trMlNackhCZmF6YXNsdzUtcHNCWTdJRnRhZ0NxdEdDUGoxTThDUjB3ZU9nS1JKU0tMcw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-22T15:21:37+00:00",
+   "source": "lanouvellerepublique.fr",
+   "raciste": true
+  },
   {
    "title": "Foot Amateur : accusé de propos sexistes, un dirigeant de la Ligue de Nouvelle-Aquitaine exclu",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbmdCQk5CS2tEbGV0aHZ2WS1neTNQbFdQOXY4OTEzMDVNVjZYWkxMQXh4TXpsNVh3VURxUC15ZmppdjNGOWNsbFREaFc4X3F2SDMwbVlDOGZLNXBXTkw1aks3MjJRRkxKUmFYdnhRVUdpWXJjNWUtU2NqUDZNcHRUVERTTVNwa3QwT3ljWmJ4VXN4M1Q0SmJ4cC1lMG15YlRJbEVVY1RBam4xYnkyWXJ2TFRKVnp6Tnl2QU1Ob0dCWGg4NU1KOWlsV3NWUEV1TDI2LVJ5RGdONTg?oc=5",
    "description": "",
    "pubDate": "2026-11-22T05:39:00+00:00",
-   "source": "Foot National",
-   "raciste": false
-  },
-  {
-   "title": "\"Je ne peux pas contrôler chaque spectateur\" : un club amateur privé de subventions après des soupçons de racisme",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWHZaNVpNV2p1ZF9aOGR5MDM2VUJmV3ZLWVlWaE55Ulc2VndJZmVGN2ltMzlEWDZ3NTJjbTJDeWoyaDhzYVFIQzg5QU5HNmUyV2JHQTB3eDIydFhfLXRRUzhkOURxeG85U2VmbGl6Vk5pSFFvTElYWlRZZTFxS0NjQ2M0a2N0RWgtSW9QNHpCN3h4MzFldlVTOTJWeW56dFA0dnFYOEVNRVE3eG5WcFJNQTBVdGtFdXJjaWsxSm9jLWFyNk0yZ3ZXWTMtMF9JQTNvWUFtUWd1X1V5clVBTWtnYS1paElmUEMtTlJyaHZ1aWNEYnVwQ3JLUkhqUXNpQU85cDNF?oc=5",
-   "description": "",
-   "pubDate": "2026-11-22T05:22:00+00:00",
    "source": "Foot National",
    "raciste": false
   },
@@ -4894,5 +4918,8 @@
    "manuel": true
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "https://news.google.com/rss/search?q=insultes+racistes+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 429: Too Many Requests",
+  "https://news.google.com/rss/search?q=homophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3A : HTTP Error 429: Too Many Requests"
+ ]
 }

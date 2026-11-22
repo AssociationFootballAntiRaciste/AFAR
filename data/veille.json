@@ -1,8 +1,24 @@
 {
- "maj": "2026-11-21T19:15:55+00:00",
+ "maj": "2026-11-22T01:19:42+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 365,
+ "compteur_racisme": 367,
  "incidents": [
+  {
+   "title": "Après les nouvelles insultes proférées à Dijon, l'enjeu de la lutte contre le racisme fait son ...",
+   "link": "https://www.lequipe.fr/Basket/Article/Apres-les-nouvelles-insultes-proferees-a-dijon-l-enjeu-de-la-lutte-contre-le-racisme-fait-son-retour-au-premier-plan-sur-les-parquets-francais/1745159",
+   "description": "Ligue 1 +. votre espace membre. voir tout. mes actus · ma liste · mon ... Dimanche dernier à Dijon, un joueur de Nanterre a été ...",
+   "pubDate": "2026-11-21T22:01:05+00:00",
+   "source": "lequipe.fr",
+   "raciste": true
+  },
+  {
+   "title": "VIDÉO. Didier Deschamps, plein d'autodérision après l'échec du Mondial, fait le show dans ...",
+   "link": "https://www.ladepeche.fr/2026/11/21/video-didier-deschamps-plein-dautoderision-apres-lechec-du-mondial-fait-le-show-dans-une-publicite-de-burger-king-ou-il-se-mue-en-chef-de-cuisine-il-13664773.php",
+   "description": "... insultes racistes , le président du club de foot amateur fait évacuer le stade ... Suivez le match de Ligue 1 en live. Le Danois Casper Tengstedt a déjà ...",
+   "pubDate": "2026-11-21T19:51:49+00:00",
+   "source": "ladepeche.fr",
+   "raciste": true
+  },
   {
    "title": "Racisme dans le football girondin : le district fait équipe avec la justice pour sanctionner plus vite",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVU11cmVWeEhzUXMtNC04ZWREUzUzd1NOcWtHY2xmQnExeWczU0VyTVVuMnNhcm16NnFkdlVNQTlTVEdSQzl4ZFNXNFFPOVdOcGZJaXA0XzNXMHcwRkcwak5US3QyMHZRUkdKREtIbGhHdVM3Zy16WUJJOWgyUlJHcXNNcjFTclBPQV9fejdMNE9BakI1MFYyaDYyQ0hmd0dUa3poWVRJYmVIVWk3TzgtdkF6LWtUSGlxNFRnR2pZMGVwckxrSDdreWlzYjF4S09IQmpoQ2NINjBmQQ?oc=5",
@@ -284,20 +300,20 @@
    "raciste": false
   },
   {
+   "title": "Football : Violences Et Racisme, Des Joueurs Palestiniens Au Cœur D'un Scandale Face À L'Inde",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZkJnb1h6ampYakFpNFctb0JtdDdBcEtjWl9aT0JpWEc3Sk9nR0tZTW5RWjNUQW9pLVRyaElNc29rV3kySjhaenhBTVpvanZ2NlBzM2F1NzVScHBhcE1yQXEtbGxIZlUzSmFXd2JqSjd4SkdoTm5HQ3l0RXhGdUcwbHYzYUNNTS1JSlNERkQwYUtxckZaZVlOV3hvM2FLYy1jUG1ERWhxQ09ZOGdBclVLZ1gwRDR3cFdpZm5iZmRjVHVOMm14aWFGckptUWx1UQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-17T18:08:05+00:00",
+   "source": "i24NEWS",
+   "raciste": false
+  },
+  {
    "title": "« Tu veux voir ma banane ? » : un membre de la commission de discipline de la Ligue régionale de foot exclu pour propos sexistes",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTlpXR3lOLWRYczFPSG9OYkI0eExqVDY3SmJ4WjJySXlWNm5PWGZCeHdkeTFMZ3MyZWN5NHBHUWhHVzJHSzRZSV9lRTNCdG9vZFRlMzF0bl9WS184eWF2akNaQmcxaHhGVy1uU3NpZy00aUc3ZUlwVkdxNTdfQW1XcWdQOHRkdk1BNG5adDg3TWhJQXBNa0xkZkFDam9reGdHMUZiZW1kbkprTHRudWNfV1d3YmpLVWp3bVAwOUdremhvZ3FBMkxrNlBhWkFmYmJyMkNlRlloU0lGY194SHhsWHNudUFsWXd5X1BEQVlJN25za1NVSkxBRHRTX2pNWlpvZVJYTEtyWFM?oc=5",
    "description": "",
    "pubDate": "2026-11-17T16:11:39+00:00",
    "source": "Charente Libre",
    "raciste": true
-  },
-  {
-   "title": "Football : Violences Et Racisme, Des Joueurs Palestiniens Au Cœur D'un Scandale Face À L'Inde",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZkJnb1h6ampYakFpNFctb0JtdDdBcEtjWl9aT0JpWEc3Sk9nR0tZTW5RWjNUQW9pLVRyaElNc29rV3kySjhaenhBTVpvanZ2NlBzM2F1NzVScHBhcE1yQXEtbGxIZlUzSmFXd2JqSjd4SkdoTm5HQ3l0RXhGdUcwbHYzYUNNTS1JSlNERkQwYUtxckZaZVlOV3hvM2FLYy1jUG1ERWhxQ09ZOGdBclVLZ1gwRDR3cFdpZm5iZmRjVHVOMm14aWFGckptUWx1UQ?oc=5",
-   "description": "",
-   "pubDate": "2026-11-17T16:01:22+00:00",
-   "source": "i24NEWS",
-   "raciste": false
   },
   {
    "title": "Transferts - Vitor Matos (Swansea) et Strasbourg ( Ligue 1 ) seraient proche d'un accord ... - Eurosport",
@@ -642,6 +658,14 @@
    "pubDate": "2026-11-12T08:00:00+00:00",
    "source": "Le Populaire du Centre",
    "raciste": true
+  },
+  {
+   "title": "Dordogne : une commission de discipline ouverte après des insultes homophobes lors d’un match de foot",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeW9pcnFSVU9DbmxUbDI4LWVfRTJtNWxmMHExOVhtM0tsNzFxT21KMURWWHRBVXhxTTZsZHFVX3l5XzJzY2pyVnBnZjlPRkpZQXpDRE5iZEZmZGR6YlNXeUtmUkp3Z05CODBUMjZIZ3hnemRJR0FSTi1NcXBSUTMzOXpEWnFTOUJJOWFOaldiVzlyeVJETHp0LTdQaWhkUVJVMjFZaFdERlVPUWhCd1E2SnF5RG9CVkFaME8tbzBsVl9XaVBNZFE3TEV2UHVybGNLdkpndGZCTDk2TllZZERJQWJKdmNfeElhV25RZ215UWpXQQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-12T08:00:00+00:00",
+   "source": "Dordogne Libre",
+   "raciste": false
   },
   {
    "title": "Le PSG se positionne sur le sulfureux dossier Gianluca Prestianni - Foot Mercato",

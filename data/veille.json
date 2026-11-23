@@ -1,8 +1,16 @@
 {
- "maj": "2026-11-22T19:41:15+00:00",
+ "maj": "2026-11-23T01:43:27+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 371,
+ "compteur_racisme": 373,
  "incidents": [
+  {
+   "title": "Incident polémique à la RAAL : un supporter accusé de racisme",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUVYeXdZSXRoTE5CNGhaWjBNU29fa0JKSF9YUXB0WFZCVk52YjVVWWZpMUw0Yk14a3VwbmtFc2tBNHdLOEpJTXo3QXppRlViWnlUbTNFV2tQY1JsYnRHTnJYbXVEZ0l5ZlA5X1lRUTIzb00zbWVSR2Jkb3QtUGpRdzFCTVVOLVJyYlVRS0lSYnhpbjhvYjB3N185OA?oc=5",
+   "description": "",
+   "pubDate": "2026-11-22T22:00:00+00:00",
+   "source": "FootNews.BE",
+   "raciste": true
+  },
   {
    "title": "\"Je ne peux pas contrôler chaque spectateur\" : un club amateur privé de subventions après ...",
    "link": "https://www.foot-national.com/foot-amateur/foot-amateur-je-ne-peux-pas-controler-chaque-spectateur-un-club-girondin-prive-de-subventions-apres-des-soupcons-de-racisme-965205",
@@ -42,6 +50,14 @@
    "pubDate": "2026-11-22T05:39:00+00:00",
    "source": "Foot National",
    "raciste": false
+  },
+  {
+   "title": "« Ils ont entendu des cris de singe » : le FCM regrette des provocations racistes lors d’un match de football",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZk9QMVBRQ0N3dHlERmM2UGVUUHRWWWw3N2xKbm5EdGdDRTkzdWZZaTJRZ2QwVnhEMWxvektVVzVzejBnaHdrWk9kTlQwbkRGT0JTd0lDVl9rOHVaTWk3VTg1MDdNUWJqRk9uTDVVSEt1VFdNcXY3dTV5M1p5TWlMVWk5MG81ai14NFMzbWNIN1o0TkRlRVNBY1I1cmxQRm5IM3VFWC1CQ3Z3cHFmb2xkb0IyVzRSdEVUX0l0MU1QbjFNMENwN09tTHlMOUtWYmNYNjcyeXFaRkFUQkdSMzl4bXNEMDNmeWNhZUpjRXctTFZzTTExdGFwVm5Tcw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-22T00:41:30+00:00",
+   "source": "Le Dauphiné Libéré",
+   "raciste": true
   },
   {
    "title": "Après les nouvelles insultes proférées à Dijon, l'enjeu de la lutte contre le racisme fait son ...",
@@ -644,20 +660,20 @@
    "raciste": false
   },
   {
+   "title": "Foot amateur : un match de Wattrelos arrêté après des propos racistes visant un joueur de 18 ans",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTl92eE02QmRqZ3h3alJGajRzcE5KZ0FTSU9ET0I2dkdzOXN0Rmt1VWtETm52eW9jZ3FtX0pyU0s2WFM4SncwZDdmWnAxdFBBTnVQM0hVZGdPbm1KQTRhVjNwVFhrdVpBeHZ2aGhuTHMydnQwM1J4TEVhc1ZrUnhWMExINE1nd1VhRjZwWFJUSVd0Zjd4cVpEOERMdWxpc3hWb1hUbUY3V2ZIMUZEUk1EeFlQX3FZRGNCQll3b3VsU0k0bzRvUGp1N2NDbUs0RldOU0dWOWh2dE5uQzJx?oc=5",
+   "description": "",
+   "pubDate": "2026-11-14T08:00:00+00:00",
+   "source": "Foot National",
+   "raciste": true
+  },
+  {
    "title": "En partenariat avec Her Game Too, le GF38 lutte contre les violences sexistes et sexuelles ... - ici.fr",
    "link": "https://www.ici.fr/emissions/l-info-d-ici-matin-ici-isere/en-partenariat-avec-her-game-too-le-gf38-lutte-contre-les-violences-sexistes-et-sexuelles-en-tribune-et-sur-le-terrain-7291436",
    "description": "C'est l'ambition portée par l'association Her Game Too France , qui accompagne dix-sept club de football en ligue 1 et 2. ... sexisme et les ...",
    "pubDate": "2026-11-14T07:38:25+00:00",
    "source": "ici.fr",
    "raciste": false
-  },
-  {
-   "title": "Foot amateur : un match de Wattrelos arrêté après des propos racistes visant un joueur de 18 ans",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTl92eE02QmRqZ3h3alJGajRzcE5KZ0FTSU9ET0I2dkdzOXN0Rmt1VWtETm52eW9jZ3FtX0pyU0s2WFM4SncwZDdmWnAxdFBBTnVQM0hVZGdPbm1KQTRhVjNwVFhrdVpBeHZ2aGhuTHMydnQwM1J4TEVhc1ZrUnhWMExINE1nd1VhRjZwWFJUSVd0Zjd4cVpEOERMdWxpc3hWb1hUbUY3V2ZIMUZEUk1EeFlQX3FZRGNCQll3b3VsU0k0bzRvUGp1N2NDbUs0RldOU0dWOWh2dE5uQzJx?oc=5",
-   "description": "",
-   "pubDate": "2026-11-14T06:19:00+00:00",
-   "source": "Foot National",
-   "raciste": true
   },
   {
    "title": "OM - La prophétie de Grégory Lorenzi prend tout son sens, les chiffres confirment la ...",
@@ -941,10 +957,10 @@
   },
   {
    "title": "Un joueur d'un club de foot de la Vienne victime de racisme",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnVYWkxZRFlvYlpRU2FxZkNqSVNCdEZ2Y1MwejNjMWUyMUVnLTBxNUE4cTNreFE4Y2ZOMmNGNXRGeVEtdF9Kcm9GWnpKTmpQWHQzenFqNWNhZnhnY3FkSnNLcDBKVV9sX19lRXBWdmhpMW9VeFJSc0Y0aDJEemZwVTl4UkY2WjVyQVRsb2VxNGFQdnBUc01yTTBEdHpwM2piWEhxM3pWX2pXSnh3Q2tEYWlTTmh2YWVxUzlBamN5anIzaXJTU3ZDYTVySkh5XzY0c3JJRVY2N1hZRmM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUZ4emJGVWNyWHI2cUdxdlY5LUJGbk55UEsyd1dVbG1YN2FxODk2SEQ2VzF3amQ4TFd2UW80dmswVTZHN2J5OE1paklDVHd2VUdKbWRvX0VsNHVORm05WElzSU9BV2FwQ0xtOUxIM1pTTVdMa3h4eVBtT01ydEJqREsxNEItWUxjaWxqZFFRVWl2X3MyQy1GcFdVb05aejRWV01ibnRQYmQ2S0xqYldNUG83V2thWjhuU0tuYUJzbjhZanhTeHgyS3l6bEo?oc=5",
    "description": "",
    "pubDate": "2026-11-10T08:00:00+00:00",
-   "source": "Radio France",
+   "source": "ici.fr",
    "raciste": true
   },
   {
@@ -4918,8 +4934,5 @@
    "manuel": true
   }
  ],
- "erreurs": [
-  "https://news.google.com/rss/search?q=insultes+racistes+football+when%3A30d&hl=fr&gl=FR&cei : HTTP Error 429: Too Many Requests",
-  "https://news.google.com/rss/search?q=homophobie+football+when%3A30d&hl=fr&gl=FR&ceid=FR%3A : HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }

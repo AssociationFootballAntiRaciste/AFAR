@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-23T01:43:27+00:00",
+ "maj": "2026-11-23T12:41:50+00:00",
  "date_depart": "2026-01-01",
  "compteur_racisme": 373,
  "incidents": [
@@ -9,6 +9,14 @@
    "description": "",
    "pubDate": "2026-11-22T22:00:00+00:00",
    "source": "FootNews.BE",
+   "raciste": true
+  },
+  {
+   "title": "« Ils ont entendu des cris de singe » : le FCM regrette des provocations racistes lors d’un match de football",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZk9QMVBRQ0N3dHlERmM2UGVUUHRWWWw3N2xKbm5EdGdDRTkzdWZZaTJRZ2QwVnhEMWxvektVVzVzejBnaHdrWk9kTlQwbkRGT0JTd0lDVl9rOHVaTWk3VTg1MDdNUWJqRk9uTDVVSEt1VFdNcXY3dTV5M1p5TWlMVWk5MG81ai14NFMzbWNIN1o0TkRlRVNBY1I1cmxQRm5IM3VFWC1CQ3Z3cHFmb2xkb0IyVzRSdEVUX0l0MU1QbjFNMENwN09tTHlMOUtWYmNYNjcyeXFaRkFUQkdSMzl4bXNEMDNmeWNhZUpjRXctTFZzTTExdGFwVm5Tcw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-22T20:11:05+00:00",
+   "source": "Le Dauphiné Libéré",
    "raciste": true
   },
   {
@@ -50,14 +58,6 @@
    "pubDate": "2026-11-22T05:39:00+00:00",
    "source": "Foot National",
    "raciste": false
-  },
-  {
-   "title": "« Ils ont entendu des cris de singe » : le FCM regrette des provocations racistes lors d’un match de football",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZk9QMVBRQ0N3dHlERmM2UGVUUHRWWWw3N2xKbm5EdGdDRTkzdWZZaTJRZ2QwVnhEMWxvektVVzVzejBnaHdrWk9kTlQwbkRGT0JTd0lDVl9rOHVaTWk3VTg1MDdNUWJqRk9uTDVVSEt1VFdNcXY3dTV5M1p5TWlMVWk5MG81ai14NFMzbWNIN1o0TkRlRVNBY1I1cmxQRm5IM3VFWC1CQ3Z3cHFmb2xkb0IyVzRSdEVUX0l0MU1QbjFNMENwN09tTHlMOUtWYmNYNjcyeXFaRkFUQkdSMzl4bXNEMDNmeWNhZUpjRXctTFZzTTExdGFwVm5Tcw?oc=5",
-   "description": "",
-   "pubDate": "2026-11-22T00:41:30+00:00",
-   "source": "Le Dauphiné Libéré",
-   "raciste": true
   },
   {
    "title": "Après les nouvelles insultes proférées à Dijon, l'enjeu de la lutte contre le racisme fait son ...",

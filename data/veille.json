@@ -1,8 +1,32 @@
 {
- "maj": "2026-11-23T12:41:50+00:00",
+ "maj": "2026-11-24T02:13:03+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 373,
+ "compteur_racisme": 376,
  "incidents": [
+  {
+   "title": "PSG : Désiré Doué sort du silence et promet de revenir \"beaucoup plus fort\" - Sport.fr",
+   "link": "https://www.sport.fr/football/psg-desire-doue-sort-du-silence-et-promet-de-revenir-beaucoup-plus-fort-1504392.shtm",
+   "description": "Au cœur d'une polémique après des accusations d' insultes racistes ... Ligue 1 # Paris SG# Top Story. A la une. PSG : une piste très controversée ...",
+   "pubDate": "2026-11-23T22:32:21+00:00",
+   "source": "sport.fr",
+   "raciste": true
+  },
+  {
+   "title": "Un jeune joueur insulté de \"sale noir\" lors d'une match de football dans la Vienne - ICI",
+   "link": "https://www.ici.fr/nouvelle-aquitaine/vienne-86/oyre/de-nouveaux-propos-racistes-lors-d-une-match-de-football-dans-la-vienne-un-joueur-insulte-de-sale-noir-4827590",
+   "description": "Des insultes racistes tenues lors d'un match de football dans la Vienne. 22/11/2026. ICI Poitou. Radio France . Vous avez apprécié cet article ...",
+   "pubDate": "2026-11-23T17:30:26+00:00",
+   "source": "ici.fr",
+   "raciste": true
+  },
+  {
+   "title": "« Le racisme n'a pas sa place dans le football » : le FC Montélimar condamne les provocations signalées contre l'USVO Grenoble",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckdEa3VoYnVyc3ZMbDR2TWwwZ2JQak9vNER4R1lfb0JXVzZBWlVtNEg3c1BfNGE3RTJiTm82c0tFb3ExbzFyUnRFNlA4RTFqRlFYTWlxSExHa2steVROM3d2dlRVYjFudC1xT0poUkc1Mk4zQ3BySXVseWNOSnZCcVR0NWtYamhVdURLcFd2aWQ4YzdhakdQZmhQZGxfMlg4SHMza3VoQTBTYjBBb01SV2NQNFRBRGllY29jazhFQ2t5ZGRqUzlaU0NBMm4ydUtDcFE2VWZxMVNOd21jMkMtYXBQeDU0RW54NmwyN0t5MEw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-23T17:20:00+00:00",
+   "source": "Footeo News",
+   "raciste": false
+  },
   {
    "title": "Incident polémique à la RAAL : un supporter accusé de racisme",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUVYeXdZSXRoTE5CNGhaWjBNU29fa0JKSF9YUXB0WFZCVk52YjVVWWZpMUw0Yk14a3VwbmtFc2tBNHdLOEpJTXo3QXppRlViWnlUbTNFV2tQY1JsYnRHTnJYbXVEZ0l5ZlA5X1lRUTIzb00zbWVSR2Jkb3QtUGpRdzFCTVVOLVJyYlVRS0lSYnhpbjhvYjB3N185OA?oc=5",
@@ -17,6 +41,14 @@
    "description": "",
    "pubDate": "2026-11-22T20:11:05+00:00",
    "source": "Le Dauphiné Libéré",
+   "raciste": true
+  },
+  {
+   "title": "Foot Amateur : de nouveaux incidents racistes en D1, les deux clubs portent plainte",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2tsRWo5ZXJYU2U0enAxblktbmdtYmdjcndpSG1zay0wOVREY1hJZldfcTdnVlZmWjV0Qk81azd3UTYxQk5FWTBSZjlJSHExT2JuT2s3NHFmMUpzSmxxb2pSVEU3Z2ZXR05aUGljMzl3ZHJUT1dxQ3NZVHJOOFRtQlJMVGgwSmNhQUdnR2Z2d0RWZzVtaS1wbG5UUmN4SEFjNTNKcGpkZ3R4MEZrT1k4QnpIdEZCWVJZeTZJVGxYeGFRRmQzd05taG9B?oc=5",
+   "description": "",
+   "pubDate": "2026-11-22T19:27:00+00:00",
+   "source": "Foot National",
    "raciste": true
   },
   {
@@ -799,7 +831,7 @@
    "title": "Foot Amateur : Coteaux Sud monte au créneau après des propos racistes lors d’un match de Régional 3",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmhTRlJxbUNPUWRrbnFSVTFDdk4yM2szS3IyZF8zYmxqVE1kWXdKaThOUEhyRHhQNkRac0tXdlRWdHk3b0dsTHJsandjOWgxMEVxYWN1M3luSGN4cklGVmVQdTdUTUJFS04zMjZBQjhGcEZNbTNGdWdGUlhoSE1QUkZMN3E1SE1IOVl1RnVjU0NRdWNEZVVaQUpsb2ZpcEczcDNZTnktLU44ZTIyd2hiX0RCUm1FaVluRVRNNzVZNzM2ZTZiazMzREFnemhPdmJyZURJcTZBdTBOMVRiMVZR?oc=5",
    "description": "",
-   "pubDate": "2026-11-11T06:38:00+00:00",
+   "pubDate": "2026-11-11T08:00:00+00:00",
    "source": "Foot National",
    "raciste": true
   },

@@ -1,8 +1,24 @@
 {
- "maj": "2026-11-24T13:43:29+00:00",
+ "maj": "2026-11-24T23:53:49+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 378,
+ "compteur_racisme": 380,
  "incidents": [
+  {
+   "title": "Vienne : un footballeur de 20 ans victime d' insultes racistes , les deux clubs vont porter plainte",
+   "link": "https://my-angers.info/11/24/vienne-un-footballeur-de-20-ans-victime-dinsultes-racistes-les-deux-clubs-vont-porter-plainte/202489",
+   "description": "Le président du district de football de la Vienne, Stéphane Basq, a ... football amateur insultes racistes interdiction de stade.Luis Da Silva ...",
+   "pubDate": "2026-11-24T16:45:19+00:00",
+   "source": "my-angers.info",
+   "raciste": true
+  },
+  {
+   "title": "Vienne : Des insultes racistes dénoncées après un match de football amateur",
+   "link": "https://fr.news.yahoo.com/sport/vienne-insultes-racistes-d%C3%A9nonc%C3%A9es-apr%C3%A8s-144136518.html",
+   "description": "Vienne : Des insultes racistes dénoncées après un match de football amateur ... « Le district de Football de la Vienne se portera systématiquement ...",
+   "pubDate": "2026-11-24T15:05:05+00:00",
+   "source": "fr.news.yahoo.com",
+   "raciste": true
+  },
   {
    "title": "Sexisme et propos déplacés en entreprise : trois dirigeantes nous racontent comment elles ...",
    "link": "https://www.leparisien.fr/economie/entreprise/sexisme-et-propos-deplaces-en-entreprise-trois-dirigeantes-nous-racontent-comment-elles-ont-fait-en-ont-fait-une-force-24-11-2026-654S2O7SVREY7I6J3OYAVOST6I.php",

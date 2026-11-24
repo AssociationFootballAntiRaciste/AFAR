@@ -1,8 +1,32 @@
 {
- "maj": "2026-11-24T02:13:03+00:00",
+ "maj": "2026-11-24T13:43:29+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 376,
+ "compteur_racisme": 378,
  "incidents": [
+  {
+   "title": "Sexisme et propos déplacés en entreprise : trois dirigeantes nous racontent comment elles ...",
+   "link": "https://www.leparisien.fr/economie/entreprise/sexisme-et-propos-deplaces-en-entreprise-trois-dirigeantes-nous-racontent-comment-elles-ont-fait-en-ont-fait-une-force-24-11-2026-654S2O7SVREY7I6J3OYAVOST6I.php",
+   "description": "Ligue 1 · Ligue des champions · Équipe de France de football · CAN 2027. Politique. Emmanuel Macron · Sébastien Lecornu · Présidentielle 2027 ...",
+   "pubDate": "2026-11-24T05:15:43+00:00",
+   "source": "leparisien.fr",
+   "raciste": false
+  },
+  {
+   "title": "L'offre saoudienne pour Hakimi pourrait revenir cet hiver - Sport.fr",
+   "link": "https://www.sport.fr/football/loffre-saoudienne-pour-hakimi-pourrait-revenir-cet-hiver-1481201.shtm",
+   "description": "Au cœur d'une polémique après des accusations d' insultes racistes ... Ligue 1 # Paris SG# Top Story. A la une. OL : Openda poussé vers la sortie ...",
+   "pubDate": "2026-11-24T03:47:12+00:00",
+   "source": "sport.fr",
+   "raciste": true
+  },
+  {
+   "title": "PSG : quelles pistes pour remplacer Kvara et Doué ? - Sport.fr",
+   "link": "https://www.sport.fr/football/psg-quelles-pistes-pour-remplacer-kvara-et-doue-1504359.shtm",
+   "description": "Au cœur d'une polémique après des accusations d' insultes racistes ... Ligue 1 # Paris SG# Top Story. A la une. Arsenal s'active pour une pépite à 70 ...",
+   "pubDate": "2026-11-23T23:32:15+00:00",
+   "source": "sport.fr",
+   "raciste": true
+  },
   {
    "title": "PSG : Désiré Doué sort du silence et promet de revenir \"beaucoup plus fort\" - Sport.fr",
    "link": "https://www.sport.fr/football/psg-desire-doue-sort-du-silence-et-promet-de-revenir-beaucoup-plus-fort-1504392.shtm",
@@ -274,6 +298,14 @@
    "pubDate": "2026-11-18T15:05:04+00:00",
    "source": "www.epochtimes.fr",
    "raciste": true
+  },
+  {
+   "title": "Un joueur palestinien au cœur d’une polémique raciste, l’Inde saisit officiellement l’AFC",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWcxU2swcXJZcVpQOUNpbW5jbFRZem1neXQwUm8ybFRzVXQzT05PZkxvbW5vSWVGT0t6RWRKdExuS2NrdTUwaHBid3hkZE85emJyVUM5QjNUNEJnOGtpMmZIMnZHcE5sOFpEME5CYXl2bTBxWFVDTng0M050QTJHWmNsR1NDVzBweEpmc3hRNVBKeFF1VnJGTE5XVGprOHd3NUo5TERZNkwxZW9CSG53N25qWi04TFVLQ2c?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T14:14:00+00:00",
+   "source": "Lente Desportiva",
+   "raciste": false
   },
   {
    "title": "Coupe de France : après Reims, un autre cador de Ligue 2 est reparti avec la recette de son 7e tour",
@@ -1007,7 +1039,7 @@
    "title": "Arques : l'adjoint aux sports suspendu après des propos racistes en plein match de foot",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3lWeTVJMXB5QkZhSGNXaUh4ZkdvdlNQb3dZT1l4RHJoSXpFaDM3dHdoMWpiN29PZjRWVHVCT3BaZ2NpZXh2STg0bnl6WDg3XzliamRYbWhWY3NTYkNyNXd0VXY5QjA5ZWFwS0J2ZHpyMnV0V3JGenNCTDZyLUNGejNyWEFlU2l6LU54RHpxUF9IT2prcmlLQkYzUWt4RjNhT1pLa2pYcnFUVHpi?oc=5",
    "description": "",
-   "pubDate": "2026-11-10T07:43:07+00:00",
+   "pubDate": "2026-11-10T08:00:00+00:00",
    "source": "Delta FM",
    "raciste": true
   },

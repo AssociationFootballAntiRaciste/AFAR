@@ -1,8 +1,24 @@
 {
- "maj": "2026-11-25T08:34:59+00:00",
+ "maj": "2026-11-25T19:16:26+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 380,
+ "compteur_racisme": 381,
  "incidents": [
+  {
+   "title": "\"Ne jamais laisser passer le sexisme ordinaire\" : Comment regarder le masculinisme en face",
+   "link": "https://france3-regions.franceinfo.fr/normandie/calvados/caen/ne-jamais-laisser-passer-le-sexisme-ordinaire-comment-regarder-le-masculinisme-en-face-3455225.html",
+   "description": "Sport. voir toute l'actu Sport (Nouvelle fenêtre). En ce moment. Xv de france (Nouvelle fenêtre). Masters (Nouvelle fenêtre). Ligue 1 (Nouvelle ...",
+   "pubDate": "2026-11-25T16:21:14+00:00",
+   "source": "france3-regions.franceinfo.fr",
+   "raciste": false
+  },
+  {
+   "title": "Montigny-sur-Aube. Injure raciste et violences au cours d’un match de foot : quatre joueurs condamnés à une amende",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTTF0NUJpbDYxc0RLd3k5QmFNc3R5VWdvQnRWS3ZPaXh3d3NZak5LNk1CSmcydkN5ZnpPQVNOQ0lEMXBCbWdRbFc0MEEzM2c3VV9FZldpcHQtYjkwQlJsa09hVE5rNzlSclplWm52YTNpUXhNSTJ2a0VUOTlONDFVY2NYeDctVVp5a3Z4UG9LbTRaNnZFSm9tR2RsWWU0RjZhcWM3N0Y2WjN0bVg1M1Z3NVRodUVJcXRyQ19EV1VsNE9hWVR1RHJMQlR4VEM5anZFQktrbk1OSzdqb1NYakZCYVVjZGNqUVU?oc=5",
+   "description": "",
+   "pubDate": "2026-11-25T11:39:01+00:00",
+   "source": "Le Bien Public",
+   "raciste": true
+  },
   {
    "title": "Vienne : un footballeur de 20 ans victime d' insultes racistes , les deux clubs vont porter plainte",
    "link": "https://my-angers.info/11/24/vienne-un-footballeur-de-20-ans-victime-dinsultes-racistes-les-deux-clubs-vont-porter-plainte/202489",
@@ -652,6 +668,14 @@
    "raciste": true
   },
   {
+   "title": "\"Il a agi très vite et était plus que peiné par la situation\" : une spectatrice profère des insultes racistes, le président du club de foot amateur fait évacuer le stade",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOd3F2NGx4UG9iT042dEM0ZUc3UF9NVDBNMng4X0JTWFVRa0NFd0pMelFVMDJLWXRtOC1BMjR3eURzakVFbzJKdlNSclRnR2hUeVItUmk4M0FTOGpKSGlLbVk4TFEtV2F6V0hDSjR1NnhiSVVpQktaM2oxdWRNeXdYcHFqOXV3d2NDTGNheXVDUV9LOXUtdFZXMlI5NnBQcUE5VEFwalEwY3pMVmRkTXFwRXhzaHpZLTRGNVlsSDlPTFJIb19lYTMtZjN1QTFHWEliVi1LZWtTYnZxdWRDZG05akNLa09rdW1yZjNhSWRpN25EcG1hTU50dVRyU3Fvc0M2VUQxcUFoU1F0dDRuQmYyT3plVjRCdHlmX1JWekwtVG1Pdw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-16T08:00:00+00:00",
+   "source": "ladepeche.fr",
+   "raciste": true
+  },
+  {
    "title": "Ligue 1 - Marseille - Le Mans : sur quelle chaîne et à quelle heure voir le match en direct ?",
    "link": "https://madeinmarseillais.ouest-france.fr/infos/article-ligue-1-marseille-le-mans-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-en-direct-545956.html",
    "description": "Le match sera diffusé en direct sur Ligue 1 +. L1. J11 ... \", Ali Zarrak dénonce les insultes racistes après l'affaire des motards avec Papin.",
@@ -688,14 +712,6 @@
    "link": "https://www.ladepeche.fr/2026/11/16/il-a-agi-tres-vite-et-etait-plus-que-peine-par-la-situation-une-spectatrice-profere-des-insultes-racistes-le-president-du-club-de-foot-amateur-fait-13653857.php",
    "description": "... insultes racistes , le président du club de foot amateur fait évacuer le stade ... Un match de district fait polémique sur fond d'injures racistes.",
    "pubDate": "2026-11-16T05:39:29+00:00",
-   "source": "ladepeche.fr",
-   "raciste": true
-  },
-  {
-   "title": "\"Il a agi très vite et était plus que peiné par la situation\" : une spectatrice profère des insultes racistes, le président du club de foot amateur fait évacuer le stade",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOd3F2NGx4UG9iT042dEM0ZUc3UF9NVDBNMng4X0JTWFVRa0NFd0pMelFVMDJLWXRtOC1BMjR3eURzakVFbzJKdlNSclRnR2hUeVItUmk4M0FTOGpKSGlLbVk4TFEtV2F6V0hDSjR1NnhiSVVpQktaM2oxdWRNeXdYcHFqOXV3d2NDTGNheXVDUV9LOXUtdFZXMlI5NnBQcUE5VEFwalEwY3pMVmRkTXFwRXhzaHpZLTRGNVlsSDlPTFJIb19lYTMtZjN1QTFHWEliVi1LZWtTYnZxdWRDZG05akNLa09rdW1yZjNhSWRpN25EcG1hTU50dVRyU3Fvc0M2VUQxcUFoU1F0dDRuQmYyT3plVjRCdHlmX1JWekwtVG1Pdw?oc=5",
-   "description": "",
-   "pubDate": "2026-11-16T05:34:00+00:00",
    "source": "ladepeche.fr",
    "raciste": true
   },
@@ -5014,5 +5030,7 @@
    "manuel": true
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "https://news.google.com/rss/search?q=Tribune+stade+Bauer+El+Khatib+when%3A30d&hl=fr&gl=FR& : HTTP Error 429: Too Many Requests"
+ ]
 }

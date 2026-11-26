@@ -1,8 +1,56 @@
 {
- "maj": "2026-11-26T03:34:28+00:00",
+ "maj": "2026-11-26T16:54:36+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 384,
+ "compteur_racisme": 390,
  "incidents": [
+  {
+   "title": "Cris de singe, saluts nazis... des supporters de l'AS Roma accusés d'avoir commis des actes racistes au Parc des Princes",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxON0pwWjlMR2tTMUVQaDl2bnhVTl9USzVDLWl6c1dBeUpVeDIwZ3hJSVFsTWJ4WlBvM3VGenA2ZHljUmE4dEJZX1dyeDlXVzEwcFlsR1ZDdUw4Mko0allyM05xZ0djUjBYWFJfbXQ1WFBldURXUnJJamJodkF4WHd2SmdOOXd5aTB0UF9qcldkc1RpTDYzWF85ZE1sQ1ZLelN6Z1pXZkQwNkdnTS1obFZfdnBVR2RrRHB2NVowX3BjVEY1dnp1RXRFVkZoYmZ0VTBSZDdQTzNUQ0NzUHl4a3RvSURPRDN6YU9zYi0yYmU4dWpWdE80ZEhZbm15dVo0MVU5V3c?oc=5",
+   "description": "",
+   "pubDate": "2026-11-26T15:04:01+00:00",
+   "source": "Actu.fr",
+   "raciste": true
+  },
+  {
+   "title": "Une bagarre éclate lors d’un match de football après une insulte raciste : quatre joueurs condamnés en Côte-d’Or",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcUc1MlRCa0IzTzYycUJmYUhicUVUeFpZdXpKdGxCMDlUWi1SdVFFcXVmUTgwQ0JVeWZwNU94YVBoRXUwODdUMVpYWHFNb0dObmxEQzJlVmloUTNvUDh4aFhNUEk2Q2RZRl96a1h1VTJ3WWp3Y0lLdEV5YWhjV0JCMnBYN3EzSVZCbER6RncwdnhtNUE2XzQzaHY0eHhYdnJ1dl8yS3JJTkp2Mkl2QXltdVFpemJWT3FhVnFtNXNEeEx6Uk50U2dMVEUzS2QzNkZGVDdma09lSXlQTDlmeFBhdVRYUFNXQUVKX01yTW1kcWpGTGpTNXVFdlhhNA?oc=5",
+   "description": "",
+   "pubDate": "2026-11-26T13:37:10+00:00",
+   "source": "lanouvellerepublique.fr",
+   "raciste": true
+  },
+  {
+   "title": "Cris de singe, saluts nazis et plus : Des supporters de l'AS Roma filmés en train d'adopter des comportements racistes à l'encontre des fans parisiens",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEVXalFmMkRiTXRsUU1WNFVMSXJPbHJBODBGUU1VN3lPMFFJLXJuRWtydC1ZZXU4NU01LTNGcUNseE50NGYxYjB0VVVKaVdYSlhiODBmWUh3YVVuWEtNWjNPSVIzTUFwSnFLRlhjZDZ6THNMNmhTUGFUbnVOR2s0TEhJOG1acW5rdm8taTQ5dFU3ODB30gGaAUFVX3lxTFBzczA3X3JyWTZUekVIWUt4bFBGSzZkTFp4VXpiNjJzdjVsWENENlVkNzZudXpWUXRuWlZGdVBOSWhOaWpYYjB2WmQwV2J6emc3SjdRcU5ZbmdqTTZWS3J6TGpBZXpFZ3RyQnRhUmc5d1UwQV9HMnlvbjlfRzI4TTNzLTM5QTg2aTVwNzJvcHlDbnpJZkdSem45OWc?oc=5",
+   "description": "",
+   "pubDate": "2026-11-26T09:23:00+00:00",
+   "source": "Tribuna.com",
+   "raciste": true
+  },
+  {
+   "title": "PSG - Une grande enquête est menée pour identifier les actes racistes des supporters de l'AS Roma",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWVhaSW9YaEJ1Qi10cnVzblBsSUU4RXJZRG9iSFZUYUszUHBfRXEtZHlNbC02eUVmM1RMOVIwMjNOMnUtRE4wZ0dCc1BjZzVwc3JnQ2ZVZXlmdWQwTXlhWVE0TVBkdFU4bXdaN0oweWhkYW8tZzF3b25HQ1E4TG1SamRnWmtBdmstTnItUWxhQVEzcWM0dG1DeWJ5Q2JJeVlzdmJZYnU2WmdyeWdzaDRtV3AzNjJ0U1JLZVdLWGQySGV5aGNkUi16QnB4bDMtcXdIdm44VkJJVXJUaWt2VlhyV2paZWJTYVFiU0xMQ1Ztc3pSRnM?oc=5",
+   "description": "",
+   "pubDate": "2026-11-26T09:20:00+00:00",
+   "source": "MadeInParisiens",
+   "raciste": true
+  },
+  {
+   "title": "PSG-AS Rome : des supporters romains accusés d’avoir lancé des cris de singe et des insultes racistes",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQYklnMEFIQlBDSDl3aHd5QzRtZXBwY1E0dmt6c2hnOWlrWWdvYTZIVDZfSHlBbktmVmhWdWtQaEpiclFxc2xuX0s3Xzcwb1NKWDloUHZLcnZlSmZ1UlBuYjZ4UVVNVVM0WFlfd3ZfUk1mTE1SbnYxb3ZGYkRnUWxMN25lcGhJMWlzVWJJNWswVVp0SlRzMlc2RGV5cTVsTjZpb2RCUnA1SzQ2OTczRW01U0IwbFVkTmhlMk0yM01naERkYkVZclFkWmQ5YXhtTGpiczZBbzJ6VWRTZy1pYmI4S29CMEJ4RllIX3NEWHlIQTJvU0k2bjdwSlVQcmZDMnQxbzd3M25MMFVWQUUxcE0xRnpWZDB5Rk5ldTN4dzRJUElFeUs2RWUxQkRB?oc=5",
+   "description": "",
+   "pubDate": "2026-11-26T06:53:58+00:00",
+   "source": "Le Parisien",
+   "raciste": true
+  },
+  {
+   "title": "Ligue des champions. Plusieurs supporters du PSG dénoncent des cris de singe et des saluts nazis dans le parcage de l’AS Rome",
+   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNdUZnVDNra1lwLUtPOEVBalo2b1BxQzV2MEF2Tm1xdnkzaFkzRDN5WnNIV0xISENmQU5yeFFqdGMtYXRXU1F6WGxxWWljbnJVak5jUFRFaTNwdGlGRkU2UEZMN09MZGxNc3dGOFhFU0dSUkdsRUR2VERXLXQyWDVzYmNmeUxJWXlzUmFuUU5nZFhCU2FxZ0p5M2VXTWpKTG5Kd2VydGctNVJzM1ptMkJLcjI5RDFUU1NSeEoycVhScXlvNzdlbGNTT25FV0N3V0VGQVZfLXd5THJudUlMeWdsTG5iTWY2VERjOFZ3OElOSGJUYnItRGIzMkJZVlVxM1JuWS1SX2hoUDlURVlXNk1IOGh6ejFfTmZOSURvcGhxZWxrVGFCazdfV3MyaDRkcWxYLXVzNzVCTQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-26T06:42:11+00:00",
+   "source": "Ouest-France",
+   "raciste": true
+  },
   {
    "title": "PSG - AS Roma : des supporters parisiens victimes de racisme de la part de ceux de Rome ?",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmtYeFdxMm12Q3F4V2dsN3ppNmtXOU9sdTlrLWV0S3lUSXVWbng3cFB0TEl0ZlFHVWpfUHRzNVhCRnNWYnVKb1gxTFNWcVJzaXBvMlBXS2pQYzhrVHNwR0lOZWFqRWtVQjg2NXh4bmxXMFNhQ3NzTGRlM0VncGE3YmQyVEx6TmZvdnpFdVNjdTlLN1BXMUlfYkREZi1zZEdLNFBOYktIdF9lUy10WVNmalFjLUNMZVBIWFdscV85RzRTclExMGt6enUtd1BpM1hRZjV4ajZR?oc=5",

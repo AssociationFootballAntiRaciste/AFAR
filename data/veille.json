@@ -1,8 +1,48 @@
 {
- "maj": "2026-11-25T19:16:26+00:00",
+ "maj": "2026-11-26T03:34:28+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 381,
+ "compteur_racisme": 384,
  "incidents": [
+  {
+   "title": "PSG - AS Roma : des supporters parisiens victimes de racisme de la part de ceux de Rome ?",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmtYeFdxMm12Q3F4V2dsN3ppNmtXOU9sdTlrLWV0S3lUSXVWbng3cFB0TEl0ZlFHVWpfUHRzNVhCRnNWYnVKb1gxTFNWcVJzaXBvMlBXS2pQYzhrVHNwR0lOZWFqRWtVQjg2NXh4bmxXMFNhQ3NzTGRlM0VncGE3YmQyVEx6TmZvdnpFdVNjdTlLN1BXMUlfYkREZi1zZEdLNFBOYktIdF9lUy10WVNmalFjLUNMZVBIWFdscV85RzRTclExMGt6enUtd1BpM1hRZjV4ajZR?oc=5",
+   "description": "",
+   "pubDate": "2026-11-25T22:55:00+00:00",
+   "source": "Onze Mondial",
+   "raciste": true
+  },
+  {
+   "title": "PSG - Des cris de singe et des saluts nazis, les graves accusations visant des supporters de l'AS Rome (vidéo)",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcHNQZVJFckh2TmpYU0ZsWTdNUk83QXg1VHRfTF8wTk1fQXZ5WEpNQk5nRVJDeWtSV1VWbEJOQ1A1TmNfU05pWE9adEZfZVdUNmVfUzNlT2otQXRvYUFLR1I1SFNhT0V0X0ZvanhaSGtIcnB6TGZlNi05LXdwWWV2Tmx6cnBZWGVaYmlwV0Y5N2c1OWZNSjR0SC0yVUdsX2NNdzRyc3lyMDVrWVlOYXljM1JvZFhyMFZuWVVBa1BEa3NpZnRvb01iU2d5aGNUeGtVUVpQT21LTGZPRjNELTBYenVmMmQxZUJ6RzlHVXg4aVBHWUZmS2F4blBn?oc=5",
+   "description": "",
+   "pubDate": "2026-11-25T22:43:00+00:00",
+   "source": "MadeInFoot",
+   "raciste": true
+  },
+  {
+   "title": "PSG-AS Roma: des cris de singes entendus dans la tribune des supporters romains",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb2VXT3ZGMXUzdkkxd3g5NXZxbkRqOTlrUzlaaWRFSTBmNXBtQXNJblFhcC04eGljNWZkLTBkdjhfOER6bm1ZaWdEYWxNZFdQMWZoQ1pVeHM4d3JNTEF2X2FDWmJyOXM5RE9qbGZWbWxsbWZmTTNKSlo1SzFqb1pQUmx4NUdDR1FJTEF6Rk9jTkZSOHVPT3BnRWh0b0Z0ckx2djBKNFMxYk9mNlhWbTFEN1dfRVhTUE14WDlKaUUyX0lubzhXTGNMMUVILUtaenRjb3lPa2FFOWpRcEhPSzA5c1JidkpLbFUwRFBB?oc=5",
+   "description": "",
+   "pubDate": "2026-11-25T22:39:27+00:00",
+   "source": "RMC Sport",
+   "raciste": true
+  },
+  {
+   "title": "Florian Maurice redevient directeur sportif en Ligue 1 - SO FOOT .com",
+   "link": "https://www.sofoot.com/breves/lancien-directeur-sportif-de-nice-et-rennes-florian-maurice-devient-directeur-sportif-de-troyes",
+   "description": "... sexisme . Le 14 e de Ligue 1 , promu cet été, avait ouvert une enquête ... Exilé du FC Nantes Ligue 1 , Ligue 2 , Ligue 3 et plus bas. Voir ses ...",
+   "pubDate": "2026-11-25T18:58:20+00:00",
+   "source": "sofoot.com",
+   "raciste": false
+  },
+  {
+   "title": "Métropole de Lyon : 250 collégiennes sensibilisées au sexisme et aux violences sexuelles ...",
+   "link": "https://www.tonicradio.fr/metropole-de-lyon-250-collegiennes-sensibilisees-au-sexisme-et-aux-violences-sexuelles-par-la-campagne-cest-pas-ok/",
+   "description": "OL-Fenerbahçe : Lyon à un match de la Ligue des champions. LIRE PLUS. Ligue 1 : l'OL lance sa saison à Toulouse avec Fenerbahçe déjà dans un coin de ...",
+   "pubDate": "2026-11-25T18:17:07+00:00",
+   "source": "tonicradio.fr",
+   "raciste": false
+  },
   {
    "title": "\"Ne jamais laisser passer le sexisme ordinaire\" : Comment regarder le masculinisme en face",
    "link": "https://france3-regions.franceinfo.fr/normandie/calvados/caen/ne-jamais-laisser-passer-le-sexisme-ordinaire-comment-regarder-le-masculinisme-en-face-3455225.html",
@@ -5030,7 +5070,5 @@
    "manuel": true
   }
  ],
- "erreurs": [
-  "https://news.google.com/rss/search?q=Tribune+stade+Bauer+El+Khatib+when%3A30d&hl=fr&gl=FR& : HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }

@@ -1,8 +1,16 @@
 {
- "maj": "2026-11-27T01:44:17+00:00",
+ "maj": "2026-11-27T12:20:54+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 397,
+ "compteur_racisme": 398,
  "incidents": [
+  {
+   "title": "\"Stop au racisme\" : la réponse forte du club de football d’Oyré-Dangé après l’affaire des propos racistes d’un spectateur dans son stade",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNOFlNQUN1aHNrbWNxMlhxdG11a3Uxc0dXczBsVzdFTmRFTjRDUUJPeTRxTDFvZHdKWVdsNTJTaHdQMjNGZDdpY3ROSE5wUjBtRkFoWXM0OFN5S3JoOTE5YUdveE1OSTN5ZWJfNlVzVmZSR2ZpM1pCNjJVZ0lUeWUxekFIQU9ieW1panV4bEVFUDFBazRLTTZOMHlpOWY5dFFxcWZrUGdnbGVLNmRtT01uMXdWYTJXNHJ1NUJrZU9aNkcxOVNRTHBFZEZqVDNkdTlYd3pjTWhFYmJ6S1dZVlk0RHBVcHp2ZkJ1N1BPajR4X0UyZzhaUUVkQmJQbW45TDFuTFpJXzBRTkczbWh3THBBbVhGT1dueGNSbnFMVWNB?oc=5",
+   "description": "",
+   "pubDate": "2026-11-27T10:41:07+00:00",
+   "source": "lanouvellerepublique.fr",
+   "raciste": true
+  },
   {
    "title": "Wesley Fofana au coeur d'une polémique à Chelsea après son interview chez Zack Nani - L'Équipe",
    "link": "https://www.lequipe.fr/Football/Actualites/Wesley-fofana-au-coeur-d-une-polemique-a-chelsea-apres-son-interview-chez-zack-nani-ce-n-etait-ni-le-bon-moment-ni-le-bon-contenu/1746478",
@@ -92,19 +100,19 @@
    "raciste": true
   },
   {
+   "title": "Ligue 1 Martial Godo victime de commentaires racistes, le Racing Club de Strasbourg « condamne » fermement",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbnFTOXdIdGNzN29PaDNiZTdLZ0xScm9HRHJYU1RTUnpub2tZbDN1bl9iaFZBRU9tbGJOX284NG1zeVFsRkdIOVlOaU1yNTBabXNtUHB1eDlEd1RnbnJwT1Jsam5uZVNRNUpHcTVZd1lqRkthb0NSRDJMMlJPSG0yRENGUXBMajdJeU1YQWFlWkdVZUpPMFdfbXBIaXpjZWNZa3F5dG9MMUE0a0JoR2E3X1BwTzdnSGMxbTdhV2IyWlJtYWw1VUk0SA?oc=5",
+   "description": "",
+   "pubDate": "2026-11-26T06:56:31+00:00",
+   "source": "dna.fr",
+   "raciste": true
+  },
+  {
    "title": "Ligue des champions. Plusieurs supporters du PSG dénoncent des cris de singe et des saluts nazis dans le parcage de l’AS Rome",
    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNdUZnVDNra1lwLUtPOEVBalo2b1BxQzV2MEF2Tm1xdnkzaFkzRDN5WnNIV0xISENmQU5yeFFqdGMtYXRXU1F6WGxxWWljbnJVak5jUFRFaTNwdGlGRkU2UEZMN09MZGxNc3dGOFhFU0dSUkdsRUR2VERXLXQyWDVzYmNmeUxJWXlzUmFuUU5nZFhCU2FxZ0p5M2VXTWpKTG5Kd2VydGctNVJzM1ptMkJLcjI5RDFUU1NSeEoycVhScXlvNzdlbGNTT25FV0N3V0VGQVZfLXd5THJudUlMeWdsTG5iTWY2VERjOFZ3OElOSGJUYnItRGIzMkJZVlVxM1JuWS1SX2hoUDlURVlXNk1IOGh6ejFfTmZOSURvcGhxZWxrVGFCazdfV3MyaDRkcWxYLXVzNzVCTQ?oc=5",
    "description": "",
    "pubDate": "2026-11-26T06:42:11+00:00",
    "source": "Ouest-France",
-   "raciste": true
-  },
-  {
-   "title": "Ligue 1. Martial Godo victime de commentaires racistes, le Racing Club de Strasbourg « condamne » fermement",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbnFTOXdIdGNzN29PaDNiZTdLZ0xScm9HRHJYU1RTUnpub2tZbDN1bl9iaFZBRU9tbGJOX284NG1zeVFsRkdIOVlOaU1yNTBabXNtUHB1eDlEd1RnbnJwT1Jsam5uZVNRNUpHcTVZd1lqRkthb0NSRDJMMlJPSG0yRENGUXBMajdJeU1YQWFlWkdVZUpPMFdfbXBIaXpjZWNZa3F5dG9MMUE0a0JoR2E3X1BwTzdnSGMxbTdhV2IyWlJtYWw1VUk0SA?oc=5",
-   "description": "",
-   "pubDate": "2026-11-26T00:56:28+00:00",
-   "source": "dna.fr",
    "raciste": true
   },
   {

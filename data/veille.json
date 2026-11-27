@@ -1,8 +1,64 @@
 {
- "maj": "2026-11-26T16:54:36+00:00",
+ "maj": "2026-11-27T01:44:17+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 390,
+ "compteur_racisme": 397,
  "incidents": [
+  {
+   "title": "Wesley Fofana au coeur d'une polémique à Chelsea après son interview chez Zack Nani - L'Équipe",
+   "link": "https://www.lequipe.fr/Football/Actualites/Wesley-fofana-au-coeur-d-une-polemique-a-chelsea-apres-son-interview-chez-zack-nani-ce-n-etait-ni-le-bon-moment-ni-le-bon-contenu/1746478",
+   "description": "Ligue 1 · Ligue 2 · Ligue 3 · Ballon d'Or · Ligue des champions · Ligue Europa ... Godo victime d' insultes racistes en ligne. L'ÉQUIPE. publicité. le ...",
+   "pubDate": "2026-11-26T22:25:28+00:00",
+   "source": "lequipe.fr",
+   "raciste": true
+  },
+  {
+   "title": "Les jeunes Keyliane Abdallah et Kelyann Bezahaf titulaires : la composition de l'OM ... - L'Équipe",
+   "link": "https://www.lequipe.fr/Football/Actualites/Les-jeunes-keyliane-abdallah-et-kelyann-bezahaf-titulaires-la-composition-de-l-om-pour-la-reception-du-levski-sofia-en-ligue-europa/1746392",
+   "description": "... Ligue 1 · Ligue 2 · Ligue 3 · Ballon d'Or · Ligue des champions · Ligue Europa ... insultes racistes en ligne · 18:23. Foot ,. Ligue 1 . Hanouna s'y est ...",
+   "pubDate": "2026-11-26T22:07:56+00:00",
+   "source": "lequipe.fr",
+   "raciste": true
+  },
+  {
+   "title": "Un supporter du Levski Sofia filmé en train de faire un salut nazi au Vélodrome contre l'OM",
+   "link": "https://www.lequipe.fr/Football/Actualites/Un-supporter-du-levski-sofia-filme-en-train-de-faire-un-salut-nazi-au-velodrome-contre-l-om/1746444",
+   "description": "Ligue 1 · Ligue 2 · Ligue 3 · Ballon d'Or · Ligue des champions · Ligue Europa ... Godo victime d' insultes racistes en ligne · 18:23. Foot ,. Ligue 1 .",
+   "pubDate": "2026-11-26T19:37:29+00:00",
+   "source": "lequipe.fr",
+   "raciste": true
+  },
+  {
+   "title": "Strasbourg dénonce les insultes racistes en ligne contre par son joueur Martial Godo",
+   "link": "https://www.lequipe.fr/Football/Actualites/Strasbourg-denonce-les-insultes-racistes-en-ligne-contre-par-son-joueur-martial-godo/1746409",
+   "description": "Dans un message publié sur ses réseaux sociaux ce jeudi, le Racing Club de Strasbourg a dénoncé les insultes racistes ... Ligue 1 · Ligue 2 · Ligue 3.",
+   "pubDate": "2026-11-26T19:20:34+00:00",
+   "source": "lequipe.fr",
+   "raciste": true
+  },
+  {
+   "title": "PSG-AS Rome : des supporters romains accusés d'avoir lancé des cris de singe et ... - Le Parisien",
+   "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-des-supporters-romains-accuses-davoir-lance-des-cris-de-singe-et-des-insultes-racistes-26-11-2026-2UVI4KCWRRHTDIGIQ3QKMU6JSM.php",
+   "description": "Une nouvelle affaire de racisme dans le football ? Selon plusieurs médias, dont RMC Sport, des cris de singe et des insultes racistes provenant du ...",
+   "pubDate": "2026-11-26T18:55:01+00:00",
+   "source": "leparisien.fr",
+   "raciste": true
+  },
+  {
+   "title": "PSG-AS Rome : le club parisien vérifie des signalements de cris de singe et de saluts nazis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYWFsOTBNUUp1enlGcGJJZG1scnczaVV6RDRJY3l5cUs0a0RwTVZxZzc1cHVRUjduZWJBcm1nZmpDQXU0LXZVT2JoNzR3aUphM0N3X194WG1pT2w0TFFMMjlpSVJvM0xKa0UwbENreFZYMnZNTEJTamYtTW9UUHhJaUVOVDNraTFhLVVnSk1MN014VnNmajJlUUNsNzhmeFlCV3ZGVTBvdm04TlhMTnVPRWIxLXVsSndiaDJBZGhPZ1g2N0ZnUHlmakpMeEJJZw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-26T16:55:29+00:00",
+   "source": "Anadolu Ajansı",
+   "raciste": true
+  },
+  {
+   "title": "Cris de singe et saluts nazis présumés : le PSG prend les accusations visant des supporters de l’AS Rome «très au sérieux»",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSUpvZ3NTckFObUZJYWp0TFlQMU1uQlotdGZGX3VDMmN3aC1pS1JzX2VQdEVwZHZMY3hnV3VMR3FRNnFEZjdsQWpNMlcwXzZ1X01ZU2hFelNVLVRobEJUNVlTMk1OUnhMa3RkS1V5RGhQY2VQdGNVMTdnR3Robl9XV2lHNzZiQS1MRDJVZklXWlpVT1l2ZzdOWWQxZXg4aERtSWY5dzdnLWJEenFaRUEtXy1PTDhJb2NhVndHSnZuamxlOUhybTVuZnZsYkJMMVBKSEpUWTJ2NzBleTNxc0JfdVp5QXhJclBzVTlJd0s1eWxHaU85aDBWcTlJc0Mxd25ncE1xeGhiU3U4Z2pWZzJuQQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-26T16:03:15+00:00",
+   "source": "Le Figaro",
+   "raciste": true
+  },
   {
    "title": "Cris de singe, saluts nazis... des supporters de l'AS Roma accusés d'avoir commis des actes racistes au Parc des Princes",
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxON0pwWjlMR2tTMUVQaDl2bnhVTl9USzVDLWl6c1dBeUpVeDIwZ3hJSVFsTWJ4WlBvM3VGenA2ZHljUmE4dEJZX1dyeDlXVzEwcFlsR1ZDdUw4Mko0allyM05xZ0djUjBYWFJfbXQ1WFBldURXUnJJamJodkF4WHd2SmdOOXd5aTB0UF9qcldkc1RpTDYzWF85ZE1sQ1ZLelN6Z1pXZkQwNkdnTS1obFZfdnBVR2RrRHB2NVowX3BjVEY1dnp1RXRFVkZoYmZ0VTBSZDdQTzNUQ0NzUHl4a3RvSURPRDN6YU9zYi0yYmU4dWpWdE80ZEhZbm15dVo0MVU5V3c?oc=5",
@@ -36,19 +92,19 @@
    "raciste": true
   },
   {
-   "title": "PSG-AS Rome : des supporters romains accusés d’avoir lancé des cris de singe et des insultes racistes",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQYklnMEFIQlBDSDl3aHd5QzRtZXBwY1E0dmt6c2hnOWlrWWdvYTZIVDZfSHlBbktmVmhWdWtQaEpiclFxc2xuX0s3Xzcwb1NKWDloUHZLcnZlSmZ1UlBuYjZ4UVVNVVM0WFlfd3ZfUk1mTE1SbnYxb3ZGYkRnUWxMN25lcGhJMWlzVWJJNWswVVp0SlRzMlc2RGV5cTVsTjZpb2RCUnA1SzQ2OTczRW01U0IwbFVkTmhlMk0yM01naERkYkVZclFkWmQ5YXhtTGpiczZBbzJ6VWRTZy1pYmI4S29CMEJ4RllIX3NEWHlIQTJvU0k2bjdwSlVQcmZDMnQxbzd3M25MMFVWQUUxcE0xRnpWZDB5Rk5ldTN4dzRJUElFeUs2RWUxQkRB?oc=5",
-   "description": "",
-   "pubDate": "2026-11-26T06:53:58+00:00",
-   "source": "Le Parisien",
-   "raciste": true
-  },
-  {
    "title": "Ligue des champions. Plusieurs supporters du PSG dénoncent des cris de singe et des saluts nazis dans le parcage de l’AS Rome",
    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNdUZnVDNra1lwLUtPOEVBalo2b1BxQzV2MEF2Tm1xdnkzaFkzRDN5WnNIV0xISENmQU5yeFFqdGMtYXRXU1F6WGxxWWljbnJVak5jUFRFaTNwdGlGRkU2UEZMN09MZGxNc3dGOFhFU0dSUkdsRUR2VERXLXQyWDVzYmNmeUxJWXlzUmFuUU5nZFhCU2FxZ0p5M2VXTWpKTG5Kd2VydGctNVJzM1ptMkJLcjI5RDFUU1NSeEoycVhScXlvNzdlbGNTT25FV0N3V0VGQVZfLXd5THJudUlMeWdsTG5iTWY2VERjOFZ3OElOSGJUYnItRGIzMkJZVlVxM1JuWS1SX2hoUDlURVlXNk1IOGh6ejFfTmZOSURvcGhxZWxrVGFCazdfV3MyaDRkcWxYLXVzNzVCTQ?oc=5",
    "description": "",
    "pubDate": "2026-11-26T06:42:11+00:00",
    "source": "Ouest-France",
+   "raciste": true
+  },
+  {
+   "title": "Ligue 1. Martial Godo victime de commentaires racistes, le Racing Club de Strasbourg « condamne » fermement",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbnFTOXdIdGNzN29PaDNiZTdLZ0xScm9HRHJYU1RTUnpub2tZbDN1bl9iaFZBRU9tbGJOX284NG1zeVFsRkdIOVlOaU1yNTBabXNtUHB1eDlEd1RnbnJwT1Jsam5uZVNRNUpHcTVZd1lqRkthb0NSRDJMMlJPSG0yRENGUXBMajdJeU1YQWFlWkdVZUpPMFdfbXBIaXpjZWNZa3F5dG9MMUE0a0JoR2E3X1BwTzdnSGMxbTdhV2IyWlJtYWw1VUk0SA?oc=5",
+   "description": "",
+   "pubDate": "2026-11-26T00:56:28+00:00",
+   "source": "dna.fr",
    "raciste": true
   },
   {

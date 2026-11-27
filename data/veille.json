@@ -1,8 +1,56 @@
 {
- "maj": "2026-11-27T12:20:54+00:00",
+ "maj": "2026-11-27T23:27:46+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 398,
+ "compteur_racisme": 403,
  "incidents": [
+  {
+   "title": "OM 1-0 Levski : \"Saluts nazis et cris de singe\" un supporter marseillais raconte l'origine des incidents",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSThvWXBKZDFhNGZ3dUVVbWhQUy1YTjJBQk9YaE5oTE1ySElmV3g5QWFxaktvZ01CWF83TGdKdmNETnp2Qm9vR1k5RkRFdFZNMFhvUjZNSmZSdmlNZWRscV92UUdKV2JKeEt0MnlvVW0zYlZZNTg1Vlg1YmNvVVdWREUtejZ3REx2MHUwZFdXQ09SVzdIZkE1MmdQV3J4R1BqX045aFRmWGZ6RUYtZy1qZDBxREo1SzRLY2RvVmZPUktHU1lma0JvSXZ6QjlFTUtuOXJDckZJajJ3c2x2Xzk0S2hRalA4SVJOYkhKYlBsMXRBTDhpTHNsUGFCR2M0d0ti?oc=5",
+   "description": "",
+   "pubDate": "2026-11-27T21:12:02+00:00",
+   "source": "RMC Sport",
+   "raciste": true
+  },
+  {
+   "title": "Ligue 1 : Le programme de la 12e journée avec le choc LYON - MONACO",
+   "link": "https://fr.news.yahoo.com/sport/ligue-1-programme-12e-journ%C3%A9e-121157982.html",
+   "description": "Ligue 1 : Le programme de la 12e journée avec le choc LYON - MONACO ... Le retour du patron de Nvidia ravive les critiques sur le sexisme dans la tech.",
+   "pubDate": "2026-11-27T20:03:41+00:00",
+   "source": "fr.news.yahoo.com",
+   "raciste": false
+  },
+  {
+   "title": "Victimes de commentaires racistes, Martial Godo reçoit le soutien du Racing Club de Strasbourg",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUVkRVFNWGVRUF9CcTBtYVJDZ1h3TzdwOUlqYWdhbEFUcDdObXhjVjBFRVlwTzl0Rno4b2ZfU2pTOVd3aUdnRkdfNDF3eTM0OUtrdF94NDNSbnRsa0NRU0h1OVg0UllMeWFMNEFUZzl0QkxfUzZMQ3FWcDJ3dGVUb3F6US1HMF9la29fMlZ0MVN4UmJ3MlJkdmVscmx5bFB3Q0YwZHg0aXZtVjMwNDczZ2FpUHQweTN2dnZGVWMtVjhrRWpOam5pXw?oc=5",
+   "description": "",
+   "pubDate": "2026-11-27T17:02:00+00:00",
+   "source": "Mondialsport.ci",
+   "raciste": true
+  },
+  {
+   "title": "Foot amateur : insulte raciste et bagarre générale en 2025, quatre joueurs condamnés à une amende",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeXo4ak9qR0lKTjhKUk15TFNxWDRYNC00cTh6aEhoaVJSUTVBRlpJT0RoNlNzcWpONVJuOHE2Y1pfMWZQb080UGV4amVlam1fY0tMRGYwc2pGYVVLMF9UVTVPMlZzWFl1dEdOYnhkQk16aDAtcXk2Ui1ObDlUcE5acFlodkhxTjRhWF9RWVhpVUFrWFZWcG16Z0R4S1V0ZF9iWUR2ajZ1WktIbEo5bjNPNmg3aWFTMGVlVlNfUFlUN2NqMnZpaWxNZ1BnbFlxa2JCczZFWm5aTHpQYzB5aTdaRVVINVlBcm1Ld295ekVR?oc=5",
+   "description": "",
+   "pubDate": "2026-11-27T15:00:00+00:00",
+   "source": "Foot National",
+   "raciste": true
+  },
+  {
+   "title": "\"Ils ont provoqué en faisant des signes nazis, des cris racistes\" : des supporters marseillais reviennent sur les violences survenues lors du match OM - Levski Sofia",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPUXk2SWs5dkVzdEZfUXVfVEhkdFV6b3N0YmxJZ1g5OEhVM2VJWFZVQThwNG1IZ0RkMW9kcndreTlZSkw1VThRVWs0S21WQ0F2SUlLYWRKZmpTWHQySEpRdlF1SXhZVWI0QzA3Y0ZhQW5jLWs1Nkh1RjU3RjRQTEdHYjdmdXp3aWZPZTljQ2RTWlRNM1lwbkpNMVpPSnFKQTF6cVFTMEI2cHR4VkY1REkwYW5LbjZFT003LW1JaFlDOS02MGt6ME5vZnlua25OX0hEUG9ITkU2cVhlaDBodUctY0Fwa21CQkNTSGZjUkd3dXhQN1pXSmIzZnhQU3dZYkZfWlphQWxkTmlsWW1mUDRZZ2FfZTVhTm9xSUV2SDJFeUI3enNRMDJ0elFKRHNFcTZaVVdNY252ZGdmTm5ZRU8zWkNhbWtJSDQ?oc=5",
+   "description": "",
+   "pubDate": "2026-11-27T14:50:41+00:00",
+   "source": "franceinfo",
+   "raciste": true
+  },
+  {
+   "title": "Propos racistes : le FC Pays de Buch dément, la mairie et le District de Gironde réagissent",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZ2FBQ2FCWFNubFNRbTd2YXpVaXhKWk5LTEx3aW1pUVA1UFE3UnZEUUlYWk1LUkVaazV6S21vZkY5ay1fblprcWR0Vm9IT3A2cDRBWGJDTy16VnRUUFgzWTQ0eGwxMTJESHZkWmM3NW9SdTM3NV9RWkFKVTJVM1l0NzNMTmh3d0x1a3h3Rkk5RWdwbG9KMXEyVUZCNjZXM3dnSmdfUVNNbGVCUkpKaGhZbk1sc0dlQ1dJbVIydmxfZDlXRTlEb1lWNjlWX1ZQanR5TGJsaW00eGxpWGhDUnJtX3RTNkx0em51ekZOZjluVnY?oc=5",
+   "description": "",
+   "pubDate": "2026-11-27T14:33:19+00:00",
+   "source": "La Dépêche du Bassin",
+   "raciste": true
+  },
   {
    "title": "\"Stop au racisme\" : la réponse forte du club de football d’Oyré-Dangé après l’affaire des propos racistes d’un spectateur dans son stade",
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNOFlNQUN1aHNrbWNxMlhxdG11a3Uxc0dXczBsVzdFTmRFTjRDUUJPeTRxTDFvZHdKWVdsNTJTaHdQMjNGZDdpY3ROSE5wUjBtRkFoWXM0OFN5S3JoOTE5YUdveE1OSTN5ZWJfNlVzVmZSR2ZpM1pCNjJVZ0lUeWUxekFIQU9ieW1panV4bEVFUDFBazRLTTZOMHlpOWY5dFFxcWZrUGdnbGVLNmRtT01uMXdWYTJXNHJ1NUJrZU9aNkcxOVNRTHBFZEZqVDNkdTlYd3pjTWhFYmJ6S1dZVlk0RHBVcHp2ZkJ1N1BPajR4X0UyZzhaUUVkQmJQbW45TDFuTFpJXzBRTkczbWh3THBBbVhGT1dueGNSbnFMVWNB?oc=5",
@@ -85,7 +133,7 @@
   },
   {
    "title": "Cris de singe, saluts nazis et plus : Des supporters de l'AS Roma filmés en train d'adopter des comportements racistes à l'encontre des fans parisiens",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEVXalFmMkRiTXRsUU1WNFVMSXJPbHJBODBGUU1VN3lPMFFJLXJuRWtydC1ZZXU4NU01LTNGcUNseE50NGYxYjB0VVVKaVdYSlhiODBmWUh3YVVuWEtNWjNPSVIzTUFwSnFLRlhjZDZ6THNMNmhTUGFUbnVOR2s0TEhJOG1acW5rdm8taTQ5dFU3ODB30gGaAUFVX3lxTFBzczA3X3JyWTZUekVIWUt4bFBGSzZkTFp4VXpiNjJzdjVsWENENlVkNzZudXpWUXRuWlZGdVBOSWhOaWpYYjB2WmQwV2J6emc3SjdRcU5ZbmdqTTZWS3J6TGpBZXpFZ3RyQnRhUmc5d1UwQV9HMnlvbjlfRzI4TTNzLTM5QTg2aTVwNzJvcHlDbnpJZkdSem45OWc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc3MwN19yclk2VHpFSFlLeGxQRks2ZExaeFV6YjYyc3Y1bFhDRDZVZDc2bnV6VlF0blpWRnVQTkloTmlqWGIwdlpkMFdienpnN0o3UXFOWW5nak02VktyekxqQWV6RWd0ckJ0YVJnOXdVMEFfRzJ5b245X0cyOE0zcy0zOUE4Nmk1cDcyb3B5Q256SWZHUnpuOTln0gGaAUFVX3lxTFBzczA3X3JyWTZUekVIWUt4bFBGSzZkTFp4VXpiNjJzdjVsWENENlVkNzZudXpWUXRuWlZGdVBOSWhOaWpYYjB2WmQwV2J6emc3SjdRcU5ZbmdqTTZWS3J6TGpBZXpFZ3RyQnRhUmc5d1UwQV9HMnlvbjlfRzI4TTNzLTM5QTg2aTVwNzJvcHlDbnpJZkdSem45OWc?oc=5",
    "description": "",
    "pubDate": "2026-11-26T09:23:00+00:00",
    "source": "Tribuna.com",

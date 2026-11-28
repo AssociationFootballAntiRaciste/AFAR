@@ -1,7 +1,7 @@
 {
- "maj": "2026-11-27T23:27:46+00:00",
+ "maj": "2026-11-28T07:49:12+00:00",
  "date_depart": "2026-01-01",
- "compteur_racisme": 403,
+ "compteur_racisme": 404,
  "incidents": [
   {
    "title": "OM 1-0 Levski : \"Saluts nazis et cris de singe\" un supporter marseillais raconte l'origine des incidents",
@@ -40,7 +40,7 @@
    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPUXk2SWs5dkVzdEZfUXVfVEhkdFV6b3N0YmxJZ1g5OEhVM2VJWFZVQThwNG1IZ0RkMW9kcndreTlZSkw1VThRVWs0S21WQ0F2SUlLYWRKZmpTWHQySEpRdlF1SXhZVWI0QzA3Y0ZhQW5jLWs1Nkh1RjU3RjRQTEdHYjdmdXp3aWZPZTljQ2RTWlRNM1lwbkpNMVpPSnFKQTF6cVFTMEI2cHR4VkY1REkwYW5LbjZFT003LW1JaFlDOS02MGt6ME5vZnlua25OX0hEUG9ITkU2cVhlaDBodUctY0Fwa21CQkNTSGZjUkd3dXhQN1pXSmIzZnhQU3dZYkZfWlphQWxkTmlsWW1mUDRZZ2FfZTVhTm9xSUV2SDJFeUI3enNRMDJ0elFKRHNFcTZaVVdNY252ZGdmTm5ZRU8zWkNhbWtJSDQ?oc=5",
    "description": "",
    "pubDate": "2026-11-27T14:50:41+00:00",
-   "source": "franceinfo",
+   "source": "Franceinfo",
    "raciste": true
   },
   {
@@ -580,20 +580,20 @@
    "raciste": false
   },
   {
+   "title": "Fouilles inappropriées et agressions en tribunes : quand les stades de foot deviennent le lieu de violences sexistes et sexuelles",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY2tWbWV3eGx0RXJ2VWduQTNCb19iRDA4bTFJMTF4WjNUclVBQTN6RDhKQklGSUZFd1dZSU5nSk04OTJ5VVVUUnFJVHZhOWtqdWszaTE2WloyNElwcWtvRTE3UDhFdUdqOFNSSGs2RjZyVENSa0ZLX1dxZnQzRVBZSmo1cS1DYmN4NFE2aE5ob0pBSUdsTFBPS1BCNnFQWFpGdmtTN3l5cUtzTmZheXhUQWRqT3ljX2ZlQ2syRUFhRlVHdlNoQngybXU1R0w5cmRJVUZSSWNiUFRlMmtsWWRoZVQyUTlRTGlTa1FKRkZsbF9rYmI4OHNLeGVua0JCRXdlM2dGc29IWjhBVTdTOXBoOFlkcWI?oc=5",
+   "description": "",
+   "pubDate": "2026-11-18T08:00:00+00:00",
+   "source": "L'Équipe",
+   "raciste": false
+  },
+  {
    "title": "La Fédération indienne de football accuse un joueur palestinien U17 de racisme et saisit l'AFC",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFdjV29TclFKdllKeUg4UlFMSjkxMmtfaGl6djQtNWtTd25CdmdvODlXakI3S3B0T082Y2Q0X0gtTlJSVG96Yy1oWG9hengwT09ZdG96Y1lpOUNOUjN0OHc0SjNOSWdxeDZpYVJZUWJhMHItWC1SWW9JY0pSNWdxOGQ5Q1RvLU9XU3lmaGtKVFFnMlBZODE4?oc=5",
    "description": "",
    "pubDate": "2026-11-18T07:10:44+00:00",
    "source": "AllFootball",
    "raciste": true
-  },
-  {
-   "title": "Fouilles inappropriées et agressions en tribunes : quand les stades de foot deviennent le lieu de violences sexistes et sexuelles",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY2tWbWV3eGx0RXJ2VWduQTNCb19iRDA4bTFJMTF4WjNUclVBQTN6RDhKQklGSUZFd1dZSU5nSk04OTJ5VVVUUnFJVHZhOWtqdWszaTE2WloyNElwcWtvRTE3UDhFdUdqOFNSSGs2RjZyVENSa0ZLX1dxZnQzRVBZSmo1cS1DYmN4NFE2aE5ob0pBSUdsTFBPS1BCNnFQWFpGdmtTN3l5cUtzTmZheXhUQWRqT3ljX2ZlQ2syRUFhRlVHdlNoQngybXU1R0w5cmRJVUZSSWNiUFRlMmtsWWRoZVQyUTlRTGlTa1FKRkZsbF9rYmI4OHNLeGVua0JCRXdlM2dGc29IWjhBVTdTOXBoOFlkcWI?oc=5",
-   "description": "",
-   "pubDate": "2026-11-18T04:26:00+00:00",
-   "source": "L'Équipe",
-   "raciste": false
   },
   {
    "title": "[Podcasts] Violences sexistes et sexuelles dans le football, un traitement trop laxiste ? Mejdaline Mhiri, co-autrice du livre \"La zone d'impunité\" invitée de l'After – 17/11",
@@ -1097,6 +1097,14 @@
    "description": "",
    "pubDate": "2026-11-11T08:00:00+00:00",
    "source": "Foot National",
+   "raciste": true
+  },
+  {
+   "title": "TÉMOIGNAGES. Après les incidents lors d'un match amateur dans le Tarn, le président de l'US Carmaux annonce qu'il va porter plainte pour des insultes racistes",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUVhkVC04N2x5U2ZlUE5HUXZBOFVuOS11b0ZoZU1iUEtRU2dxVEV5bl8yOFRtbUJURVgxdGRZMGljdUN3anhrTmxLdXZ3U0hCZnJ5alZCNDg5T3ltVm1yekw2aHRpYlRKTWFqUDlGTWdrSDJibU1EMkNkc0NjS1ctVFZpUUpaYmxjVEVHRU5fYlQtMmpJVjRkdDVVU3VtQi1GX1RpZ3pGSWlFcVI2TWloVzcwdGRxLVQ5MVRUR1MyV3dGOXJkcHhnS1Z4VkxreEtNYi0zWERkSkZVNlpGS09QekgxcUFodzk0QWZpeEY4UlZSY0dmcXhFczAwbGU1eFFhazdYVEQxQVdBcTF0SERZeEs0ZlRHWGVEaURrQWRn?oc=5",
+   "description": "",
+   "pubDate": "2026-11-11T08:00:00+00:00",
+   "source": "ladepeche.fr",
    "raciste": true
   },
   {
